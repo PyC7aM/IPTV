@@ -1,0 +1,1315 @@
+#EXTM3U
+
+# Nos
+
+#EXTINF:-1 tvg-id="10kanal-novokuzneck" group-title="Regional", 10 канал Новокузнецк
+http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="12-omsk" group-title="Regional", 12 канал Омск
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD
+https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
+
+#EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
+
+
+#EXTINF:-1 tvg-id="360-news" group-title="News", 360° Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+
+#EXTINF:-1 tvg-id="360-podmoskovie" group-title="Regional", 360° Подмосковье
+
+
+#EXTINF:-1 tvg-id="360-tunebox" group-title="Music", 360TuneBox
+
+
+#EXTINF:-1 tvg-id="365-dnej" group-title="", 365 дней ТВ
+
+
+#EXTINF:-1 tvg-id="9kanal-israel" group-title="", 9 канал Израиль
+
+
+# A
+
+#EXTINF:-1 tvg-id="amedia1" group-title="Movies", A1
+http://31.148.48.15/A1/index.m3u8
+
+#EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
+http://ott-cdn.ucom.am/s33/index.m3u8
+
+#EXTINF:-1 tvg-id="aiva" group-title="Music", AIVA
+
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Akudji
+https://hls.goodgame.ru/hls/5346.m3u8
+
+#EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", Amedia Hit
+http://stream01.vnet.am/Nauka/mono.m3u8
+
+#EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", Amedia Premium
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+
+#EXTINF:-1 tvg-id="amc" group-title="", AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="ani" group-title="Kids", Ani
+
+
+#EXTINF:-1 tvg-id="animal-planet-eu" group-title="", Animal Planet
+http://45.159.74.14:80/AnimalPlanet/tracks-v1a2/mono.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
+http://ott-cdn.ucom.am/s66/04.m3u8
+
+#EXTINF:-1 tvg-id="atv-filmzone" group-title="Movies", ATV Filmzone
+http://ott-cdn.ucom.am/s48/04.m3u8
+
+#EXTINF:-1 tvg-id="atv-kinoman" group-title="Movies", ATV Kinoman
+http://stream02.vnet.am/Kinoman/mono.m3u8
+
+# B
+
+#EXTINF:-1 tvg-id="baby-time" group-title="Kids", Baby Time
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+
+#EXTINF:-1 tvg-id="baby-tv" group-title="Kids", Baby TV
+
+
+#EXTINF:-1 tvg-id="backustv" group-title="Movies", BackusTV
+
+
+#EXTINF:-1 tvg-id="backustv-horror" group-title="Movies", BackusTV Dark
+
+
+#EXTINF:-1 tvg-id="backustv-music" group-title="Music", BackusTV Music
+
+
+#EXTINF:-1 tvg-id="bbc" group-title="News", BBC
+
+
+#EXTINF:-1 tvg-id="bbc-america" group-title="Entertainment", BBC America
+http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc-world-news" group-title="News", BBC World News
+http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="bloomberg" group-title="", Bloomberg
+http://fl2.moveonjoy.com/BLOOMBERG/index.m3u8
+
+#EXTINF:-1 tvg-id="bollywood-hd" group-title="Movies", Bollywood
+
+
+#EXTINF:-1 tvg-id="bolt" group-title="", Bolt
+
+
+#EXTINF:-1 tvg-id="bravo" group-title="Entertainment", Bravo
+https://fl2.moveonjoy.com/BRAVO/index.m3u8
+
+#EXTINF:-1 tvg-id="bridge-tv" group-title="Music", Bridge TV
+https://livetv.mylifeisgood.net.ru/channels/bridgetv24h
+
+#EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Music", Bridge TV Classic
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv
+
+#EXTINF:-1 tvg-id="bridge-hd" group-title="Music", Bridge TV Deluxe
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv
+
+#EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Music", Bridge TV Hits
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstv
+
+#EXTINF:-1 tvg-id="bridge-tv-fresh" group-title="Music", Bridge TV Rock
+
+
+#EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Music", Bridge TV Русский хит
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv
+
+#EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Music", Bridge TV Шлягер
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager
+
+# C
+
+#EXTINF:-1 tvg-id="cartoon-network" group-title="Kids", Cartoon Network
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="cbs-reality" group-title="Entertainment", CBS Reality
+
+
+#EXTINF:-1 tvg-id="cbs-sports-network" group-title="Sport", CBS Sports Network
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
+
+
+#EXTINF:-1 tvg-id="cineman" group-title="Movies", CineMan
+
+
+#EXTINF:-1 tvg-id="cineman-action" group-title="Movies", CineMan Action
+
+
+#EXTINF:-1 tvg-id="cineman-marvel" group-title="Movies", CineMan Marvel
+
+
+#EXTINF:-1 tvg-id="cineman-melodrama" group-title="Movies", CineMan Melodrama
+
+
+#EXTINF:-1 tvg-id="cineman-premium" group-title="Movies", CineMan Premium
+
+
+#EXTINF:-1 tvg-id="cineman-thriller" group-title="Movies", CineMan Thriller
+
+
+#EXTINF:-1 tvg-id="cineman-top" group-title="Movies", CineMan Top
+
+
+#EXTINF:-1 tvg-id="cineman-vhs" group-title="Movies", CineMan VHS
+
+
+#EXTINF:-1 tvg-id="cineman-katastrofy" group-title="Movies", CineMan Катастрофы
+
+
+#EXTINF:-1 tvg-id="cineman-comedy" group-title="Movies", CineMan Комедия
+
+
+#EXTINF:-1 tvg-id="cineman-lesnik" group-title="Movies", CineMan Лесник
+
+
+#EXTINF:-1 tvg-id="cineman-musw" group-title="Movies", CineMan Ментовские войны
+
+
+#EXTINF:-1 tvg-id="cineman-pes" group-title="Movies", CineMan ПёС
+
+
+#EXTINF:-1 tvg-id="cineman-rukino" group-title="Movies", CineMan РуКино
+
+
+#EXTINF:-1 tvg-id="cineman-svaty" group-title="Movies", CineMan Сваты
+
+
+#EXTINF:-1 tvg-id="cineman-simps" group-title="Cartoon", CineMan Симпсоны
+
+
+#EXTINF:-1 tvg-id="cineman-skorpom" group-title="Movies", CineMan Скорая помощь
+
+
+#EXTINF:-1 tvg-id="cineman-uzhasy" group-title="Movies", CineMan Ужасы
+
+
+#EXTINF:-1 tvg-id="cinemax" group-title="Movies", Cinemax
+
+
+#EXTINF:-1 tvg-id="clarity" group-title="Movies", Clarity
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="clubbing-tv" group-title="Music", Clubbing TV
+
+
+#EXTINF:-1 tvg-id="cnn" group-title="News", CNN
+http://fl2.moveonjoy.com/CNN/index.m3u8
+
+#EXTINF:-1 tvg-id="ComedyCentral" group-title="Entertainment", Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+# D
+
+#EXTINF:-1 tvg-id="da-vinci" group-title="Kids", Da Vinci Learning
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Deep House District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="deutsche-welle-eu" group-title="News", Deutsche Welle Europe
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel-ce" group-title="", Discovery Channel
+
+
+#EXTINF:-1 tvg-id="discovery-science" group-title="", Discovery Science
+
+
+#EXTINF:-1 tvg-id="disney" group-title="Kids", Disney
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="disney-channel-se" group-title="Kids", Disney SE
+
+#EXTINF:-1 tvg-id="disney-xd" group-title="Kids", Disney XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="dtx" group-title="", DTX
+
+
+# E
+
+#EXTINF:-1 tvg-id="epik-drama" group-title="Movies", Epic Drama
+
+
+#EXTINF:-1 tvg-id="euronews-en" group-title="News", Euronews (английский)
+
+
+#EXTINF:-1 tvg-id="euronews" group-title="News", EuroNews
+
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Sport", Eurosport 1
+https://livetv.mylifeisgood.net.ru/channels/eurosport1ru
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Sport", Eurosport 2
+https://livetv.mylifeisgood.net.ru/channels/eurosport2
+
+# F
+
+#EXTINF:-1 tvg-id="fanhd" group-title="Movies", FAN HD
+
+
+#EXTINF:-1 tvg-id="freeform" group-title="Movies", FreeForm
+http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+
+#EXTINF:-1 tvg-id="fox" group-title="Movies", FX
+https://stream01.vnet.am/Fox/mono.m3u8
+
+#EXTINF:-1 tvg-id="fox" group-title="Movies", FXX
+https://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", FantasticMystiC 
+https://hls.goodgame.ru/hls/187741.m3u8
+
+#EXTINF:-1 tvg-id="fashion-tv" group-title="Lifestyle", Fashion TV
+http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+
+#EXTINF:-1 tvg-id="fashionbox-hd" group-title="Lifestyle", FashionBOX
+
+
+#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Sport", Fast&FunBox
+http://ott-cdn.ucom.am/s79/index.m3u8
+
+#EXTINF:-1 tvg-id="fightbox-hd" group-title="", Fightbox HD
+http://stream01.vnet.am/Fightbox/mono.m3u8
+
+#EXTINF:-1 tvg-id="filmbox-arthouse" group-title="", FilmBox ArtHouse
+
+
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="", FilmBox Russia
+
+
+#EXTINF:-1 tvg-id="food-network" group-title="", Food Network
+
+
+#EXTINF:-1 tvg-id="fox" group-title="", Fox
+
+
+#EXTINF:-1 tvg-id="no_epg" group-title="", Fox Comedy
+
+
+#EXTINF:-1 tvg-id="foxlife" group-title="", Fox Life
+
+
+#EXTINF:-1 tvg-id="foxlife-cis" group-title="", FoxLife Украина
+
+
+#EXTINF:-1 tvg-id="france24-en" group-title="News", France 24 English
+
+
+# G
+
+#EXTINF:-1 tvg-id="galaxy-tv" group-title="", Galaxy-TV
+
+
+#EXTINF:-1 tvg-id="gulli-girl" group-title="Kids", Gulli
+
+
+# H
+
+#EXTINF:-1 tvg-id="h2" group-title="", H2
+
+
+#EXTINF:-1 tvg-id="hbo-hd" group-title="Movies", HBO
+http://41.205.93.154/HBO/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo2-hd" group-title="Movies", HBO 2
+https://fl5.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="hbo3-hd" group-title="Movies", HBO 3
+
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Family
+
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Plus
+
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Signature
+
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", HBO Xtreme
+
+
+#EXTINF:-1 tvg-id="hd-life" group-title="", HD Life
+https://livetv.mylifeisgood.net.ru/channels/hdlife.m3u8
+
+#EXTINF:-1 tvg-id="history-ru" group-title="", History
+
+
+#EXTINF:-1 tvg-id="hollywood" group-title="", Hollywood
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+# I
+
+#EXTINF:-1 tvg-id="id-xtra-eu" group-title="", ID Xtra EU
+http://45.159.74.14:80/InvestigationDiscovery/tracks-v1a2/mono.m3u8
+
+# J
+
+# K
+
+#EXTINF:-1 tvg-id="kino-24" group-title="Movies", Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+# L
+
+# M
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV
+https://fl2.moveonjoy.com/MTV/index.m3u8
+
+#EXTINF:-1 tvg-id="vh1-european" group-title="Music", MTV 00s
+
+
+#EXTINF:-1 tvg-id="vh1-classic" group-title="Music", MTV 80s
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Biggest Pop
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Block Party
+
+
+#EXTINF:-1 tvg-id="mtv-dance" group-title="Music", MTV Dance
+
+
+#EXTINF:-1 tvg-id="mtv-hits" group-title="Music", MTV Hits
+
+
+#EXTINF:-1 tvg-id="mtv-live-hd" group-title="Music", MTV Live
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-id="mtv-rocks" group-title="Music", MTV Rocks
+
+
+#EXTINF:-1 tvg-id="mtv-russia" group-title="Music", MTV Russia
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Spanking New
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV Yo!
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Music Plus
+
+
+#EXTINF:-1 tvg-id="musicbox" group-title="Music", MusicBox Gold
+
+
+# N
+
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
+http://45.159.74.13:80/NatGeoWild/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Kids", Nickelodeon
+
+
+#EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Kids", Nickelodeon HD
+
+
+#EXTINF:-1 tvg-id="nicktoons" group-title="Kids", Nicktoons
+https://stream01.vnet.am/Boomerang/mono.m3u8
+
+# O
+
+#EXTINF:-1 tvg-id="oceon-tv" group-title="", Ocean TV
+
+
+#EXTINF:-1 tvg-id="ostwest" group-title="", OstWest
+
+
+# P
+
+#EXTINF:-1 tvg-id="paramount-channel" group-title="", Paramount Channel
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="paramount-comedy" group-title="", Paramount Comedy
+
+
+#EXTINF:-1 tvg-id="plan-b" group-title="", Plan B
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Portal FoxMix TV
+
+
+# Q
+
+# R
+
+#EXTINF:-1 tvg-id="rtd-en" group-title="", RT Д English
+
+
+#EXTINF:-1 tvg-id="rtd-ru" group-title="", RT Д Русский
+https://hls.rt.com/hls/rtdru.m3u8
+
+#EXTINF:-1 tvg-id="rtg-hd" group-title="Travel & Tourism", RTG HD 
+
+
+#EXTINF:-1 tvg-id="rtg-tv" group-title="Travel & Tourism", RTG TV
+
+
+#EXTINF:-1 tvg-id="rtvi" group-title="", RTVi
+
+
+#EXTINF:-1 tvg-id="rutv" group-title="Music", RU.TV
+
+
+#EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", Russian MusicBox
+
+
+# S
+
+#EXTINF:-1 tvg-id="setanta-sports" group-title="Sport", Setanta Sports
+
+
+#EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Sport", Setanta Sports+
+
+
+#EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
+
+
+#EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
+
+
+#EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
+
+
+#EXTINF:-1 tvg-id="star-family-ua" group-title="", Star Family Украина
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Alternative HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Classic Rock HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Classica HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Exitos Del Momento HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Flashback 70S HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Greatest Hits HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Hip-Hop/R&B HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Hit List HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Hot Country HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Jazz HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Karaoke HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Pop Adult HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Qello TV HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Remember The 80S HD
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Soul Storm STORM HD
+
+
+#EXTINF:-1 tvg-id="syfy" group-title="Entertainment", SYFY
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+
+# T
+
+#EXTINF:-1 tvg-id="tbs" group-title="Entertainment", TBS
+http://143.244.60.30/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt" group-title="Entertainment", TNT
+https://fl2.moveonjoy.com/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
+
+
+#EXTINF:-1 tvg-id="tlc" group-title="", TLC
+http://fl2.moveonjoy.com/TLC/index.m3u8
+
+#EXTINF:-1 tvg-id="trashtv" group-title="Movies", Trash
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+
+#EXTINF:-1 tvg-id="travel-channel" group-title="Travel & Tourism", Travel Channel
+
+
+#EXTINF:-1 tvg-id="travel-adventure" group-title="Travel & Tourism", Travel+Adventure
+
+
+#EXTINF:-1 tvg-id="truTV" group-title="Entertainment", truTV
+http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
+
+
+#EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
+
+
+#EXTINF:-1 tvg-id="tv1000-action-cee" group-title="Movies", TV1000 Action CEE
+
+
+#EXTINF:-1 tvg-id="tv1000-worldkino" group-title="Movies", TV1000 World Kino
+
+
+#EXTINF:-1 tvg-id="tvmchannel" group-title="", TVMChannel
+
+
+#EXTINF:-1 tvg-id="sovsec" group-title="", Top Secret
+
+
+# U
+
+#EXTINF:-1 tvg-id="ufc" group-title="Sport", UFC ТВ
+
+
+#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="Movies", Ultra HD Cinema
+
+
+# V
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", VH1
+
+
+#EXTINF:-1 tvg-id="vip-comedy-cee" group-title="Movies", ViP Comedy CEE
+
+
+#EXTINF:-1 tvg-id="vip-megahit-cee" group-title="Movies", ViP Megahit CEE
+
+
+#EXTINF:-1 tvg-id="vip-premiere-cee" group-title="Movies", ViP Premiere CEE
+
+
+#EXTINF:-1 tvg-id="viasat-explore" group-title="", Viju Explore
+
+
+#EXTINF:-1 tvg-id="viasat-history" group-title="", Viju History
+https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Nature", Viju Nature
+http://91.205.199.3/viasatnature/index.m3u8
+
+#EXTINF:-1 tvg-id="tv1000" group-title="Movies", Viju TV1000
+https://stream2.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", Viju TV1000 Action
+
+
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", Viju TV1000 Русское
+https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", Viju+ Comedy
+
+
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", Viju+ Megahit
+
+
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Nature", Viju+ Planet
+https://livetv.mylifeisgood.net.ru/channels/viasatnaturehistory.m3u8
+
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", Viju+ Premiere
+
+
+#EXTINF:-1 tvg-id="vip-serial" group-title="Movies", Viju+ Serial
+
+
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viju+ Sport
+https://stream2.cinerama.uz/1229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
+
+
+# W
+
+# X
+
+# Y
+
+# Z
+
+#EXTINF:-1 tvg-id="zoopark" group-title="", ZooПарк
+
+
+# А
+
+#EXTINF:-1 tvg-id="avto-plus" group-title="", Авто Плюс
+
+
+#EXTINF:-1 tvg-id="avto24" group-title="", Авто24
+
+
+#EXTINF:-1 tvg-id="anekdottv" group-title="", Анекдот ТВ
+
+
+#EXTINF:-1 tvg-id="arsenaltv" group-title="", Арсенал
+http://ott-cdn.ucom.am/s68/index.m3u8
+
+# Б
+
+#EXTINF:-1 tvg-id="bobior" group-title="", Бобёр
+
+
+#EXTINF:-1 tvg-id="box-tv" group-title="Sport", Бокс ТВ
+
+
+# В
+
+#EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="Kids", В гостях у сказки
+
+
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="", В мире животных HD
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ВИДЕО КАССЕТА
+https://v2.catcast.tv/content/37925/index.m3u8
+
+# Г
+
+#EXTINF:-1 tvg-id="glazami-turista" group-title="", Глазами Туриста
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista
+
+# Д
+
+#EXTINF:-1 tvg-id="detsky" group-title="Kids", Детский
+
+
+#EXTINF:-1 tvg-id="detsky-mir" group-title="Kids", Детский мир
+http://ott-cdn.ucom.am/s58/index.m3u8
+
+#EXTINF:-1 tvg-id="detkinoint-tviksel" group-title="Kids", Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+
+#EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Sport", Диалоги о рыбалке
+
+
+#EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Sport", Дикая охота HD
+
+
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Sport", Дикая рыбалка HD
+
+
+#EXTINF:-1 tvg-id="dikiy" group-title="", Дикий
+
+
+#EXTINF:-1 tvg-id="dozhd" group-title="News", Дождь
+https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="doktor" group-title="", Доктор
+
+
+#EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
+https://stream01.vnet.am/DomKino/mono.m3u8
+
+#EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино премиум HD
+
+
+#EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="", Домашние животные
+
+
+#EXTINF:-1 tvg-id="domashny" group-title="", Домашний
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+
+#EXTINF:-1 tvg-id="drive" group-title="", Драйв
+
+
+#EXTINF:-1 tvg-id="dushevnoe" group-title="", Душевное
+
+
+# Е
+
+#EXTINF:-1 tvg-id="evrokino" group-title="Movies", Еврокино
+
+
+#EXTINF:-1 tvg-id="eda-hd" group-title="", Еда Премиум
+http://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
+
+#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Music", Европа Плюс ТВ
+https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
+
+#EXTINF:-1 tvg-id="enisey-region" group-title="Regional", Енисей регион
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+
+# Ё
+
+# Ж
+
+#EXTINF:-1 tvg-id="zhara" group-title="Music", Жара
+
+
+#EXTINF:-1 tvg-id="zhara" group-title="Music", Жара Kids TV
+http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+
+# З
+
+#EXTINF:-1 tvg-id="zagorodny-int" group-title="", Загородный International
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+
+#EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="", Загородная жизнь
+
+
+#EXTINF:-1 tvg-id="zvezda" group-title="Movies", Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zootv" group-title="", Зоо ТВ
+http://ott-cdn.ucom.am/s92/index.m3u8
+
+# И
+
+#EXTINF:-1 tvg-id="izvestia" group-title="News", Известия
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+
+#EXTINF:-1 tvg-id="illuzion-plus" group-title="Movies", Иллюзион +
+
+
+#EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
+
+
+#EXTINF:-1 tvg-id="istoria" group-title="", История
+http://ott-cdn.ucom.am/s40/index.m3u8
+
+# Й
+
+# К
+
+#EXTINF:-1 tvg-id="kvn-tv" group-title="Entertainment", КВН ТВ
+
+
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", КХЛ HD
+
+
+#EXTINF:-1 tvg-id="kxl" group-title="Sport", КХЛ ТВ
+
+
+#EXTINF:-1 tvg-id="no_epg" group-title="Religion", Каббала ТВ
+https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kaleydoskop-tv" group-title="", Калейдоскоп ТВ
+
+
+#EXTINF:-1 tvg-id="ginger-hd" group-title="Kids", Капитан Фантастика
+
+
+#EXTINF:-1 tvg-id="karapuz-tv" group-title="Kids", Карапуз ТВ
+
+
+#EXTINF:-1 tvg-id="karusel" group-title="Kids", Карусель
+https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
+
+#EXTINF:-1 tvg-id="kvartal-tv" group-title="Entertainment", Квартал ТВ
+
+
+#EXTINF:-1 tvg-id="kino1int-tviksel" group-title="Movies", Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-ultra-hd" group-title="Movies", Кино UHD
+
+
+#EXTINF:-1 tvg-id="kino-tv" group-title="Movies", КиноТВ
+https://livetv.mylifeisgood.net.ru/channels/kinotvst.m3u8
+
+#EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
+http://livetv.mylifeisgood.net.ru/channels/kinokomedia.m3u8
+
+#EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
+http://livetv.mylifeisgood.net.ru/channels/kinomix.m3u8
+
+#EXTINF:-1 tvg-id="kinopokaz" group-title="Movies", Кинопоказ
+
+
+#EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+
+#EXTINF:-1 tvg-id="kinosvidanie" group-title="Movies", Киносвидание
+
+
+#EXTINF:-1 tvg-id="kinosemiya" group-title="Movies", Киносемья
+
+
+#EXTINF:-1 tvg-id="kinoseria" group-title="Movies", Киносерия
+
+
+#EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
+
+
+#EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
+
+
+#EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
+http://45.159.74.13:80/Kinokhit/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="komedijnoe-hd" group-title="", Комедийное HD
+
+
+#EXTINF:-1 tvg-id="russkaya-komedia" group-title="", Комедия
+
+
+#EXTINF:-1 tvg-id="konny-mir" group-title="Sport", Конный мир
+
+
+#EXTINF:-1 tvg-id="kuxnia-tv" group-title="", Кухня ТВ
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+
+# Л
+
+#EXTINF:-1 tvg-id="nashe-lubimoe" group-title="Movies", Любимое
+
+
+#EXTINF:-1 tvg-id="lubimoe-kino" group-title="Movies", Любимое кино
+
+
+#EXTINF:-1 tvg-id="la-minor" group-title="Music", Ля-минор
+
+
+# М
+
+#EXTINF:-1 tvg-id="m1-ua" group-title="Music", М1
+
+
+#EXTINF:-1 tvg-id="m2-ua" group-title="Music", М2
+http://live.m2.tv/hls3/720/stream.m3u8
+
+#EXTINF:-1 tvg-id="mama" group-title="Kids", Мама
+
+
+#EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
+http://livetv.mylifeisgood.net.ru/channels/matchhd_nocensored.m3u8
+
+#EXTINF:-1 tvg-id="match-arena" group-title="Sport", Матч! Арена
+
+
+#EXTINF:-1 tvg-id="match-boets" group-title="Sport", Матч! Боец
+
+
+#EXTINF:-1 tvg-id="match-igra" group-title="Sport", Матч! Игра
+
+
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Sport", Матч! Наш спорт
+
+
+#EXTINF:-1 tvg-id="match-planeta" group-title="Sport", Матч! Планета
+https://livetv.mylifeisgood.net.ru/channels/matchplaneta.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер HD
+
+
+#EXTINF:-1 tvg-id="match-football1" group-title="Sport", Матч! Футбол 1
+
+
+#EXTINF:-1 tvg-id="match-football2" group-title="Sport", Матч! Футбол 2
+
+
+#EXTINF:-1 tvg-id="match-football3" group-title="Sport", Матч! Футбол 3
+
+
+#EXTINF:-1 tvg-id="millet" group-title="", Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+
+#EXTINF:-1 tvg-id="mir" group-title="", Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir-24" group-title="", Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mir-basketbola" group-title="Sport", Мир баскетбола
+
+
+#EXTINF:-1 tvg-id="mir-seriala" group-title="Movies", Мир сериала
+
+
+#EXTINF:-1 tvg-id="mosfilm" group-title="Movies", Мосфильм. Золотая коллекция
+
+
+#EXTINF:-1 tvg-id="motorsportv-tv" group-title="Sport", Моторспорт ТВ
+
+
+#EXTINF:-1 tvg-id="moya-planeta" group-title="", Моя Планета
+https://livetv.mylifeisgood.net.ru/channels/myplanet.m3u8
+
+#EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
+
+
+#EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Movies", Мужское кино
+
+
+#EXTINF:-1 tvg-id="muztv" group-title="Music", Муз-ТВ
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+
+#EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Music", Музыка Первого
+
+
+#EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
+http://livetv.mylifeisgood.net.ru/channels/mult.m3u8
+
+#EXTINF:-1 tvg-id="multimuzyka" group-title="Kids", Мульт и музыка
+
+
+#EXTINF:-1 tvg-id="multimania" group-title="Kids", Мультиландия
+
+
+# Н
+
+#EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
+http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+
+#EXTINF:-1 tvg-id="ntv" group-title="General", НТВ
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+
+#EXTINF:-1 tvg-id="ntv-mir" group-title="General", НТВ-Мир
+http://ott-cdn.ucom.am/s17/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv-pravo" group-title="", НТВ Право
+https://livetv.mylifeisgood.net.ru/channels/ntvpravo24
+
+#EXTINF:-1 tvg-id="ntv-serial" group-title="Movies", НТВ Сериал
+https://livetv.mylifeisgood.net.ru/channels/ntvserial24
+
+#EXTINF:-1 tvg-id="ntv-style" group-title="", НТВ Стиль
+https://livetv.mylifeisgood.net.ru/channels/ntvstyle24
+
+#EXTINF:-1 tvg-id="ntv-xit" group-title="Movies", НТВ-Хит
+https://livetv.mylifeisgood.net.ru/channels/ntvhit24
+
+#EXTINF:-1 tvg-id="ntm" group-title="Regional", НТМ
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nano-tv" group-title="", Нано
+
+
+#EXTINF:-1 tvg-id="nano-hd" group-title="", Нано HD
+
+
+#EXTINF:-1 tvg-id="nauka-20" group-title="", Наука 2.0
+
+
+#EXTINF:-1 tvg-id="nashehd" group-title="", Наше HD
+
+
+#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Movies", Наше новое кино
+
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Новое радио
+
+
+#EXTINF:-1 tvg-id="novy-mir" group-title="General", Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+
+# О
+
+#EXTINF:-1 tvg-id="o_" group-title="Kids", О!
+
+
+#EXTINF:-1 tvg-id="o2tv" group-title="Music", О2ТВ
+
+
+#EXTINF:-1 tvg-id="o-tv" group-title="Music", O-ТВ
+
+
+#EXTINF:-1 tvg-id="oruzhie" group-title="", Оружие
+https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
+
+#EXTINF:-1 tvg-id="ostrosiuzhetnoe-hd" group-title="Movies", Остросюжетное HD
+
+
+#EXTINF:-1 tvg-id="otr" group-title="", ОТР
+https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
+
+#EXTINF:-1 tvg-id="otkryty-mir" group-title="", Открытый мир
+
+
+#EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
+
+
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Sport", Охотник и рыболов HD
+http://ott-cdn.ucom.am/s62/index.m3u8
+
+# П
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ПАМЯТЬ
+
+
+#EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="", Первый вегетарианский
+
+
+#EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый Музыкальный RU
+http://rtmp.one.by:2200
+
+#EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый Музыкальный RU
+
+
+#EXTINF:-1 tvg-id="pervy" group-title="General", Первый канал
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+
+#EXTINF:-1 tvg-id="eureka-hd" group-title="", Первый космический
+http://stream01.vnet.am/Evrika/mono.m3u8
+
+#EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный
+
+
+#EXTINF:-1 tvg-id="onemuz" group-title="Music", Первый музыкальный 4K
+
+
+#EXTINF:-1 tvg-id="perec-int" group-title="Entertainment", Перец Int
+http://stream01.vnet.am/Perec/mono.m3u8
+
+#EXTINF:-1 tvg-id="pobeda" group-title="", Победа
+
+
+#EXTINF:-1 tvg-id="poexali" group-title="Travel & Tourism", Поехали!
+
+
+#EXTINF:-1 tvg-id="premialnoe-hd" group-title="", Премиальное HD
+
+
+#EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Travel & Tourism", Приключения HD
+https://livetv.mylifeisgood.net.ru/channels/adventureshd.m3u8
+
+#EXTINF:-1 tvg-id="pro-lyubov" group-title="", Про Любовь
+
+
+#EXTINF:-1 tvg-id="prodvizhenie" group-title="Entertainment", Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+
+#EXTINF:-1 tvg-id="piatnica" group-title="Entertainment", Пятница
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+
+#EXTINF:-1 tvg-id="piatnica-int" group-title="Entertainment", Пятница International
+https://stream01.vnet.am/Pyatnica/mono.m3u8
+
+#EXTINF:-1 tvg-id="5kanal-ru" group-title="Movies", Пятый канал
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+
+# Р
+
+#EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="General", РТР-Планета
+https://player.smotrim.ru/iframe/stream/live_id/63253
+
+#EXTINF:-1 tvg-id="radio-shanson" group-title="Music", Радио Шансон
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
+#EXTINF:-1 tvg-id="rentv" group-title="General", Рен ТВ
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+
+#EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
+http://45.159.74.14:80/RenTv/index.m3u8
+
+#EXTINF:-1 tvg-id="retro-tv" group-title="Movies", Ретро ТВ
+
+
+#EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
+http://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+
+#EXTINF:-1 tvg-id="romantichnoe-hd" group-title="", Романтичное HD
+
+
+#EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+
+#EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
+
+#EXTINF:-1 tvg-id="kultura" group-title="Entertainment", Россия К
+https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
+
+
+#EXTINF:-1 tvg-id="russky-bestseller" group-title="Movies", Русский бестселлер
+http://streaming.tv-teleport.ru/Russkiy_Bestseller/index.m3u8
+
+#EXTINF:-1 tvg-id="russky-detektiv" group-title="Movies", Русский детектив
+
+
+#EXTINF:-1 tvg-id="russky-ekstrim" group-title="", Русский экстрим
+
+
+#EXTINF:-1 tvg-id="russky-illuzion" group-title="Movies", Русский иллюзион
+https://edge02.odtv.az/o2/ruilluzion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="russky-roman" group-title="Movies", Русский роман
+
+
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
+
+
+#EXTINF:-1 tvg-id="ryzhy" group-title="Kids", Рыжий
+https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
+
+# С
+
+#EXTINF:-1 tvg-id="sts" group-title="Entertainment", СТС
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+
+#EXTINF:-1 tvg-id="sts-int" group-title="Entertainment", СТС International
+http://31.146.176.94:80/CTC/index.m3u8
+
+#EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
+https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
+
+#EXTINF:-1 tvg-id="sts-love" group-title="Entertainment", СТС Love
+https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
+
+#EXTINF:-1 tvg-id="sarafan" group-title="Entertainment", Сарафан
+http://31.148.48.15:80/Sarafan/index.m3u8
+
+#EXTINF:-1 tvg-id="sever" group-title="Regional", Север
+https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-id="smaylik-tv" group-title="Kids", Смайлик ТВ
+https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
+
+#EXTINF:-1 tvg-id="spas" group-title="Religion", Спас
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="start" group-title="Sport", Старт
+https://livetv.mylifeisgood.net.ru/channels/startlive.m3u8
+
+#EXTINF:-1 tvg-id="radio-strana-fm-tv" group-title="Music", Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="strashnoe-hd" group-title="", Страшное HD
+
+
+#EXTINF:-1 tvg-id="super" group-title="Entertainment", Супер
+
+
+# Т
+
+#EXTINF:-1 tvg-id="tvcentr" group-title="Entertainment", ТВ Центр
+http://ott-cdn.ucom.am/s54/index.m3u8
+
+#EXTINF:-1 tvg-id="tv3-ru" group-title="Entertainment", ТВ3 
+http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv3-by" group-title="Entertainment", ТВ3 Беларусь
+http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+
+#EXTINF:-1 tvg-id="tv3-int" group-title="Entertainment", ТВ3 International
+
+
+#EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tnt-int-cis" group-title="Entertainment", ТНТ-International
+http://ott-cdn.ucom.am/s19/index.m3u8
+
+#EXTINF:-1 tvg-id="tnt-music" group-title="Music", ТНТ-Music
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
+
+#EXTINF:-1 tvg-id="tnt4" group-title="Entertainment", ТНТ4
+https://edge02.odtv.az/o7/tnt4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tayna" group-title="", Тайна
+
+
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Entertainment", Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+
+#EXTINF:-1 tvg-id="tvoetv-humor" group-title="Entertainment", ТВОЕ ТВ - ЮМОР
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
+#EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
+
+
+#EXTINF:-1 tvg-id="tolk" group-title="", Толк HD
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
+https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8
+
+# У
+
+#EXTINF:-1 tvg-id="udar" group-title="Sport", Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Ужас
+
+
+#EXTINF:-1 tvg-id="usadba" group-title="", Усадьба
+
+
+# Ф
+
+#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Фантастика Sci-Fi
+
+
+#EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Movies", Феникс+ Кино
+
+
+# Х
+
+#EXTINF:-1 tvg-id="khit-hd" group-title="Movies", Хит HD
+
+
+# Ц
+
+# Ч
+
+#EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
+https://livetv.mylifeisgood.net.ru/channels/che.m3u8
+
+# Ш
+
+#EXTINF:-1 tvg-id="shanson-tv" group-title="Music", Шансон-TB
+
+
+#EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Movies", Шокирующее HD
+
+
+# Щ
+
+# Ъ
+
+# Ы
+
+# Ь
+
+# Э
+
+# Ю
+
+#EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv.m3u8
+
+#EXTINF:-1 tvg-id="yurgan" group-title="Regional", Юрган
+
+
+# Я
