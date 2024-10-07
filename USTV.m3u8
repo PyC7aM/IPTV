@@ -8,6 +8,8 @@
 #EXTINF:-1 tvg-id="5StarMax.us" tvg-name="5 Starmax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/1280px-5StarMax_Logo.svg.png" group-title="Live Channels",5 Starmax
 
 
+# A
+
 #EXTINF:-1 tvg-id="ABCWOLO.us" tvg-name="ABC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels",ABC East (Columba)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
@@ -32,12 +34,15 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/ase
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A and EHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Logo_AE_Germany.svg/1200px-Logo_AE_Germany.svg.png" group-title="Live Channels",A&E
 http://74.48.44.156:1234/stream/asd/205/master.m3u8
 
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Live Channels",AMC East
+#EXTINF:-1 tvg-id="AMC.HDTV.(East).(AMCHD).us" tvg-name="AMCHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Live Channels",AMC East
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png" group-title="Live Channels",AMC West
 http://ufospeeds.com:2095/73622931496/7122224796/167
+
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMC Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Live Channels",AMC Plus
 http://74.48.44.156:1234/stream/asd/213/master.m3u8
+
 #EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Live Channels",American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet East FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels",Animal Planet East
@@ -50,6 +55,9 @@ http://74.48.44.156:1234/stream/asd/220/master.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/19842
 #EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Azteca Corazon" tvg-logo="https://www.telegratishd.com/imge/azcorazon.png" group-title="Live Channels",Azteca Corazon
 http://thevdm.xyz:25461/Jennifer/Year!/19840
+
+# B
+
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-name="BabyFirst" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20240422182307" group-title="Live Channels",BabyFirst
 http://74.48.44.156:1234/stream/asd/221/master.m3u8
 #EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-name="Bally Sports Detroit" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Live Channels",Bally Sports Detroit
@@ -88,8 +96,10 @@ http://74.48.44.156:1234/stream/asd/459/master.m3u8
 http://74.48.44.156:1234/stream/asd/460/master.m3u8
 #EXTINF:-1 tvg-id="BallySportsWisconsin.us" tvg-name="Bally Sports Wisconsin" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Live Channels",Bally Sports Wisconsin
 http://74.48.44.156:1234/stream/asd/461/master.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Live Channels",BBC America
+
+#EXTINF:-1 tvg-id="BBC.America.HDTV(East).(BBC).us" tvg-name="BBC America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Live Channels",BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
+
 #EXTINF:-1 tvg-id="BBCWorldNews.us" tvg-name="BBC World News FHD" tvg-logo="https://c.files.bbci.co.uk/16B26/production/_96566929_bbc_wn_rgb.png" group-title="Live Channels",BBC World News
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="beIN Sports La Liga" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_LaLiga_1.png" group-title="Live Channels",beIN Sports La Liga
@@ -126,6 +136,9 @@ https://fl2.moveonjoy.com/BRAVO/index.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/44008
 #EXTINF:-1 tvg-id="BUZZR.us" tvg-name="Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/800px-Buzzr_logo.svg.png" group-title="Live Channels",Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
+
+# C
+
 #EXTINF:-1 tvg-id="Caracol.us" tvg-name="Caracol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png" group-title="Live Channels",Caracol
 http://74.48.44.156:1234/stream/asd/237/master.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels",Cartoon Network East
