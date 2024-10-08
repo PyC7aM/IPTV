@@ -777,7 +777,7 @@ http://74.48.44.156:1234/stream/asd/437/master.m3u8
 #EXTINF:-1 tvg-id="UPtv.HDTV.(UPTVHD).us" tvg-name="UPtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/UPtv_2018_logo.svg/revision/latest/scale-to-width-down/250?cb=20220921171605" group-title="Live Channels", UPtv
 http://74.48.44.156:1234/stream/asd/438/master.m3u8
 
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East)(USAHD).us" tvg-name="USA Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-name="USA Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-name="USA Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
