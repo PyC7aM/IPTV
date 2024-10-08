@@ -774,37 +774,37 @@ https://unidfp-nlds154.global.ssl.fastly.net/nlds/univisionnow/univision_chi2/as
 #EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision TlNovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="Live Channels",Univision TlNovelas
 http://74.48.44.156:1234/stream/asd/437/master.m3u8
 
-#EXTINF:-1 tvg-id="UPtv.HDTV.(UPTVHD).us" tvg-name="UPtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/UPtv_2018_logo.svg/revision/latest/scale-to-width-down/250?cb=20220921171605" group-title="Live Channels",UPtv
+#EXTINF:-1 tvg-id="UPtv.HDTV.(UPTVHD).us" tvg-name="UPtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/UPtv_2018_logo.svg/revision/latest/scale-to-width-down/250?cb=20220921171605" group-title="Live Channels", UPtv
 http://74.48.44.156:1234/stream/asd/438/master.m3u8
 
-#EXTINF:-1 tvg-id="USA.NetworkHDTV.(East)(USAHD).us" tvg-name="USA Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels",USA Network East
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East)(USAHD).us" tvg-name="USA Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 
-#EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-name="USA Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels",USA Network West
+#EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-name="USA Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
 
 
-#EXTINF:-1 tvg-id="VH1.HDTV.(East).(VH1HD).us" tvg-name="VH1 East" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels",VH1 East
+#EXTINF:-1 tvg-id="VH1.HDTV.(East).(VH1HD).us" tvg-name="VH1 East" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels", VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="VH1Pacific.us" tvg-name="VH1 West" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels",VH1 West
+#EXTINF:-1 tvg-id="VH1Pacific.us" tvg-name="VH1 West" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels", VH1
 
 
 #EXTINF:-1 tvg-id="VICE.HDTV.(VICEHD).us" tvg-name="VICE HDTV" tvg-logo="https://assets-global.website-files.com/6508f2cbcbf0a0248497feca/652f00047d9c66508fc2eaa1_5%20vice-logo-transparent.png" group-title="Live Channels", Vice
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
 
-#EXTINF:-1 tvg-id="The.Weather.Channel.HDTV.(WEAHD).us" tvg-name="Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Live Channels",Weather Channel
+#EXTINF:-1 tvg-id="The.Weather.Channel.HDTV.(WEAHD).us" tvg-name="Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Live Channels", Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/WE_tvred.svg/revision/latest?cb=20210606211640" group-title="Live Channels",WeTV
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/WE_tvred.svg/revision/latest?cb=20210606211640" group-title="Live Channels", WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://static.diceplatform.com/prod/AUTOx350/dce.wwe/settings/network_logo_new.png?ts=1552562839" group-title="Live Channels",WWE Network
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://static.diceplatform.com/prod/AUTOx350/dce.wwe/settings/network_logo_new.png?ts=1552562839" group-title="Live Channels", WWE Network
 
 
-#EXTINF:-1 tvg-id="Yankees.Television.HDTV.(YESHD).us" tvg-name="YESHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Live Channels",YES Network
+#EXTINF:-1 tvg-id="Yankees.Television.HDTV.(YESHD).us" tvg-name="YESHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Live Channels", YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="0" tvg-name="Yule Log 24/7" tvg-logo="https://img1.wsimg.com/isteam/ip/28085a00-592a-4de3-9aed-d2486da82b7f/Untitled%20presentation.jpg/:/rs=w:984,h:984" group-title="Live Channels",Yule Log 24/7 (InsolenceTVGo Exclusive)
+#EXTINF:-1 tvg-id="0" tvg-name="Yule Log 24/7" tvg-logo="https://img1.wsimg.com/isteam/ip/28085a00-592a-4de3-9aed-d2486da82b7f/Untitled%20presentation.jpg/:/rs=w:984,h:984" group-title="Live Channels", Yule Log 24/7 (InsolenceTVGo Exclusive)
 
 
 #EXTINF:-1 tvg-id="ZonaTUDN.us" tvg-name="Zona TUDN" tvg-logo="https://iili.io/J2wureR.md.png" group-title="Live Channels",Zona TUDN
