@@ -1235,7 +1235,7 @@ http://ott-cdn.ucom.am/s19/index.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Entertainment", ТНТ4
-https://edge02.odtv.az/o7/tnt4/playlist.m3u8
+http://91.205.199.3/tnt4/index.m3u8
 
 #EXTINF:-1 tvg-id="tayna" group-title="", Тайна
 
