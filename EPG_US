@@ -1,7 +1,9 @@
 EPG:
 
-url-tvg="https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
+url-tvg=" "
+
+https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
 
 http://defaultgen.com:3050/xmltv.php?username=R9YN4ecdXe&password=ZJs7z2yXSw
 
-https://i.mjh.nz/PlutoTV/us.xml"
+https://i.mjh.nz/PlutoTV/us.xml
