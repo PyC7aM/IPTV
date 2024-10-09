@@ -618,7 +618,7 @@ http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="viasat-explore" group-title="", Viju Explore
-
+http://91.205.199.3/viasatexplorer/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-history" group-title="", Viju History
 https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
@@ -639,7 +639,7 @@ https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", Viju+ Megahit
-
+http://91.205.199.3/vipmegahit/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Nature", Viju+ Planet
 https://livetv.mylifeisgood.net.ru/channels/viasatnaturehistory.m3u8
@@ -648,7 +648,7 @@ https://livetv.mylifeisgood.net.ru/channels/viasatnaturehistory.m3u8
 
 
 #EXTINF:-1 tvg-id="vip-serial" group-title="Movies", Viju+ Serial
-
+http://91.205.199.3/vipserialhd/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viju+ Sport
 https://stream2.cinerama.uz/1229/tracks-v1a1/mono.m3u8
