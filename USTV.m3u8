@@ -205,7 +205,7 @@ https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?delay=1
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-name="Cinemax HDTV (East) (MAXHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinemax_%282011%29_%28Alternative%29.svg/revision/latest?cb=20171227101540" group-title="Live Channels", Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="CineMAXPacific.us" tvg-name="Cinemax West FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinemax_%282011%29_%28Alternative%29.svg/revision/latest?cb=20171227101540" group-title="Live Channels",Cinemax West
+#EXTINF:-1 tvg-id="Cinemax.HDTV.(West).(MAXHDW).us" tvg-name="Cinemax HDTV (West) (MAXHDW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinemax_%282011%29_%28Alternative%29.svg/revision/latest?cb=20171227101540" group-title="Live Channels",Cinemax West
 
 
 #EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="Live Channels",Cine Sony
