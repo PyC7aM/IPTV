@@ -389,20 +389,28 @@ http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 http://supersonictv.live:8080/242306/210404/21805
 #EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="Live Channels",Fuse
 http://fl2.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels",FX East
+
+#EXTINF:-1 tvg-id="FX.HDTV.(East).(FX.HD).us" tvg-name="FX HDTV (East) (FX HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels", FX
 http://fl2.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXPacific.us" tvg-name="FX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels",FX West
-http://ufospeeds.com:2095/73622931496/7122224796/174
-#EXTINF:-1 tvg-id="FXMovies.us" tvg-name="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="Live Channels",FXM
+
+#EXTINF:-1 tvg-id="FXPacific.us" tvg-name="FX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels", FX West
+
+
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HDTV.(FXMHD).us" tvg-name="FX Movie Channel HDTV (FXMHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="Live Channels", FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels",FXX East
+
+#EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-name="FXX HDTV (East) (FXXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels", FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="FXXPacific.us" tvg-name="FXX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels",FXX West
+
+#EXTINF:-1 tvg-id="FXXPacific.us" tvg-name="FXX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels", FXX West
 http://74.48.44.156:1234/stream/asd/544/master.m3u8
-#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels",FYI East
+
+#EXTINF:-1 tvg-id="FYI.HDTV.(FYIHD).us" tvg-name="FYI HDTV (FYIHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels", FYI
 http://fl2.moveonjoy.com/FYI/index.m3u8
-#EXTINF:-1 tvg-id="FYIChannelPacific.us" tvg-name="FYI West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels",FYI West
-http://ufospeeds.com:2095/73622931496/7122224796/176
+
+#EXTINF:-1 tvg-id="FYIChannelPacific.us" tvg-name="FYI West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels", FYI West
+
+
 #EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/640px-Galavision_Logo_2013.svg.png" group-title="Live Channels",Galavision East
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
 #EXTINF:-1 tvg-id="GalavisionPacific.us" tvg-name="Galavision West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/640px-Galavision_Logo_2013.svg.png" group-title="Live Channels",Galavision West
