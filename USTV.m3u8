@@ -854,50 +854,56 @@ http://supersonictv.live:8080/242306/210404/61847
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TennisChannelPlus.us" tvg-name="Tennis Channel Plus" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels",Tennis Channel Plus
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels",TLC (The Learning Channel) East
+
+#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-name="The Learning Channel HDTV (East) (TLCHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels",TLC (The Learning Channel)
 http://fl2.moveonjoy.com/TLC/index.m3u8
+
 #EXTINF:-1 tvg-id="TLCPacific.us" tvg-name="TLC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels",TLC (The Learning Channel) West
-http://supersonictv.live:8080/242306/210404/22158
-#EXTINF:-1 tvg-id="ThrillerMAX.us" tvg-name="ThrillerMAX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/2560px-ThrillerMax_Logo.svg.png" group-title="Live Channels",ThrillerMAX East
+
+
+#EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-name="ThrillerMAX HDTV (East) (TMXHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/2560px-ThrillerMax_Logo.svg.png" group-title="Live Channels", ThrillerMAX
 http://74.48.44.156:1234/stream/asd/422/master.m3u8
+
 #EXTINF:-1 tvg-id="ThrillerMAXPacific.us" tvg-name="ThrillerMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/ThrillerMax_Logo.svg/2560px-ThrillerMax_Logo.svg.png" group-title="Live Channels",ThrillerMAX West
-http://thevdm.xyz:25461/Jennifer/Year!/34469
+
+
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels",TNT East
 https://fl2.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East (Adaptive)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels",TNT East (Adaptive)
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tnteast.us.m3u8
-#EXTINF:-1 tvg-id="TNTPacific.us" tvg-name="TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels",TNT West
-http://74.48.44.156:1234/stream/asd/540/master.m3u8
-#EXTINF:-1 tvg-id="TNTPacific.us" tvg-name="TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels",TNT West (Adaptive)
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tntwest.us.m3u8
-#EXTINF:-1 tvg-id="tr3s.us" tvg-name="tr3s" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels",tr3s
+
+#EXTINF:-1 tvg-id="Tr3s.(East).(TR3s).us" tvg-name="Tr3s (East) (TR3s)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels", tr3s
 http://74.48.44.156:1234/stream/asd/426/master.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Live Channels",Trace Urban
+
+#EXTINF:-1 tvg-id="Trace.Urban.(North.America).(TRACEURB).us" tvg-name="Trace Urban (North America) (TRACEURB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Live Channels", Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="Travel Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Live Channels",Travel Channel East
+
+#EXTINF:-1 tvg-id="Travel.Channel.HDTV.(East).(TRAVD).us" tvg-name="Travel Channel HDTV (East) (TRAVD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Live Channels", Travel Channel
 http://74.48.44.156:1234/stream/asd/425/master.m3u8
-#EXTINF:-1 tvg-id="TravelChannelPacific.us" tvg-name="Travel Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Live Channels",Travel Channel West
-http://thevdm.xyz:25461/Jennifer/Year!/39851
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV East
+
+#EXTINF:-1 tvg-id="TravelChannelPacific.us" tvg-name="Travel Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Live Channels", Travel Channel West
+
+
+#EXTINF:-1 tvg-id="truTV.HDTV.(East).(TruTVD).us" tvg-name="truTV HDTV (East) (TruTVD)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels", truTV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV East (Adaptive)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV East (Adaptive)
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/trutveast.us.m3u8
-#EXTINF:-1 tvg-id="truTVPacific.us" tvg-name="truTV West" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels",truTV West
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/trutvwest.us.m3u8
+
+
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Live Channels",TUDN
 https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
 #EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels",TVLand East
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
 #EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TVLand West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels",TVLand West
 http://thevdm.xyz:25461/Jennifer/Year!/39856
-#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels",TVOne
+
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels", TVOne
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
+
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="Live Channels",UniMas East
 https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
 #EXTINF:-1 tvg-id="UniMasKFTR.us" tvg-name="UniMas West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="Live Channels",UniMas West
 http://thevdm.xyz:25461/Jennifer/Year!/69261
-#EXTINF:-1 tvg-id="UniversalKids.us" tvg-name="Universal Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Universal_Kids_2019_Logo.svg" group-title="Live Channels",Universal Kids
+
+#EXTINF:-1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us" tvg-name="Universal Kids HDTV (SPROUTHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Universal_Kids_2019_Logo.svg" group-title="Kids", Universal Kids
 http://74.48.44.156:1234/stream/asd/435/master.m3u8
+
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision East
 https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8
 #EXTINF:-1 tvg-id="UnivisionKMEX.us" tvg-name="Univision West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels",Univision West (Los Angeles)
