@@ -208,7 +208,7 @@ http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(West).(MAXHDW).us" tvg-name="Cinemax HDTV (West) (MAXHDW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinemax_%282011%29_%28Alternative%29.svg/revision/latest?cb=20171227101540" group-title="Live Channels", Cinemax West
 
 
-#EXTINF:-1 tvg-id="CineSony.us" tvg-name="Cine Sony" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="Live Channels", Cine Sony
+#EXTINF:-1 tvg-id="Cine.Sony.Television.(CSONY).us" tvg-name="Cine Sony Television (CSONY)" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="Live Channels", Cine Sony
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Circle.us" tvg-name="Circle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png" group-title="Live Channels", Circle
@@ -918,7 +918,7 @@ http://74.48.44.156:1234/stream/asd/391/master.m3u8
 #EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian Channel West" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Live Channels", Smithsonian Channel West
 http://thevdm.xyz:25461/Jennifer/Year!/39835
 
-#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="Sony Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Live Channels", Sony Movie Channel
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-name="Sony Movie Channel HD (SONY)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Live Channels", Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="Sportsnet LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Spectrum_Sportsnet_LA.svg" group-title="Live Channels", Sportsnet LA
