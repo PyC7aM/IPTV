@@ -426,6 +426,8 @@ http://fl2.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="FYIChannelPacific.us" tvg-name="FYI West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels", FYI West
 
 
+# G
+
 #EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavision East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/640px-Galavision_Logo_2013.svg.png" group-title="Live Channels",Galavision East
 https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
 
@@ -443,6 +445,8 @@ http://74.48.44.156:1234/stream/asd/302/master.m3u8
 
 #EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-GRIT.png" group-title="Live Channels",Grit
 http://74.48.44.156:1234/stream/asd/303/master.m3u8
+
+# H
 
 #EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Landing-Pages/collections/hallmark/hallmark-channel-min.png/_jcr_content/renditions/original.PNG" group-title="Live Channels",Hallmark Channel East
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
@@ -534,6 +538,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1 tvg-id="HSN2.us" tvg-name="HSN 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129" group-title="Live Channels", HSN 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 
+# I
+
 #EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/800px-IFC_2018_logo.svg.png" group-title="Live Channels", IFC
 http://74.48.44.156:1234/stream/asd/325/master.m3u8
 
@@ -544,7 +550,7 @@ http://thevdm.xyz:25461/Jennifer/Year!/34490
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryPacific.us" tvg-name="ID (Investigation Discovery) West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery) West
-http://supersonictv.live:8080/242306/210404/22111
+
 
 #EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg" group-title="Live Channels", ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
@@ -554,6 +560,8 @@ https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-name="ION Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Live Channels", ION Plus
 https://lnc-ion-plus.tubi.video/playlist.m3u8
+
+# J
 
 #EXTINF:-1 tvg-id="JewelryTV.us" tvg-name="Jewelry TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/Jewelry_television_logo.png" group-title="Live Channels", Jewelry TV
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
