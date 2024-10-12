@@ -808,7 +808,7 @@ http://ott-cdn.ucom.am/s40/index.m3u8
 # К
 
 #EXTINF:-1 tvg-id="kvn-tv" group-title="Entertainment", КВН ТВ
-
+http://91.205.199.3/kvntv/index.m3u8
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", КХЛ HD
 
