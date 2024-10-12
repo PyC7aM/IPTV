@@ -1091,7 +1091,7 @@ http://rtmp.one.by:1200
 http://stream01.vnet.am/Perec/mono.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
-
+http://91.205.199.3/pobeda/index.m3u8
 
 #EXTINF:-1 tvg-id="poexali" group-title="Travel & Tourism", Поехали!
 
