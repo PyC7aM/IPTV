@@ -288,7 +288,7 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #EXTINF:-1 tvg-id="The.Discovery.Channel.en.Español.(DSCE).us" tvg-name="The Discovery Channel en Español (DSCE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Discovery_en_Espa%C3%B1ol_%282020%29.svg/2560px-Discovery_en_Espa%C3%B1ol_%282020%29.svg.png" group-title="Live Channels", Discovery Channel en Espanol
 
 
-#EXTINF:-1 tvg-id="Discovery.Familia.(U.S..feed).(DFAM).us" tvg-name="Discovery Familia (U.S. feed) (DFAM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/2560px-Discovery_Familia_logo.svg.png" group-title="Live Channels", Discovery Familia
+#EXTINF:-1 tvg-id="Discovery.Familia.(U.S..feed).(DFAM).us" tvg-name="Discovery Familia (U.S. feed) (DFAM) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/2560px-Discovery_Familia_logo.svg.png" group-title="Live Channels", Discovery Familia
 
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-name="Discovery Family Channel HDTV (DFCHD)" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/Discovery_Family_logo.png/revision/latest?cb=20220703140718" group-title="Live Channels", Discovery Family
