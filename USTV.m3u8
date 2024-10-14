@@ -46,8 +46,8 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="American.Heroes.Channel.(AHC).us" tvg-name="American Heroes Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/1200px-American_Heroes_Channel_logo.svg.png" group-title="Live Channels", American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet East FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet East
-
+#EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="Animal Planet HDTV (East) (APHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet
+https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="Animal Planet West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet West
 
