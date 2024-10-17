@@ -603,8 +603,8 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HDTV.(MLBSZ).us" tvg-name="MLB Network Strike Zone HDTV (MLBSZ)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/MLB_Network_Strike_Zone.png/revision/latest?cb=20221211002759" group-title="Live Channels", MLB Strike Zone
 
 
-#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="MoreMAX East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg/revision/latest?cb=20231008031957" group-title="Live Channels", MoreMAX East
-
+#EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-name="More Max (East) (MOMAX)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg/revision/latest?cb=20231008031957" group-title="Live Channels", MoreMAX
+http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="MoreMAXPacific.us" tvg-name="MoreMAX West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/MoreMax_2011.svg/revision/latest?cb=20231008031957" group-title="Live Channels", MoreMAX West
 
