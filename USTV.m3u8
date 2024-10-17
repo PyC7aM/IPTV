@@ -47,7 +47,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-name="Animal Planet HDTV (East) (APHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet
-
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="Animal Planet West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet West
 
@@ -230,7 +230,10 @@ http://fl2.moveonjoy.com/CNBC/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Cable.News.Network.HDTV.(CNNHD).us" tvg-name="Cable News Network HDTV (CNNHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="News", CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-name="Cable News Network International (CNNI)" tvg-logo="" group-title="News", CNNI
+http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
 #EXTINF:-1 tvg-id="Cable.News.Network.en.Español.(USA).(CNNE).us" tvg-name="Cable News Network en Español (USA) (CNNE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="News", CNN en Espanol
 
