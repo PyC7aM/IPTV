@@ -863,7 +863,7 @@ http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.HDTV.(West).(SHOHD).us" tvg-name="Showtime HDTV (West) (SHOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels", Showtime West
-
+http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-name="Showtime 2 HDTV (East) (SHO2HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Live Channels", Showtime 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
@@ -1143,8 +1143,8 @@ http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Womens.Entertainment.HDTV.(East).(WE.HD).us" tvg-name="Womens Entertainment HDTV (East) (WE HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/WE_tvred.svg/revision/latest?cb=20210606211640" group-title="Live Channels", WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE Network" tvg-logo="https://static.diceplatform.com/prod/AUTOx350/dce.wwe/settings/network_logo_new.png?ts=1552562839" group-title="Live Channels", WWE Network
-
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://static.diceplatform.com/prod/AUTOx350/dce.wwe/settings/network_logo_new.png?ts=1552562839" group-title="Live Channels", WWE Network
+http://fl2.moveonjoy.com/WWE/index.m3u8
 
 #EXTINF:-1 tvg-id="Yankees.Television.HDTV.(YESHD).us" tvg-name="YESHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Sport", YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
