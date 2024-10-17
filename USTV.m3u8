@@ -931,7 +931,7 @@ http://fl2.moveonjoy.com/STADIUM/index.m3u8
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 
 #EXTINF:-1 tvg-id="STARZ.HD.(West).(SZHDw).us" tvg-name="STARZ HD (West) (SZHDw)" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels", Starz West
-
+http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-name="STARZ Cinema (East) (STZCI)" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Live Channels", Starz Cinema
 
@@ -964,7 +964,7 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Classic.(East).(STZCL).us" tvg-name="STARZ ENCORE Classic (East) (STZCL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/2560px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Classic
-
+http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Español.(STZES).us" tvg-name="STARZ ENCORE Español (STZES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Espa%C3%B1ol_Logo_2022.svg/2560px-Starz_Encore_Espa%C3%B1ol_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Espanol
 
