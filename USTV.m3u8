@@ -833,16 +833,18 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png" group-title="Live Channels",QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 
-#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Reelz_Channel.svg/795px-Reelz_Channel.svg.png" group-title="Live Channels",ReelzChannel
+# R
+
+#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-name="ReelzChannel HDTV (REELZH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Reelz_Channel.svg/795px-Reelz_Channel.svg.png" group-title="Live Channels", Reelz
 http://fl2.moveonjoy.com/REELZ/index.m3u8
 
-#EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="RetroPlex East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Live Channels",RetroPlex East
+#EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="RetroPlex East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Live Channels", RetroPlex
 
 
-#EXTINF:-1 tvg-id="RetroPlexPacific.us" tvg-name="RetroPlex West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Live Channels",RetroPlex West
+#EXTINF:-1 tvg-id="RetroPlexPacific.us" tvg-name="RetroPlex West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Live Channels", RetroPlex West
 
 
-#EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://photos.prnewswire.com/prnfull/20150320/183424LOGO" group-title="Live Channels",Revolt
+#EXTINF:-1 tvg-id="Revolt.HDTV.(RVLTHD).us" tvg-name="Revolt HDTV (RVLTHD)" tvg-logo="https://photos.prnewswire.com/prnfull/20150320/183424LOGO" group-title="Live Channels", Revolt
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
 
 #EXTINF:-1 tvg-id="rootsportsnorthwest.us" tvg-name="Root Sports Northwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Root_Sports_logo.svg" group-title="Live Channels", Root Sports Northwest
@@ -857,7 +859,7 @@ http://fl2.moveonjoy.com/REVOLT/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-name="SEC Network HDTV (SECN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Live Channels", SEC Network
-http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-name="Showtime HDTV (East) (SHOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels", Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
@@ -910,8 +912,8 @@ http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="Smile.us" tvg-name="Smile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png" group-title="Live Channels", Smile
 https://tbn-jw.cdn.vustreams.com/live/smile/live.isml/942a7b5b-525c-4701-9487-eaa1c88471ab.m3u8
 
-#EXTINF:-1 tvg-id="SmithsonianNetwork.us" tvg-name="Smithsonian Channel East" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Live Channels", Smithsonian Channel
-
+#EXTINF:-1 tvg-id="Smithsonian.Channel.HDTV.(East).(SMITHHD).us" tvg-name="Smithsonian Channel HDTV (East) (SMITHHD)" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Live Channels", Smithsonian Channel
+http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian Channel West" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Live Channels", Smithsonian Channel West
 
@@ -922,7 +924,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="Sportsnet LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Spectrum_Sportsnet_LA.svg" group-title="Live Channels", Sportsnet LA
 
 
-#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="Live Channels", Stadium
+#EXTINF:-1 tvg-id="Stadium.College.Sports.Central.(SCSC).us" tvg-name="Stadium College Sports Central (SCSC)" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="Live Channels", Stadium
 http://fl2.moveonjoy.com/STADIUM/index.m3u8
 
 #EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-name="STARZ HD (East) (STZHD)" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels", Starz
