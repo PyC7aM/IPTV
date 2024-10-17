@@ -924,7 +924,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="Sportsnet LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Spectrum_Sportsnet_LA.svg" group-title="Live Channels", Sportsnet LA
 
 
-#EXTINF:-1 tvg-id="Stadium.College.Sports.Central.(SCSC).us" tvg-name="Stadium College Sports Central (SCSC)" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="Live Channels", Stadium
+#EXTINF:-1 tvg-id="Stadium.College.Sports.Atlantic.(SCSA).us" tvg-name="Stadium College Sports Atlantic (SCSA)" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="Live Channels", Stadium
 http://fl2.moveonjoy.com/STADIUM/index.m3u8
 
 #EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-name="STARZ HD (East) (STZHD)" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels", Starz
