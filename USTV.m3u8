@@ -307,7 +307,7 @@ http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Disney.Junior.HDTV.East.(DISJr).us" tvg-name="Disney Junior HDTV East (DISJr)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior
-
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-name="Disney Junior West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior West
 
