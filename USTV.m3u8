@@ -753,7 +753,7 @@ http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 #EXTINF:-1 tvg-id="NickJrPacific.us" tvg-name="NickJr West" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="Live Channels", Nick Jr West
 
 
-#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="NickJr PlutoTV" tvg-logo="https://static.wikia.nocookie.net/c7185340-7b20-463b-b5a4-7a7aa4c90122" group-title="Live Channels", NickJr PlutoTV
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="NickJr PlutoTV" tvg-logo="https://static.wikia.nocookie.net/c7185340-7b20-463b-b5a4-7a7aa4c90122" group-title="Live Channels", Nick Jr PlutoTV
 https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="Nick Music (NICM)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/NickMusic_Splat.svg/revision/latest/scale-to-width-down/250?cb=20240129184250" group-title="Live Channels", Nick Music
@@ -826,7 +826,7 @@ http://supersonictv.live:8080/242306/210404/78431
 #EXTINF:-1 tvg-id="Peachtree.ca" tvg-name="Peachtree TV (WPCH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/WPCH-TV_logo.svg/220px-WPCH-TV_logo.svg.png" group-title="Live Channels", Peachtree TV (WPCH)
 http://thevdm.xyz:25461/Jennifer/Year!/94142
 
-#EXTINF:-1 tvg-id="PixL.us" tvg-name="PixL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest?cb=20210408045829" group-title="Live Channels", PixL
+#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-name="PixL HDTV (PixLHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest?cb=20210408045829" group-title="Live Channels", PixL
 http://thevdm.xyz:25461/Jennifer/Year!/39823
 
 #EXTINF:-1 tvg-id="Pop.(East).(POP).us" tvg-name="Pop (East) (POP)" tvg-logo="https://seeklogo.com/images/P/pop-tv-logo-741352277F-seeklogo.com.png" group-title="Live Channels", PopTV
