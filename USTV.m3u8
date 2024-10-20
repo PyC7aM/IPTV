@@ -1017,10 +1017,10 @@ http://fl2.moveonjoy.com/SYFY/index.m3u8
 
 # T
 
-#EXTINF:-1 tvg-id="TBD.us" tvg-name="TBD. East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/2560px-TBD_Logo_2019.svg.png" group-title="Live Channels",TBD. East
+#EXTINF:-1 tvg-id="TBD.us" tvg-name="TBD. East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/2560px-TBD_Logo_2019.svg.png" group-title="Live Channels", TBD.
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
 
-#EXTINF:-1 tvg-id="TBDPacific.us" tvg-name="TBD. West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/2560px-TBD_Logo_2019.svg.png" group-title="Live Channels",TBD. West
+#EXTINF:-1 tvg-id="TBDPacific.us" tvg-name="TBD. West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/2560px-TBD_Logo_2019.svg.png" group-title="Live Channels", TBD. West
 https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?delay=10800
 
 #EXTINF:-1 tvg-id="Trinity.Broadcasting.Network.(TBN).us" tvg-name="Trinity Broadcasting Network (TBN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_%282015%29.svg/1200px-Trinity_Broadcasting_Network_logo_%282015%29.svg.png" group-title="Live Channels", TBN
@@ -1038,13 +1038,13 @@ https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tbs
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HDTV.(TCMHD).us" tvg-name="Turner Classic Movies HDTV (TCMHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels", TCM (Turner Classic Movies)
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
-#EXTINF:-1 tvg-id="TeenNick.us" tvg-name="TeenNick East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Live Channels", TeenNick
+#EXTINF:-1 tvg-id="TeenNick.(East).(TNCK).us" tvg-name="TeenNick (East) (TNCK)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Live Channels", Teen Nick
 
 
-#EXTINF:-1 tvg-id="TeenNickPacific.us" tvg-name="TeenNick West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Live Channels", TeenNick West
+#EXTINF:-1 tvg-id="TeenNickPacific.us" tvg-name="TeenNick West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Live Channels", Teen Nick West
 
 
-#EXTINF:-1 tvg-id="NickTotallyTeen.us" tvg-name="TeenNick PlutoTV" tvg-logo="https://vignette2.wikia.nocookie.net/nickelodeon/images/8/8e/TeenNick_logo_2009.png/revision/latest?cb=20111127040207" group-title="Live Channels", TeenNick PlutoTV
+#EXTINF:-1 tvg-id="NickTotallyTeen.us" tvg-name="TeenNick PlutoTV" tvg-logo="https://vignette2.wikia.nocookie.net/nickelodeon/images/8/8e/TeenNick_logo_2009.png/revision/latest?cb=20111127040207" group-title="Live Channels", Teen Nick PlutoTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6450209d939a5900084dba1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels", Telemundo East (Corpus Christi)
@@ -1059,7 +1059,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/97/Teleritmo_2015.png/revision/latest?cb=20210627003145" group-title="Live Channels", Teleritmo
 
 
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels", Tennis Channel
+#EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels", Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="TennisChannelPlus.us" tvg-name="Tennis Channel Plus" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels", Tennis Channel Plus
@@ -1096,13 +1096,13 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 
 
-#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Live Channels", TUDN
+#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="Tu Deportes Network (TUDN) U.S. HDTV (TUDNHD)" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Live Channels", TUDN
 https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
 
-#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TVLand
+#EXTINF:-1 tvg-id="TV.Land.(East).(TVLAND).us" tvg-name="TV Land (East) (TVLAND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
 
-#EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TVLand West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TVLand West
+#EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TVLand West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land West
 
 
 #EXTINF:-1 tvg-id="TV.ONE.HDTV.(TVONEHD).us" tvg-name="TV ONE HDTV (TVONEHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels", TV ONE
@@ -1146,6 +1146,8 @@ http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="USANetworkPacific.us" tvg-name="USA Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
 
 
+# V 
+
 #EXTINF:-1 tvg-id="VH1.HDTV.(East).(VH1HD).us" tvg-name="VH1 East" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels", VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
 
@@ -1154,6 +1156,8 @@ http://fl2.moveonjoy.com/VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="VICE.HDTV.(VICEHD).us" tvg-name="VICE HDTV" tvg-logo="https://assets-global.website-files.com/6508f2cbcbf0a0248497feca/652f00047d9c66508fc2eaa1_5%20vice-logo-transparent.png" group-title="Live Channels", Vice
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
+
+# W
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HDTV.(WEAHD).us" tvg-name="Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Live Channels", Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
@@ -1164,71 +1168,107 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://static.diceplatform.com/prod/AUTOx350/dce.wwe/settings/network_logo_new.png?ts=1552562839" group-title="Live Channels", WWE Network
 http://fl2.moveonjoy.com/WWE/index.m3u8
 
+# X
+
+
+# Y
+
 #EXTINF:-1 tvg-id="Yankees.Television.HDTV.(YESHD).us" tvg-name="YESHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/1200px-YES_Network_logo.svg.png" group-title="Sport", YES Network
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="0" tvg-name="Yule Log 24/7" tvg-logo="https://img1.wsimg.com/isteam/ip/28085a00-592a-4de3-9aed-d2486da82b7f/Untitled%20presentation.jpg/:/rs=w:984,h:984" group-title="Live Channels", Yule Log 24/7 (InsolenceTVGo Exclusive)
 
 
+# Z
+
 #EXTINF:-1 tvg-id="ZonaTUDN.us" tvg-name="Zona TUDN" tvg-logo="https://iili.io/J2wureR.md.png" group-title="Live Channels",Zona TUDN
 
 
+# MOVIES
 
-#EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies",A Bug's Life (1998) (DisneyXD) [TV-G]
+#EXTINF:-1 tvg-id="0" tvg-name="A Bug's Life (1998)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg" group-title="Movies", A Bug's Life (1998) (DisneyXD) [TV-G]
 https://small.fileditchstuff.me/s11/DweCAMMKroheDtrOeZce.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="A Loud House Christmas (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Loud_House_Christmas.jpg" group-title="Movies",A Loud House Christmas (2021) (NickToons) [TV-G]
+
+#EXTINF:-1 tvg-id="0" tvg-name="A Loud House Christmas (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Loud_House_Christmas.jpg" group-title="Movies", A Loud House Christmas (2021) (NickToons) [TV-G]
 https://small.fileditchstuff.me/s11/KTHZyZzdgnTtJptTwdio.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="A Loud House Christmas (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Loud_House_Christmas.jpg" group-title="Movies",A Loud House Christmas (2021) (TeenNick) [TV-G]
+
+#EXTINF:-1 tvg-id="0" tvg-name="A Loud House Christmas (2021)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Loud_House_Christmas.jpg" group-title="Movies", A Loud House Christmas (2021) (TeenNick) [TV-G]
 https://small.fileditchstuff.me/s11/AAySCaWuARaXQznSKYXT.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Arctic Dogs (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTY1OTQyM2YtM2ZjOC00OWQwLTkzM2YtZjAyOGZkYjlhNWFhXkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_.jpg" group-title="Movies",Arctic Dogs (2019) (Disney Channel) [TV-PG]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Arctic Dogs (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTY1OTQyM2YtM2ZjOC00OWQwLTkzM2YtZjAyOGZkYjlhNWFhXkEyXkFqcGdeQXVyMTk5MzE1MTY@._V1_.jpg" group-title="Movies", Arctic Dogs (2019) (Disney Channel) [TV-PG]
 https://big.fileditchstuff.me/b34/KStRmlWQsvmryxsMnLKU.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Big City Greens the Movie: Spacecation (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQxNDg0NDMtNjExZC00MTgwLWE0YmMtMWVlNGY0NTY5YjgxXkEyXkFqcGdeQXVyNjc1MjM1MzI@._V1_.jpg" group-title="Movies",Big City Greens the Movie: Spacecation (2024) (Disney Channel) [TV-Y7]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Big City Greens the Movie: Spacecation (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQxNDg0NDMtNjExZC00MTgwLWE0YmMtMWVlNGY0NTY5YjgxXkEyXkFqcGdeQXVyNjc1MjM1MzI@._V1_.jpg" group-title="Movies", Big City Greens the Movie: Spacecation (2024) (Disney Channel) [TV-Y7]
 https://big.fileditchstuff.me/b35/uCUyHdIWEnWxenPcegoP.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Big City Greens the Movie: Spacecation (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQxNDg0NDMtNjExZC00MTgwLWE0YmMtMWVlNGY0NTY5YjgxXkEyXkFqcGdeQXVyNjc1MjM1MzI@._V1_.jpg" group-title="Movies",Big City Greens the Movie: Spacecation (2024) (DisneyXD) [TV-Y7]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Big City Greens the Movie: Spacecation (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQxNDg0NDMtNjExZC00MTgwLWE0YmMtMWVlNGY0NTY5YjgxXkEyXkFqcGdeQXVyNjc1MjM1MzI@._V1_.jpg" group-title="Movies", Big City Greens the Movie: Spacecation (2024) (DisneyXD) [TV-Y7]
 https://big.fileditchstuff.me/b36/FDSkwwfwtKIxeCqIghs.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Blade Runner 2049 (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg" group-title="Movies",Blade Runner 2049 (2017) (Adult Swim) [TV-MA (LSV)]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Blade Runner 2049 (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg" group-title="Movies", Blade Runner 2049 (2017) (Adult Swim) [TV-MA (LSV)]
 https://big.fileditchstuff.me/b34/QWMmqFKHmfUWUAKeoUfN.MOV
-#EXTINF:-1 tvg-id="0" tvg-name="Bolt (2008)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQyNDE5NjQ1N15BMl5BanBnXkFtZTcwMDExMTAwMg@@._V1_.jpg" group-title="Movies",Bolt (2008) (DisneyJr) [TV-PG]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Bolt (2008)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDQyNDE5NjQ1N15BMl5BanBnXkFtZTcwMDExMTAwMg@@._V1_.jpg" group-title="Movies", Bolt (2008) (DisneyJr) [TV-PG]
 https://big.fileditchstuff.me/b34/cKSLeyqyEiBofZOwSUE.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Good Burger (1997)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM1YTJhOTQtNmYwZS00MGU0LTkxNWEtZGEwM2I4NTc5MzZlXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_FMjpg_UX1000_.jpg" group-title="Movies",Good Burger (1997) (MTV) [TV-PG]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Good Burger (1997)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM1YTJhOTQtNmYwZS00MGU0LTkxNWEtZGEwM2I4NTc5MzZlXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_FMjpg_UX1000_.jpg" group-title="Movies", Good Burger (1997) (MTV) [TV-PG]
 https://small.fileditchstuff.me/s11/TPPXrzoLvcUFueJNOdR.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Good Burger (1997)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM1YTJhOTQtNmYwZS00MGU0LTkxNWEtZGEwM2I4NTc5MzZlXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_FMjpg_UX1000_.jpg" group-title="Movies",Good Burger (1997) (VH1) [TV-PG]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Good Burger (1997)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGM1YTJhOTQtNmYwZS00MGU0LTkxNWEtZGEwM2I4NTc5MzZlXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_FMjpg_UX1000_.jpg" group-title="Movies", Good Burger (1997) (VH1) [TV-PG]
 https://small.fileditchstuff.me/s11/WLhEsAltbYOnlhkifbIc.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Kidnap (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyNDgyODEzOV5BMl5BanBnXkFtZTgwMTI4MTA2MjI@._V1_.jpg" group-title="Movies",Kidnap (2017) (BET Her) [TV-14 (V)]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Kidnap (2017)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcyNDgyODEzOV5BMl5BanBnXkFtZTgwMTI4MTA2MjI@._V1_.jpg" group-title="Movies", Kidnap (2017) (BET Her) [TV-14 (V)]
 https://small.fileditchstuff.me/s11/jYicWmnbQdnYpKUtAV.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Kung Fu Panda (2011)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/70678c0ad443191116f8128c83c37081d7e0f9840a0d5eafd8fad69fd8d5b801._RI_TTW_.jpg" group-title="Movies",Kung Fu Panda 2 (2011) (Nickelodeon) [TV-PG]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Kung Fu Panda (2011)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/70678c0ad443191116f8128c83c37081d7e0f9840a0d5eafd8fad69fd8d5b801._RI_TTW_.jpg" group-title="Movies", Kung Fu Panda 2 (2011) (Nickelodeon) [TV-PG]
 https://small.fileditchstuff.me/s11/OjdUuGvKVNAUQMzUevA.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Moana (2016)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_.jpg" group-title="Movies",Moana (2016) (DisneyJr) [TV-PG]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Moana (2016)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_.jpg" group-title="Movies", Moana (2016) (DisneyJr) [TV-PG]
 https://big.fileditchstuff.me/b34/MkIhfWxnsuJcjfDiBmR.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Raya and the Last Dragon (2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Movies",Raya and the Last Dragon (2021) (FX) [TV-PG]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Raya and the Last Dragon (2021)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWNiOTc4NGItNGY4YS00ZGNkLThkOWEtMDE2ODcxODEwNjkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" group-title="Movies", Raya and the Last Dragon (2021) (FX) [TV-PG]
 https://big.fileditchstuff.me/b35/tnzqAPFJDProdEziso.MOV
-#EXTINF:-1 tvg-id="0" tvg-name="Sing (2016)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_.jpg" group-title="Movies",Sing (2016) (Freeform) [TV-PG]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Sing (2016)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_.jpg" group-title="Movies", Sing (2016) (Freeform) [TV-PG]
 https://big.fileditchstuff.me/b34/WTuFwQvfgJpUOOqOtqMS.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Sonic the Hedgehog (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg2Yjc5MzItNzVmMi00MTllLWI2MDQtOTYyOWNjYWIxNzEzXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Sonic the Hedgehog (2020) (Nickelodeon) [TV-G]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Sonic the Hedgehog (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTg2Yjc5MzItNzVmMi00MTllLWI2MDQtOTYyOWNjYWIxNzEzXkEyXkFqcGc@._V1_.jpg" group-title="Movies", Sonic the Hedgehog (2020) (Nickelodeon) [TV-G]
 https://big.fileditchstuff.me/b41/MhWGcjjjBHOikcxuMtAI.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Sonic the Hedgehog 2 (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBiYzk0YTMtNWRiYi00YWY0LWE3NjgtYmJiYTAwZmYzOTM0XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Sonic the Hedgehog 2 (2022) (Nickelodeon) [TV-PG]
+
+#EXTINF:-1 tvg-id="0" tvg-name="Sonic the Hedgehog 2 (2022)" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDBiYzk0YTMtNWRiYi00YWY0LWE3NjgtYmJiYTAwZmYzOTM0XkEyXkFqcGc@._V1_.jpg" group-title="Movies", Sonic the Hedgehog 2 (2022) (Nickelodeon) [TV-PG]
 https://big.fileditchstuff.me/b41/jDSxlsYuAwQhuOpvckkO.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="The Angry Birds Movie 2 (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk0NWZjZTktNWNlZC00YTY2LTkyZjItNDRiZmFhZWI5M2IwXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="Movies",The Angry Birds Movie 2 (2019) (Freeform) [TV-PG (DLV)]
+
+#EXTINF:-1 tvg-id="0" tvg-name="The Angry Birds Movie 2 (2019)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTk0NWZjZTktNWNlZC00YTY2LTkyZjItNDRiZmFhZWI5M2IwXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg" group-title="Movies", The Angry Birds Movie 2 (2019) (Freeform) [TV-PG (DLV)]
 https://big.fileditchstuff.me/b35/sHCAszOgRydAtPhyoKV.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Super Bowl LVIII (2/11/2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Super_Bowl_LVIII_logo.svg/1200px-Super_Bowl_LVIII_logo.svg.png" group-title="Past Events",Super Bowl LVIII (2/11/2024) (Nickelodeon)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Super Bowl LVIII (2/11/2024)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Super_Bowl_LVIII_logo.svg/1200px-Super_Bowl_LVIII_logo.svg.png" group-title="Past Events", Super Bowl LVIII (2/11/2024) (Nickelodeon)
 https://ia801307.us.archive.org/31/items/nickelodeon-super-bowl-lviii-from-bikini-bottom-san-francisco-49ers-vs.-kansas-city-chiefs/Nickelodeon%20Super%20Bowl%20LVIII%20From%20Bikini%20Bottom%20San%20Francisco%2049ers%20vs.%20Kansas%20City%20Chiefs.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)",Knuckles (Season 1 Episode 1) (Nickelodeon)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)", Knuckles (Season 1 Episode 1) (Nickelodeon)
 https://small.fileditchstuff.me/s16/rdOYUYqGcrizZZBZantP.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)",Knuckles (Season 1 Episode 2) (Nickelodeon)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)", Knuckles (Season 1 Episode 2) (Nickelodeon)
 https://small.fileditchstuff.me/s16/haTZqMUmoCQwDvmYZUJ.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)",Knuckles (Season 1 Episode 3) (Nickelodeon)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)", Knuckles (Season 1 Episode 3) (Nickelodeon)
 https://small.fileditchstuff.me/s16/FqgUEDOQMgsbdHCLsIhr.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)",Knuckles (Season 1 Episode 4) (Nickelodeon)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)", Knuckles (Season 1 Episode 4) (Nickelodeon)
 https://small.fileditchstuff.me/s16/wkbNbUdQGJVruHtuLO.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)",Knuckles (Season 1 Episode 5) (Nickelodeon)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)", Knuckles (Season 1 Episode 5) (Nickelodeon)
 https://small.fileditchstuff.me/s16/ptacrHEIBKFltHJzkCnD.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)",Knuckles (Season 1 Episode 6) (Nickelodeon)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Knuckles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Knuckles_series_logo.webp/1000px-Knuckles_series_logo.webp.png" group-title="Series --> Knuckles (Nickelodeon)", Knuckles (Season 1 Episode 6) (Nickelodeon)
 https://small.fileditchstuff.me/s16/BFzJZzQEzepLqbyACmX.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Ridiculousness" tvg-logo="https://www.logolynx.com/images/logolynx/d8/d876ae5f5ba126b85a5d477f46d6f143.png" group-title="Series --> Ridiculousness (MTV)",Ridiculousness (Season 1 Episode 1) Ryan O'Malley (MTV)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Ridiculousness" tvg-logo="https://www.logolynx.com/images/logolynx/d8/d876ae5f5ba126b85a5d477f46d6f143.png" group-title="Series --> Ridiculousness (MTV)", Ridiculousness (Season 1 Episode 1) Ryan O'Malley (MTV)
 https://files.catbox.moe/ivmv54.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Ridiculousness" tvg-logo="https://www.logolynx.com/images/logolynx/d8/d876ae5f5ba126b85a5d477f46d6f143.png" group-title="Series --> Ridiculousness (MTV)",Ridiculousness (Season 1 Episode 2) Johnny Knoxville (MTV)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Ridiculousness" tvg-logo="https://www.logolynx.com/images/logolynx/d8/d876ae5f5ba126b85a5d477f46d6f143.png" group-title="Series --> Ridiculousness (MTV)", Ridiculousness (Season 1 Episode 2) Johnny Knoxville (MTV)
 https://files.catbox.moe/80vwh9.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Ridiculousness" tvg-logo="https://www.logolynx.com/images/logolynx/d8/d876ae5f5ba126b85a5d477f46d6f143.png" group-title="Series --> Ridiculousness (MTV)",Ridiculousness (Season 1 Episode 3) Christopher Boykin (MTV)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Ridiculousness" tvg-logo="https://www.logolynx.com/images/logolynx/d8/d876ae5f5ba126b85a5d477f46d6f143.png" group-title="Series --> Ridiculousness (MTV)", Ridiculousness (Season 1 Episode 3) Christopher Boykin (MTV)
 https://files.catbox.moe/qjk9tq.mp4
-#EXTINF:-1 tvg-id="0" tvg-name="Ridiculousness" tvg-logo="https://www.logolynx.com/images/logolynx/d8/d876ae5f5ba126b85a5d477f46d6f143.png" group-title="Series --> Ridiculousness (MTV)",Ridiculousness (Season 39 Episode 28) Sterling and Nina Agdal LXX (MTV)
+
+#EXTINF:-1 tvg-id="0" tvg-name="Ridiculousness" tvg-logo="https://www.logolynx.com/images/logolynx/d8/d876ae5f5ba126b85a5d477f46d6f143.png" group-title="Series --> Ridiculousness (MTV)", Ridiculousness (Season 39 Episode 28) Sterling and Nina Agdal LXX (MTV)
 https://small.fileditchstuff.me/s13/NPHWrNynNysngsQVHhrg.mp4new
