@@ -812,7 +812,7 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 https://khetdt.lls.pbs.org/out/v1/7ec7903413294b72bb64f83963d8ea9b/index.m3u8
 
 #EXTINF:-1 tvg-id="PBSWNED.us" tvg-name="PBS East (New York)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1200px-PBS_logo.svg.png" group-title="Live Channels", PBS East (New York)
-http://thevdm.xyz:25461/Jennifer/Year!/39821
+
 
 #EXTINF:-1 tvg-id="PBSCreateMPT.us" tvg-name="PBS Create" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest?cb=20240205233457" group-title="Live Channels", PBS Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
@@ -821,13 +821,13 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBSKOCE.us" tvg-name="PBS West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/1200px-PBS_logo.svg.png" group-title="Live Channels", PBS West (Los Angeles)
-http://supersonictv.live:8080/242306/210404/78431
+
 
 #EXTINF:-1 tvg-id="Peachtree.ca" tvg-name="Peachtree TV (WPCH)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/WPCH-TV_logo.svg/220px-WPCH-TV_logo.svg.png" group-title="Live Channels", Peachtree TV (WPCH)
-http://thevdm.xyz:25461/Jennifer/Year!/94142
+
 
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-name="PixL HDTV (PixLHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest?cb=20210408045829" group-title="Live Channels", PixL
-http://thevdm.xyz:25461/Jennifer/Year!/39823
+
 
 #EXTINF:-1 tvg-id="Pop.(East).(POP).us" tvg-name="Pop (East) (POP)" tvg-logo="https://seeklogo.com/images/P/pop-tv-logo-741352277F-seeklogo.com.png" group-title="Live Channels", PopTV
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
@@ -1032,9 +1032,6 @@ http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels", TBS West
 
 
-#EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels", TBS West (Adaptive)
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tbswest.us.m3u8
-
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HDTV.(TCMHD).us" tvg-name="Turner Classic Movies HDTV (TCMHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels", TCM (Turner Classic Movies)
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
@@ -1048,10 +1045,10 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6450209d939a5900084dba1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels", Telemundo East (Corpus Christi)
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+
 
 #EXTINF:-1 tvg-id="TelemundoKVEA.us" tvg-name="Telemundo West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels", Telemundo West
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800
+
 
 #EXTINF:-1 tvg-id="TelemundoWKAQ.pr" tvg-name="Telemundo Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels", Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
