@@ -875,7 +875,7 @@ http://fl2.moveonjoy.com/REVOLT/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-name="SEC Network HDTV (SECN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Live Channels", SEC Network
-
+http://streamsy.online:2999/juanv/04bodwaga0/295
 
 #EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-name="Showtime HDTV (East) (SHOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels", Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
