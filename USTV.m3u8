@@ -208,9 +208,6 @@ http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HDTV.(West).(MAXHDW).us" tvg-name="Cinemax HDTV (West) (MAXHDW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Cinemax_%282011%29_%28Alternative%29.svg/revision/latest?cb=20171227101540" group-title="Live Channels", Cinemax West
 
 
-#EXTINF:-1 tvg-id="Cine.Sony.Television.(CSONY).us" tvg-name="Cine Sony Television (CSONY)" tvg-logo="https://www.cinesony.com/sites/cinesony/themes/custom/cinesony/logo.png" group-title="Live Channels", Cine Sony
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Circle.us" tvg-name="Circle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png" group-title="Live Channels", Circle
 
 
@@ -354,7 +351,7 @@ http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN.News.HDTV.(ESNEWSHD).us" tvg-name="ESPN News HDTV (ESNEWSHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="Live Channels", ESPNews
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-name="ESPNU HDTV (ESPNUHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="Live Channels", ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
@@ -383,7 +380,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-name="Fox News Channel HDTV (East) (FNCHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="Live Channels", FOX News Channel
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.(FSPLUS).us" tvg-name="Fox Soccer Plus (FSPLUS)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Live Channels", FOX Soccer Plus
 
@@ -392,7 +389,7 @@ http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(FS2HD).us" tvg-name="Fox Sports 2 HDTV (FS2HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Live Channels", FS2
-http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Live Channels", FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -428,12 +425,6 @@ http://fl2.moveonjoy.com/FYI/index.m3u8
 
 
 # G
-
-#EXTINF:-1 tvg-id="Galavision.HDTV.(East).(GALAH).us" tvg-name="Galavision HDTV (East) (GALAH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/640px-Galavision_Logo_2013.svg.png" group-title="Live Channels", Galavision
-https://dai.google.com/linear/hls/event/4SHc_fddRJKEQ6UG_mtpjQ/master.m3u8
-
-#EXTINF:-1 tvg-id="GalavisionPacific.us" tvg-name="Galavision West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/640px-Galavision_Logo_2013.svg.png" group-title="Live Channels", Galavision West
-
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Live Channels", Game Show Network
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
@@ -554,7 +545,7 @@ http://fl2.moveonjoy.com/ION_TV/index.m3u8
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-name="ION Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Live Channels", ION Plus
-https://lnc-ion-plus.tubi.video/playlist.m3u8
+
 
 # J
 
@@ -579,7 +570,7 @@ http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="LRW.Lifetime.Real.Women.us" tvg-name="LRW Lifetime Real Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/LRW_logo_2012.png" group-title="Live Channels", Lifetime Real Women
-http://supersonictv.live:8080/242306/210404/47736
+
 
 #EXTINF:-1 tvg-id="LOGO.HDTV.(East).(LGOHD).us" tvg-name="LOGO HDTV (East) (LGOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Live Channels", Logo
 http://fl3.moveonjoy.com/Logo/index.m3u8
@@ -626,7 +617,7 @@ http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
 
 
 #EXTINF:-1 tvg-id="msnbc.HDTV.(msnbcH).us" tvg-name="msnbc HDTV (msnbcH)" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_35/3502557/msnbc-logo.png" group-title="Live Channels", MSNBC
-http://fl2.moveonjoy.com/MSNBC/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-name="MTV HDTV (East) (MTVHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels", MTV
 https://fl2.moveonjoy.com/MTV/index.m3u8
@@ -1044,18 +1035,6 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 tvg-id="NickTotallyTeen.us" tvg-name="TeenNick PlutoTV" tvg-logo="https://vignette2.wikia.nocookie.net/nickelodeon/images/8/8e/TeenNick_logo_2009.png/revision/latest?cb=20111127040207" group-title="Live Channels", Teen Nick PlutoTV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6450209d939a5900084dba1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="Telemundo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels", Telemundo East (Corpus Christi)
-
-
-#EXTINF:-1 tvg-id="TelemundoKVEA.us" tvg-name="Telemundo West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels", Telemundo West
-
-
-#EXTINF:-1 tvg-id="TelemundoWKAQ.pr" tvg-name="Telemundo Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Live Channels", Telemundo Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/97/Teleritmo_2015.png/revision/latest?cb=20210627003145" group-title="Live Channels", Teleritmo
-
-
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-name="Tennis Channel HDTV (TNNSHD)" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Live Channels", Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
@@ -1092,10 +1071,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 #EXTINF:-1 tvg-id="truTV.HDTV.(East).(TruTVD).us" tvg-name="truTV HDTV (East) (TruTVD)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels", truTV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 
-
-#EXTINF:-1 tvg-id="Tu.Deportes.Network.(TUDN).U.S..HDTV.(TUDNHD).us" tvg-name="Tu Deportes Network (TUDN) U.S. HDTV (TUDNHD)" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="Live Channels", TUDN
-https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
-
 #EXTINF:-1 tvg-id="TV.Land.(East).(TVLAND).us" tvg-name="TV Land (East) (TVLAND)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
 
@@ -1107,31 +1082,7 @@ http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 
 # U
 
-#EXTINF:-1 tvg-id="UniMás.(East).(UNIMAS).us" tvg-name="UniMás (East) (UNIMAS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="Live Channels", UniMas
-https://dai.google.com/linear/hls/event/EGOkHfP3QliognmK9maivw/master.m3u8
-
-#EXTINF:-1 tvg-id="UniMás.HDTV.(Pacific).(UNIMASHD).us" tvg-name="UniMás HDTV (Pacific) (UNIMASHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/200px-Logo_UniM%C3%A1s.svg.png" group-title="Live Channels", UniMas West
-
-
 #EXTINF:-1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us" tvg-name="Universal Kids HDTV (SPROUTHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Universal_Kids_2019_Logo.svg" group-title="Kids", Universal Kids
-
-
-#EXTINF:-1 tvg-id="Univision.Network.HDTV.(UNIHD).us" tvg-name="Univision Network HDTV (UNIHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels", Univision
-https://dai.google.com/linear/hls/event/MpRfxL7YRce-hMKhzSB7Ow/master.m3u8
-
-#EXTINF:-1 tvg-id="UnivisionKMEX.us" tvg-name="Univision West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels", Univision West (Los Angeles)
-
-
-#EXTINF:-1 tvg-id="UnivisionWUVG.us" tvg-name="Univision 34 Atlanta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels", Univision 34 Atlanta
-
-
-#EXTINF:-1 tvg-id="UnivisionKXLN.us" tvg-name="Univision 45 Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels", Univision 45 Houston
-
-
-#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="Univision 66 Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Live Channels", Univision 66 Chicago
-
-
-#EXTINF:-1 tvg-id="UnivisionTlnovelas.us" tvg-name="Univision TlNovelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Univision_tlnovelas_%282019%29.svg" group-title="Live Channels", Univision TlNovelas
 
 
 #EXTINF:-1 tvg-id="UPtv.HDTV.(UPTVHD).us" tvg-name="UPtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/UPtv_2018_logo.svg/revision/latest/scale-to-width-down/250?cb=20220921171605" group-title="Live Channels", UPtv
