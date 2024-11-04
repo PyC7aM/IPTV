@@ -573,7 +573,7 @@ http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
 
 #EXTINF:-1 tvg-id="LOGO.HDTV.(East).(LGOHD).us" tvg-name="LOGO HDTV (East) (LGOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Live Channels", Logo
-http://fl3.moveonjoy.com/Logo/index.m3u8
+
 
 #EXTINF:-1 tvg-id="LOGO.HDTV.(West).(LGOHD).us" tvg-name="LOGO HDTV (West) (LGOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Live Channels", Logo West
 
@@ -938,7 +938,7 @@ http://fl2.moveonjoy.com/STADIUM/index.m3u8
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 
 #EXTINF:-1 tvg-id="STARZ.HD.(West).(SZHDw).us" tvg-name="STARZ HD (West) (SZHDw)" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels", Starz West
-http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+
 
 #EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-name="STARZ Cinema (East) (STZCI)" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Live Channels", Starz Cinema
 
