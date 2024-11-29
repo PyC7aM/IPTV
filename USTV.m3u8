@@ -134,7 +134,7 @@ http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsEnEspanol.us" tvg-name="beIN Sports En Espanol" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Live Channels", beIN Sports En Espanol
 
 
-#EXTINF:-1 tvg-id="Black.Entertainment.Television.HDTV.(East).(BET-HD).us" tvg-name="Black Entertainment Television HDTV (East) (BET-HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET West
@@ -143,7 +143,7 @@ http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 #EXTINF:-1 tvg-id="BET Gospel (GOSP)" tvg-name="BET Gospel (GOSP)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149" group-title="Live Channels", BET Gospel
 http://fl2.moveonjoy.com/BET_GOSPEL/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.Her.HDTV.(BHERHD).us" tvg-name="BET Her HDTV (BHERHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live Channels", BET Her
+#EXTINF:-1 tvg-id="BET.Her.us" tvg-name="BET Her" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live Channels", BET Her
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
 
 #EXTINF:-1 tvg-id="BETHerPacific.us" tvg-name="BET Her West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live Channels", BET Her
