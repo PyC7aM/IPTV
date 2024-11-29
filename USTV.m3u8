@@ -440,58 +440,52 @@ http://fl2.moveonjoy.com/GET_TV/index.m3u8
 
 # H
 
-#EXTINF:-1 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-name="Hallmark Channel HDTV (East) (HALLHD)" tvg-logo="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Landing-Pages/collections/hallmark/hallmark-channel-min.png/_jcr_content/renditions/original.PNG" group-title="Live Channels", Hallmark Channel
+#EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" tvg-name="Hallmark - Eastern Feed" tvg-logo="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Landing-Pages/collections/hallmark/hallmark-channel-min.png/_jcr_content/renditions/original.PNG" group-title="Live Channels", Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-
-#EXTINF:-1 tvg-id="HallmarkChannelPacific.us" tvg-name="Hallmark Channel West" tvg-logo="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Landing-Pages/collections/hallmark/hallmark-channel-min.png/_jcr_content/renditions/original.PNG" group-title="Live Channels", Hallmark Channel West
-
 
 #EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="Hallmark Drama HDTV (HALDRHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Hallmark_Drama_%28Gold%29.svg/revision/latest?cb=20171130164502" group-title="Live Channels", Hallmark Drama
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
-#EXTINF:-1 tvg-id="Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us" tvg-name="Hallmark Movies and Mysteries HDTV (HMMHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Live Channels", Hallmark Movies & Mysteries
+#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Mystery Eastern - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Live Channels", Hallmark Mystery
 
 
-#EXTINF:-1 tvg-id="HallmarkMoviesAndMysteriesPacific.us" tvg-name="Hallmark Movies & Mysteries West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Live Channels", Hallmark Movies & Mysteries West
-
-
-#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-name="HBO HDTV (East) (HBOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Live Channels", HBO
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Live Channels", HBO
 http://fl2.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.HDTV.(West).(HBOHD).us" tvg-name="HBO HDTV (West) (HBOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Live Channels", HBO West
+#EXTINF:-1 tvg-id="HBO.-.Pacific.Feed.us" tvg-name="HBO - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Live Channels", HBO West
 
 
-#EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-name="HBO 2 HDTV (East) (HBO2HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Live Channels", HBO2
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO 2 - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Live Channels", HBO2
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2Pacific.us" tvg-name="HBO2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Live Channels", HBO2 West
+#EXTINF:-1 tvg-id="HBO.2.-.Pacific.Feed.us" tvg-name="HBO 2 - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Live Channels", HBO2 West
 
 
-#EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-name="HBO Comedy HDTV (East) (HBOCHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="Live Channels", HBO Comedy
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy HD - East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="Live Channels", HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/HBO_Comedy_2014_%28Stacked%29.svg/revision/latest/scale-to-width-down/250?cb=20210113003534" group-title="Live Channels", HBO Comedy West
 
 
-#EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-name="HBO Family HDTV (East) (HBOFHD)" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="Live Channels", HBO Family
+#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family - Eastern Feed" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="Live Channels", HBO Family
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOFamilyPacific.us" tvg-name="HBO Family West" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="Live Channels", HBO Family West
+#EXTINF:-1 tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-name="HBO Family - Pacific Feed" tvg-logo="https://static.wikia.nocookie.net/hbo-family/images/7/73/HBOFamily2014.png/revision/latest?cb=20210317034216" group-title="Live Channels", HBO Family West
 
 
-#EXTINF:-1 tvg-id="HBO.Latino.(East).(HBOLe).us" tvg-name="HBO Latino (East) (HBOLe)" tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="Live Channels", HBO Latino
+#EXTINF:-1 tvg-id="HBO.Latino.(HBO.7).-.Eastern.us" tvg-name="HBO Latino (HBO 7) - Eastern" tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="Live Channels", HBO Latino
 
 
 #EXTINF:-1 tvg-id="HBOLatinoPacific.us" tvg-name="Live Channels" tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="Live Channels", HBO Latino West
 
 
-#EXTINF:-1 tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us" tvg-name="HBO Signature HDTV (East) (HBOSHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113151115&path-prefix=es" group-title="Live Channels", HBO Signature
+#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-name="HBO Signature (HBO 3) - Eastern" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113151115&path-prefix=es" group-title="Live Channels", HBO Signature
 
 
 #EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/HBO_Signature_2014_%28Stacked%29.svg/revision/latest?cb=20210113151115&path-prefix=es" group-title="Live Channels", HBO Signature West
 
 
-#EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-name="HBO Zone HDTV (East) (HBOZHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="Live Channels", HBO Zone
+#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone HD - East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="Live Channels", HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOZonePacific.us" tvg-name="HBO Zone West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/HBO_Zone_2014_%28Stacked%29.svg/revision/latest?cb=20210113150928&path-prefix=es" group-title="Live Channels", HBO Zone West
@@ -865,13 +859,13 @@ http://fl2.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="Scripps.News.Channel.us" tvg-name="Scripps News Channel" tvg-logo="https://seeklogo.com/images/N/newsy-logo-DDC77AD5CE-seeklogo.com.png" group-title="News", Scripps News (Newsy)
 
 
-#EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-name="SEC Network HDTV (SECN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Live Channels", SEC Network
-
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Live Channels", SEC Network
+http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Paramount+ with Showtime - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels", Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="Paramount+ with Showtime  West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels", Showtime West
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="Paramount+ with Showtime West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels", Showtime West
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-name="Showtime 2 - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Live Channels", Showtime 2
