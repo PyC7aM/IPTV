@@ -167,7 +167,7 @@ http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-name="Bounce TV (Bounce)" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" group-title="Live Channels", Bounce
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-name="Bravo HDTV (East) (BRAVOD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Live Channels", Bravo
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-name="Bravo USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Live Channels", Bravo
 https://fl2.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="BravoPacific.us" tvg-name="Bravo West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Live Channels", Bravo West
