@@ -868,19 +868,19 @@ http://fl2.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="SEC.Network.HDTV.(SECN).us" tvg-name="SEC Network HDTV (SECN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Live Channels", SEC Network
 http://streamsy.online:2999/juanv/04bodwaga0/295
 
-#EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-name="Showtime HDTV (East) (SHOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels", Showtime
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Paramount+ with Showtime - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels", Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.HDTV.(West).(SHOHD).us" tvg-name="Showtime HDTV (West) (SHOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels", Showtime West
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="Paramount+ with Showtime  West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Live Channels", Showtime West
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-name="Showtime 2 HDTV (East) (SHO2HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Live Channels", Showtime 2
+#EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-name="Showtime 2 - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Live Channels", Showtime 2
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Live Channels", Showtime 2 West
 
 
-#EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-name="Showtime Extreme (East) (SHOXe)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Live Channels", Showtime Extreme
+#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="Showtime Extreme - Eastern" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Live Channels", Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Live Channels", Showtime Extreme West
@@ -892,19 +892,19 @@ http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeFamilyZonePacific.us" tvg-name="Showtime Family Zone West" tvg-logo="https://www.pngkey.com/png/full/0-1892_showtime-family-zone-logo.png" group-title="Live Channels", Showtime Family Zone West
 
 
-#EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-name="Showtime Next East HDTV (East) (SHOND)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Live Channels", Showtime Next
+#EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-name="Showtime Next HD - Eastern" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Live Channels", Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime Next West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Live Channels", Showtime Next West
 
 
-#EXTINF:-1 tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us" tvg-name="Showtime Showcase HDTV (East) (SHOCHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="Live Channels", Showtime Showcase
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.-.East.us" tvg-name="Showtime Showcase HD - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="Live Channels", Showtime Showcase
 
 
 #EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="Showtime Showcase West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="Live Channels", Showtime Showcase West
 
 
-#EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us" tvg-name="Showtime Women HDTV (East) (SHOWD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Live Channels", Showtime Women
+#EXTINF:-1 tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-name="Showtime Women HD - Eastern" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Live Channels", Showtime Women
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 #EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Live Channels", Showtime Women West
