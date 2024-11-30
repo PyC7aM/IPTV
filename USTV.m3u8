@@ -315,12 +315,12 @@ http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXDPacific.us" tvg-name="Disney XD West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD West
 
 
-#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DogTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/DOGTV_logo.svg" group-title="Live Channels",DogTV
+#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DogTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/DOGTV_logo.svg" group-title="Live Channels", DogTV
 
 
 # E
 
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-name="E! Entertainment Television HDTV (East) (E! HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels", E! Entertainment Television
+#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-name="E! Entertainment USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels", E! Entertainment Television
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! Entertainment Television West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels", E! Entertainment Television West
