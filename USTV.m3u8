@@ -187,13 +187,13 @@ http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us" tvg-name="Cartoon Network USA - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Live Channels", Cartoon Network West
 
 
-#EXTINF:-1 tvg-id="CBSWCBS.us" tvg-name="CBS East" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels", CBS East (New York)
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS (WCBS) New York, NY" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels", CBS East (New York)
 
 
-#EXTINF:-1 tvg-id="CBSKCBS.us" tvg-name="CBS West" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels", CBS West (Los Angeles)
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-name="CBS (KCBS) Los Angeles, CA" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels", CBS West (Los Angeles)
 
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-name="CBS Sports Network HDTV (CBSSD)" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="Live Channels", CBS Sports Network
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS Sports Network USA" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="Live Channels", CBS Sports Network
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge East" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge
@@ -211,7 +211,7 @@ http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-id="Circle.us" tvg-name="Circle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png" group-title="Live Channels", Circle
 
 
-#EXTINF:-1 tvg-id="CMT.HDTV.(East).(CMTHD).us" tvg-name="CMT HDTV (East) (CMTHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels", CMT
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT US - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels", CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
 
 #EXTINF:-1 tvg-id="CMTPacific.us" tvg-name="CMT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels", CMT West
@@ -220,22 +220,22 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 tvg-id="CMTMusic.us" tvg-name="CMT Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/CMT_Music_boxed.svg/revision/latest?cb=20231211211250" group-title="Live Channels", CMT Music
 
 
-#EXTINF:-1 tvg-id="Consumer.News.and.Business.Channel.HDTV.(CNBCH).us" tvg-name="Consumer News and Business Channel HDTV (CNBCH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="Live Channels", CNBC
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="Live Channels", CNBC
 http://fl2.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="Consumer.News.and.Business.Channel.World.(CNBCWLD).us" tvg-name="Consumer News and Business Channel World (CNBCWLD) " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="Live Channels", CNBC World
 
 
-#EXTINF:-1 tvg-id="Cable.News.Network.HDTV.(CNNHD).us" tvg-name="Cable News Network HDTV (CNNHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="News", CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="News", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-name="Cable News Network International (CNNI)" tvg-logo="" group-title="News", CNNI
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
-#EXTINF:-1 tvg-id="Cable.News.Network.en.Español.(USA).(CNNE).us" tvg-name="Cable News Network en Español (USA) (CNNE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="News", CNN en Espanol
+#EXTINF:-1 tvg-id="CNN.Español.us" tvg-name="CNN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg" group-title="News", CNN en Espanol
 
 
-#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-name="Comedy Central HDTV (East) (CMDHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central (US) - Eastern Feed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="Comedy Central West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central West
@@ -247,7 +247,7 @@ https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-name="Comet West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet West
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?delay=10800
 
-#EXTINF:-1 tvg-id="Cooking.Channel.HDTV.(COOKHD).us" tvg-name="The Cooking Channel HDTV (COOKHD)" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels", Cooking Channel
+#EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="The Cooking Channel" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels", Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="Court TV US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels", Court TV
@@ -259,13 +259,13 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?delay=1
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="Crime and Investigation Network HDTV (CI HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Live Channels", Crime & Investigation
 
 
-#EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.(CSPAN).us" tvg-name="Cable Satellite Public Affairs Network (CSPAN)" tvg-logo="https://cdn.cookielaw.org/logos/d22918b5-2a6a-4319-9b32-da9ae46d5aea/018de6d6-63c9-76c9-b943-a6dab502c30c/8606505d-18ba-4c6a-8619-883e3c2c5877/CSPAN_RGB_Navy_and_Cobalt.png" group-title="Live Channels", C-SPAN
+#EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" tvg-logo="https://cdn.cookielaw.org/logos/d22918b5-2a6a-4319-9b32-da9ae46d5aea/018de6d6-63c9-76c9-b943-a6dab502c30c/8606505d-18ba-4c6a-8619-883e3c2c5877/CSPAN_RGB_Navy_and_Cobalt.png" group-title="Live Channels", C-SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 
-#EXTINF:-1 tvg-id="Cable.Satellite.Public.Affairs.Network.2.(CSPAN2).us" tvg-name="Cable Satellite Public Affairs Network 2 (CSPAN2)" tvg-logo="https://cdn.worldvectorlogo.com/logos/c-span2.svg" group-title="Live Channels", C-SPAN 2
+#EXTINF:-1 tvg-id="C-SPAN.2.us" tvg-name="C-SPAN 2" tvg-logo="https://cdn.worldvectorlogo.com/logos/c-span2.svg" group-title="Live Channels", C-SPAN 2
 
 
-#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="C-SPAN 3" tvg-logo="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/11/cspan3.png?fit=800%2C250&ssl=1" group-title="Live Channels", C-SPAN 3
+#EXTINF:-1 tvg-id="C-SPAN.3.us" tvg-name="C-SPAN 3" tvg-logo="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/11/cspan3.png?fit=800%2C250&ssl=1" group-title="Live Channels", C-SPAN 3
 
 
 #EXTINF:-1 tvg-id="CWPIX11.us" tvg-name="CW (New York)" tvg-logo="https://cdn.cookielaw.org/logos/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/8759a1c2-140a-4c40-9971-9507bd445f02/96f451bb-2555-4c61-a248-8b78334b4fbe/CW-logo-black.png" group-title="Live Channels", CW East (New York)
