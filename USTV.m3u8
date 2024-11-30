@@ -904,7 +904,7 @@ http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Live Channels", Showtime Women West
 
 
-#EXTINF:-1 tvg-id="SHOxBET(East).(SHOBET).us" tvg-name="SHOxBET(East) (SHOBET)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest/scale-to-width-down/300?cb=20230125211658" group-title="Live Channels", SHOxBET East
+#EXTINF:-1 tvg-id="SHOXBET.-.Eastern.us" tvg-name="SHOXBET - Eastern" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest/scale-to-width-down/300?cb=20230125211658" group-title="Live Channels", SHOxBET
 
 
 #EXTINF:-1 tvg-id="SHOxBETPacific.us" tvg-name="SHOxBET West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest/scale-to-width-down/300?cb=20230125211658" group-title="Live Channels", SHOxBET West
@@ -913,7 +913,7 @@ http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="Smile.us" tvg-name="Smile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png" group-title="Live Channels", Smile
 
 
-#EXTINF:-1 tvg-id="Smithsonian.Channel.HDTV.(East).(SMITHHD).us" tvg-name="Smithsonian Channel HDTV (East) (SMITHHD)" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Live Channels", Smithsonian Channel
+#EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-name="Smithsonian Channel USA HD" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Live Channels", Smithsonian Channel
 http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian Channel West" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Live Channels", Smithsonian Channel West
@@ -925,67 +925,67 @@ http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="Sportsnet LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Spectrum_Sportsnet_LA.svg" group-title="Live Channels", Sportsnet LA
 
 
-#EXTINF:-1 tvg-id="Stadium.College.Sports.Atlantic.(SCSA).us" tvg-name="Stadium College Sports Atlantic (SCSA)" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="Live Channels", Stadium
+#EXTINF:-1 tvg-id="Stadium.College.Sports.-.Central.us" tvg-name="Stadium College Sports - Central" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="Live Channels", Stadium
 http://fl2.moveonjoy.com/STADIUM/index.m3u8
 
-#EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-name="STARZ HD (East) (STZHD)" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels", Starz
+#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz - Eastern" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels", Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 
 #EXTINF:-1 tvg-id="STARZ.HD.(West).(SZHDw).us" tvg-name="STARZ HD (West) (SZHDw)" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels", Starz West
 
 
-#EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-name="STARZ Cinema (East) (STZCI)" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Live Channels", Starz Cinema
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.-.Eastern.us" tvg-name="Starz Cinema HD - Eastern" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Live Channels", Starz Cinema
 
 
 #EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="Starz Cinema West" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Live Channels", Starz Cinema West
 
 
-#EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us" tvg-name="STARZ Comedy HD (East) (SZCHD)" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Live Channels", Starz Comedy
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy HD - Eastern" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Live Channels", Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="Starz Comedy West" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Live Channels", Starz Comedy West
 
 
-#EXTINF:-1 tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-name="STARZ Edge HD (East) (SZEHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Live Channels", Starz Edge
+#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Live Channels", Starz Edge
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 
 #EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="Starz Edge West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Live Channels", Starz Edge West
 
 
-#EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-name="STARZ ENCORE HD (East) (STZEH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Live Channels", Starz Encore
+#EXTINF:-1 tvg-id="Starz.Encore.-.Eastern.us" tvg-name="Starz Encore - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Live Channels", Starz Encore
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
-#EXTINF:-1 tvg-id="STARZ.ENCORE.(West).(SZEN).us" tvg-name="STARZ ENCORE (West) (SZEN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Live Channels", Starz Encore West
+#EXTINF:-1 tvg-id="Starz.Encore.-.Pacific.us" tvg-name="Starz Encore - Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Live Channels", Starz Encore West
 
 
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Action.(East).(STZAC).us" tvg-name="STARZ ENCORE Action (East) (STZAC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Action
+#EXTINF:-1 tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-name="Starz Encore Action - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Black.(East).(STZBK).us" tvg-name="STARZ ENCORE Black (East) (STZBK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/2560px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Black
+#EXTINF:-1 tvg-id="Starz.Encore.Black.-.Eastern.us" tvg-name="Starz Encore Black - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/2560px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Black
 
 
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Classic.(East).(STZCL).us" tvg-name="STARZ ENCORE Classic (East) (STZCL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/2560px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Classic
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.-.Eastern.us" tvg-name="Starz Encore Classic - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/2560px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Classic
 http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="STARZ.ENCORE.Español.(STZES).us" tvg-name="STARZ ENCORE Español (STZES)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Espa%C3%B1ol_Logo_2022.svg/2560px-Starz_Encore_Espa%C3%B1ol_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Espanol
 
 
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us" tvg-name="STARZ ENCORE Family (East) (STZFM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/1200px-Starz_Encore_Family_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Family
+#EXTINF:-1 tvg-id="Starz.Encore.Family.-.Eastern.us" tvg-name="Starz Encore Family - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/1200px-Starz_Encore_Family_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Family
 
 
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Suspense.(East).(STZSU).us" tvg-name="STARZ ENCORE Suspense (East) (STZSU)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/2560px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Suspense
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.-.Eastern.us" tvg-name="Starz Encore Suspense - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/2560px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Suspense
 
 
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-name="STARZ ENCORE Westerns (East) (STZWS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Westerns
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-name="Starz Encore Westerns - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Live Channels", Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
-#EXTINF:-1 tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-name="STARZ InBlack (East) (STZ B)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="Live Channels", Starz in Black
+#EXTINF:-1 tvg-id="Starz.In.Black.-.Eastern.us" tvg-name="Starz In Black - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="Live Channels", Starz in Black
 
 
 #EXTINF:-1 tvg-id="StarzInBlackPacific.us" tvg-name="Starz in Black West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="Live Channels", Starz in Black West
 
 
-#EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us" tvg-name="STARZ Kids and Family HD (East) (SZKHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Live Channels", Starz Kids & Family
+#EXTINF:-1 tvg-id="Starz.Kids.and.Family.-.Eastern.us" tvg-name="Starz Kids and Family - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Live Channels", Starz Kids & Family
 
 
 #EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="Starz Kids & Family West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Live Channels", Starz Kids & Family West
