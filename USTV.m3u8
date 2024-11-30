@@ -279,22 +279,22 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="Destination America HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Destination-America-White.png.webp" group-title="Live Channels", Destination America
 
 
-#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-name="The Discovery Channel HDTV (East) (DSCHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery Channel (US) - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels", Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels", Discovery Channel West
 
 
-#EXTINF:-1 tvg-id="The.Discovery.Channel.en.Español.(DSCE).us" tvg-name="The Discovery Channel en Español (DSCE)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Discovery_en_Espa%C3%B1ol_%282020%29.svg/2560px-Discovery_en_Espa%C3%B1ol_%282020%29.svg.png" group-title="Live Channels", Discovery Channel en Espanol
+#EXTINF:-1 tvg-id="Discovery.en.Espanol.us" tvg-name="Discovery en Espanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Discovery_en_Espa%C3%B1ol_%282020%29.svg/2560px-Discovery_en_Espa%C3%B1ol_%282020%29.svg.png" group-title="Live Channels", Discovery Channel en Espanol
 
 
-#EXTINF:-1 tvg-id="Discovery.Familia.(U.S..feed).(DFAM).us" tvg-name="Discovery Familia (U.S. feed) (DFAM) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/2560px-Discovery_Familia_logo.svg.png" group-title="Live Channels", Discovery Familia
+#EXTINF:-1 tvg-id="Discovery.Familia.us" tvg-name="Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Discovery_Familia_logo.svg/2560px-Discovery_Familia_logo.svg.png" group-title="Live Channels", Discovery Familia
 
 
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-name="Discovery Family Channel HDTV (DFCHD)" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/Discovery_Family_logo.png/revision/latest?cb=20220703140718" group-title="Live Channels", Discovery Family
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-name="Discovery Family Channel" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/Discovery_Family_logo.png/revision/latest?cb=20220703140718" group-title="Live Channels", Discovery Family
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-name="Discovery Life Channel (DLIF)" tvg-logo="https://adma.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&h=270" group-title="Live Channels", Discovery Life
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us" tvg-name="Discovery Life Channel" tvg-logo="https://adma.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&h=270" group-title="Live Channels", Discovery Life
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.HDTV.(East).(DISHD).us" tvg-name="The Disney Channel HDTV (East) (DISHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Kids", Disney Channel
@@ -526,13 +526,13 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 #EXTINF:-1 tvg-id="IndiePlex.us" tvg-name="Indieplex" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Indieplex_Stacked.svg/revision/latest?cb=20160512191618" group-title="Live Channels", Indieplex
 
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.HDTV.(IDHD).us" tvg-name="Investigation Discovery HDTV (IDHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery)
+#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-name="Investigation Discovery USA - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery)
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="InvestigationDiscoveryPacific.us" tvg-name="ID (Investigation Discovery) West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery) West
 
 
-#EXTINF:-1 tvg-id="IonTV.us" tvg-name="ION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg" group-title="Live Channels", ION
+#EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-name="ION  - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg" group-title="Live Channels", ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png" group-title="Live Channels", ION Mystery
