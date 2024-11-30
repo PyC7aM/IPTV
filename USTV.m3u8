@@ -822,21 +822,21 @@ http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 
 # Q
 
-#EXTINF:-1 tvg-id="Quality.Value.Convenience.Network.HDTV.(QVCHD).us" tvg-name="Quality Value Convenience Network HDTV (QVCHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels", QVC
+#EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels", QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 
 #EXTINF:-1 tvg-id="Quality.Value.Convenience.Network.HDTV.(QVCHD).us" tvg-name="Quality Value Convenience Network HDTV (QVCHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels", QVC West
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8?delay=10800
 
-#EXTINF:-1 tvg-id="QVC2.(QVC2).us" tvg-name="QVC2 (QVC2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="Live Channels", QVC2
+#EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="Live Channels", QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 
-#EXTINF:-1 tvg-id="QVC3.(QVC3).us" tvg-name="QVC3 (QVC3)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png" group-title="Live Channels", QVC3
+#EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/QVC_Logo.svg/615px-QVC_Logo.svg.png" group-title="Live Channels", QVC3
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 
 # R
 
-#EXTINF:-1 tvg-id="ReelzChannel.HDTV.(REELZH).us" tvg-name="ReelzChannel HDTV (REELZH)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Reelz_Channel.svg/795px-Reelz_Channel.svg.png" group-title="Live Channels", Reelz
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Reelz_Channel.svg/795px-Reelz_Channel.svg.png" group-title="Live Channels", Reelz
 http://fl2.moveonjoy.com/REELZ/index.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="RetroPlex East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Live Channels", RetroPlex
@@ -845,7 +845,7 @@ http://fl2.moveonjoy.com/REELZ/index.m3u8
 #EXTINF:-1 tvg-id="RetroPlexPacific.us" tvg-name="RetroPlex West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Live Channels", RetroPlex West
 
 
-#EXTINF:-1 tvg-id="Revolt.HDTV.(RVLTHD).us" tvg-name="Revolt HDTV (RVLTHD)" tvg-logo="https://photos.prnewswire.com/prnfull/20150320/183424LOGO" group-title="Live Channels", Revolt
+#EXTINF:-1 tvg-id="Revolt.TV.us" tvg-name="Revolt TV" tvg-logo="https://photos.prnewswire.com/prnfull/20150320/183424LOGO" group-title="Live Channels", Revolt
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
 
 #EXTINF:-1 tvg-id="rootsportsnorthwest.us" tvg-name="Root Sports Northwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Root_Sports_logo.svg" group-title="Live Channels", Root Sports Northwest
