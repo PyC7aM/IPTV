@@ -854,7 +854,7 @@ http://fl2.moveonjoy.com/REVOLT/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Scripps.News.Channel.us" tvg-name="Scripps News Channel" tvg-logo="https://seeklogo.com/images/N/newsy-logo-DDC77AD5CE-seeklogo.com.png" group-title="News", Scripps News (Newsy)
-
+https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Live Channels", SEC Network
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
@@ -924,6 +924,9 @@ http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Stadium.College.Sports.-.Central.us" tvg-name="Stadium College Sports - Central" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="Live Channels", Stadium
 http://fl2.moveonjoy.com/STADIUM/index.m3u8
+
+#EXTINF:-1 tvg-id="Start.TV.us" tvg-name="Start TV" tvg-logo="" group-title="Live Channels", Start TV
+http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz - Eastern" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels", Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8
