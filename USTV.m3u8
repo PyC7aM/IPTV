@@ -514,6 +514,9 @@ http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscoveryPacific.us" tvg-name="ID (Investigation Discovery) West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery) West
 
 
+#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP" tvg-logo="" group-title="Live Channels", INSP
+http://fl2.moveonjoy.com/INSP/index.m3u8
+
 #EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-name="ION  - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg" group-title="Live Channels", ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 
