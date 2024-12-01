@@ -761,19 +761,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a
 #EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Live Channels", Olympic Channel
 
 
-#EXTINF:-1 tvg-id="The.Oprah.Winfrey.Network.HDTV.(East).(OWNHD).us" tvg-name="The Oprah Winfrey Network HDTV (East) (OWNHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels", Oprah Winfrey Network (OWN)
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-name="Oprah Winfrey Network USA Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels", Oprah Winfrey Network (OWN)
 http://fl2.moveonjoy.com/OWN/index.m3u8
 
 #EXTINF:-1 tvg-id="OWNPacific.us" tvg-name="Oprah Winfrey Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels", Oprah Winfrey Network (OWN) West
 
 
-#EXTINF:-1 tvg-id="Outdoor.Channel.HDTV.(OUTHD).us" tvg-name="Outdoor Channel HDTV (OUTHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="Live Channels", Outdoor Channel
+#EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-name="Outdoor Channel US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="Live Channels", Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="OuterMAX.us" tvg-name="OuterMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/2560px-OuterMax_Logo.svg.png" group-title="Live Channels", OuterMAX
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OuterMax east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/2560px-OuterMax_Logo.svg.png" group-title="Live Channels", OuterMAX
 
 
-#EXTINF:-1 tvg-id="Oxygen.(East).(OXYGN).us" tvg-name="Oxygen (East) (OXYGN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Live Channels", Oxygen
+#EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-name="Oxygen - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Live Channels", Oxygen
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 tvg-id="OxygenPacific.us" tvg-name="Oxygen West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Live Channels", Oxygen West
@@ -784,7 +784,7 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-id="Pac12Network.us" tvg-name="Pac-12 Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Pac-12-Network-White.png" group-title="Live Channels", Pac-12 Network
 
 
-#EXTINF:-1 tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-name="Paramount Network HDTV (East) (PARHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels", Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels", Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="Paramount Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels", Paramount Network West
@@ -814,7 +814,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-name="PixL HDTV (PixLHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest?cb=20210408045829" group-title="Live Channels", PixL
 
 
-#EXTINF:-1 tvg-id="Pop.(East).(POP).us" tvg-name="Pop (East) (POP)" tvg-logo="https://seeklogo.com/images/P/pop-tv-logo-741352277F-seeklogo.com.png" group-title="Live Channels", PopTV
+#EXTINF:-1 tvg-id="POP.-.East.us" tvg-name="POP - East" tvg-logo="https://seeklogo.com/images/P/pop-tv-logo-741352277F-seeklogo.com.png" group-title="Live Channels", PopTV
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="POPPacific.us" tvg-name="PopTV West" tvg-logo="https://seeklogo.com/images/P/pop-tv-logo-741352277F-seeklogo.com.png" group-title="Live Channels", PopTV West
