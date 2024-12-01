@@ -10,7 +10,7 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 # A
 
-#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC East (Columbia)
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCKABC.us" tvg-name="ABC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC West (Los Angeles)
@@ -367,7 +367,7 @@ http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Live Channels", Food Network West
 
 
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX (WNYW) New York, NY" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live Channels", FOX East (Boston)
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX (WNYW) New York, NY" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live Channels", FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-name="FOX (KTTV) Los Angeles, CA" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live Channels", FOX West (Los Angeles)
@@ -669,13 +669,13 @@ http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Live Channels", NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="NBC East (Chicago)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels", NBC East (Chicago)
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC (WNBC) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels", NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCKNBC.us" tvg-name="NBC West (Los Angeles)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels", NBC West (Los Angeles)
 
 
-#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="The Golf Channel HDTV (GLFHD)" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/07/golf_render_-rgb.png" group-title="Live Channels", NBC Golf
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us" tvg-name="Golf Channel USA" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/07/golf_render_-rgb.png" group-title="Live Channels", NBC Golf
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2017/03/nbc-sports-bay-area.png" group-title="Live Channels", NBC Sports Bay Area
@@ -702,16 +702,16 @@ http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="UniversoPacific.us" tvg-name="NBC Universo West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Live Channels", NBC Universo West
 
 
-#EXTINF:-1 tvg-id="Newsmax.(NEWSM).us" tvg-name="Newsmax (NEWSM)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="News", Newsmax
+#EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="NewsMax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="News", Newsmax
 
 
-#EXTINF:-1 tvg-id="Newsmax2.(NEWSM2).us" tvg-name="Newsmax2 (NEWSM2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="Live Channels", Newsmax 2
+#EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="NewsMax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="Live Channels", Newsmax 2
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-id="NewsNation.HDTV.(NEWSNTN).us" tvg-name="NewsNation HDTV (NEWSNTN)" tvg-logo="https://www.newsnationnow.com/wp-content/themes/newsnation/client/static/newsnation-app-landing/images/newsnation-hero-logo.png" group-title="News", NewsNation
+#EXTINF:-1 tvg-id="NewsNation.-.Eastern.Feed.us" tvg-name="NewsNation - Eastern Feed" tvg-logo="https://www.newsnationnow.com/wp-content/themes/newsnation/client/static/newsnation-app-landing/images/newsnation-hero-logo.png" group-title="News", NewsNation
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 
-#EXTINF:-1 tvg-id="The.NFL.Network.HDTV.(NFLHD).us" tvg-name="The NFL Network HDTV (NFLHD)" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Sport", NFL Network
+#EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Sport", NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NFL.RedZone.HDTV.(NFLRZD).us" tvg-name="NFL RedZone HDTV (NFLRZD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/NFL_RedZone.svg/revision/latest?cb=20230828151712" group-title="Sport", NFL RedZone
