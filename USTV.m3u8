@@ -423,8 +423,8 @@ http://fl2.moveonjoy.com/FYI/index.m3u8
 
 # G
 
-#EXTINF:-1 tvg-id="Game.Show.Network.HDTV.(EAST).(GMSHWHD).us" tvg-name="Game Show Network HDTV (EAST) (GMSHWHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Live Channels", Game Show Network
-
+#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-name="Game Show Network - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Live Channels", Game Show Network
+http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="getTV.Network.(getTV).us" tvg-name="getTV Network (getTV)" tvg-logo="https://busterhouse.com/wp-content/uploads/2018/04/gettv.png" group-title="Live Channels", getTV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
@@ -433,7 +433,7 @@ http://fl2.moveonjoy.com/GET_TV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-GRIT.png" group-title="Live Channels", Grit
-
+http://fl2.moveonjoy.com/GRIT_TV/index.m3u8
 
 # H
 
