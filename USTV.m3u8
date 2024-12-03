@@ -913,7 +913,7 @@ http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Stadium.College.Sports.-.Central.us" tvg-name="Stadium College Sports - Central" tvg-logo="https://seeklogo.com/images/S/stadium-logo-E51B33CA35-seeklogo.com.png" group-title="Sports", Stadium
 
 
-#EXTINF:-1 tvg-id="Start.TV.us" tvg-name="Start TV" tvg-logo="" group-title="Live Channels", Start TV
+#EXTINF:-1 tvg-id="Start.TV.us" tvg-name="Start TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Start_TV_logo.svg" group-title="Live Channels", Start TV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz - Eastern" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Live Channels", Starz
