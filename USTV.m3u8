@@ -10,6 +10,9 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 # A
 
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A and E US - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="Live Channels", A&E
+http://streamsy.online:2999/live/venomj/EmoOmOskzq/212.m3u8
+
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
@@ -30,9 +33,6 @@ http://fl2.moveonjoy.com/ACC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Adult Swim West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="Live Channels", Adult Swim
 
-
-#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A and E US - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="Live Channels", A&E
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/212.m3u8
 
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Live Channels", AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
