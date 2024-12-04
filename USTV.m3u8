@@ -527,7 +527,7 @@ http://fl2.moveonjoy.com/ION_TV/index.m3u8
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-name="ION Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/ION_Plus_logo.svg/1200px-ION_Plus_logo.svg.png" group-title="Live Channels", ION Plus
-
+http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 
 # J
 
@@ -841,8 +841,8 @@ http://fl2.moveonjoy.com/REVOLT/index.m3u8
 
 # S
 
-#EXTINF:-1 tvg-id="Science.HDTV.(SCIHD).us" tvg-name="Science HDTV (SCIHD)" tvg-logo="https://bellmedia-images.imgix.net/lede/wp-content/uploads/2014/02/DiscoveryScience_Logo_Screen_Reverse.png?auto=format&q=60&crop=faces%2C%20edges&ixlib=react-9.5.1-beta.1" group-title="Live Channels", Science
-
+#EXTINF:-1 tvg-id="Science.us" tvg-name="Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Live Channels", Science
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-id="Scripps.News.Channel.us" tvg-name="Scripps News Channel" tvg-logo="https://seeklogo.com/images/N/newsy-logo-DDC77AD5CE-seeklogo.com.png" group-title="News", Scripps News (Newsy)
 https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
