@@ -1072,24 +1072,21 @@ http://fl2.moveonjoy.com/USA_Network/index.m3u8
 
 # V 
 
-#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1 - Eastern Feed" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels", VH1
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1 - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/VH1_logo.svg" group-title="Live Channels", VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="VH1Pacific.us" tvg-name="VH1 West" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/640px-VH1_logonew.svg.png&w=640&q=50" group-title="Live Channels", VH1
-
-
-#EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE" tvg-logo="https://assets-global.website-files.com/6508f2cbcbf0a0248497feca/652f00047d9c66508fc2eaa1_5%20vice-logo-transparent.png" group-title="Live Channels", Vice
+#EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Vice_TV_logo.svg" group-title="Live Channels", Vice
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
 
 # W
 
-#EXTINF:-1 tvg-id="The.Weather.Channel.us" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Live Channels", Weather Channel
+#EXTINF:-1 tvg-id="The.Weather.Channel.us" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Live Channels", Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="WE.(Women&apos;s.Entertainment).-.Eastern.us" tvg-name="WE (Women&apos;s Entertainment) - Eastern" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/WE_tvred.svg/revision/latest?cb=20210606211640" group-title="Live Channels", WeTV
+#EXTINF:-1 tvg-id="WE.(Women&apos;s.Entertainment).-.Eastern.us" tvg-name="WE (Women&apos;s Entertainment) - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Wetv-july-2024-logo.svg" group-title="Live Channels", WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://static.diceplatform.com/prod/AUTOx350/dce.wwe/settings/network_logo_new.png?ts=1552562839" group-title="Sports", WWE Network
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Sports", WWE Network
 http://fl2.moveonjoy.com/WWE/index.m3u8
 
 # X
