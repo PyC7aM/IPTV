@@ -844,10 +844,10 @@ https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Sports", SEC Network
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Paramount+ with Showtime - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Premium", Showtime
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Paramount+ with Showtime - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="Paramount+ with Showtime West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Showtime-Logo.svg" group-title="Premium", Showtime West
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="Paramount+ with Showtime West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime West
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.2.-.Eastern.us" tvg-name="Showtime 2 - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Premium", Showtime 2
@@ -856,40 +856,40 @@ http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Premium", Showtime 2 West
 
 
-#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="Showtime Extreme - Eastern" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Premium", Showtime Extreme
+#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="Showtime Extreme - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Premium", Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Showtime_Extreme_2001_%28Horizontal%29.svg/revision/latest?cb=20201220204707" group-title="Premium", Showtime Extreme West
+#EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Premium", Showtime Extreme West
 
 
-#EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-name="Showtime FamilyZone (East) (SHOFe)" tvg-logo="https://www.pngkey.com/png/full/0-1892_showtime-family-zone-logo.png" group-title="Premium", Showtime Family Zone
+#EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-name="Showtime FamilyZone (East) (SHOFe)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Showtime_Family_Zone.svg" group-title="Premium", Showtime Family Zone
 
 
-#EXTINF:-1 tvg-id="ShowtimeFamilyZonePacific.us" tvg-name="Showtime Family Zone West" tvg-logo="https://www.pngkey.com/png/full/0-1892_showtime-family-zone-logo.png" group-title="Premium", Showtime Family Zone West
+#EXTINF:-1 tvg-id="ShowtimeFamilyZonePacific.us" tvg-name="Showtime Family Zone West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Showtime_Family_Zone.svg" group-title="Premium", Showtime Family Zone West
 
 
-#EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-name="Showtime Next HD - Eastern" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Premium", Showtime Next
+#EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-name="Showtime Next HD - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Premium", Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime Next West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Showtime_Next_II.svg/revision/latest/scale-to-width-down/300?cb=20201219223426" group-title="Premium", Showtime Next West
+#EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime Next West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Premium", Showtime Next West
 
 
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.-.East.us" tvg-name="Showtime Showcase HD - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="Premium", Showtime Showcase
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.-.East.us" tvg-name="Showtime Showcase HD - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Showtime_Showcase.svg" group-title="Premium", Showtime Showcase
 
 
-#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="Showtime Showcase West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1280px-Showtime_Showcase.svg.png" group-title="Premium", Showtime Showcase West
+#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="Showtime Showcase West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Showtime_Showcase.svg" group-title="Premium", Showtime Showcase West
 
 
-#EXTINF:-1 tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-name="Showtime Women HD - Eastern" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Premium", Showtime Women
+#EXTINF:-1 tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-name="Showtime Women HD - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Showtime_Women.svg" group-title="Premium", Showtime Women
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Showtime_Women_%282022-%29.svg/revision/latest/scale-to-width-down/300?cb=20230126015042" group-title="Premium", Showtime Women West
+#EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Showtime_Women.svg" group-title="Premium", Showtime Women West
 
 
-#EXTINF:-1 tvg-id="SHOXBET.-.Eastern.us" tvg-name="SHOXBET - Eastern" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest/scale-to-width-down/300?cb=20230125211658" group-title="Premium", SHOxBET
+#EXTINF:-1 tvg-id="SHOXBET.-.Eastern.us" tvg-name="SHOXBET - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/ShoBET_logo_2020.svg" group-title="Premium", SHOxBET
 
 
-#EXTINF:-1 tvg-id="SHOxBETPacific.us" tvg-name="SHOxBET West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/SHO-BET-2023.svg/revision/latest/scale-to-width-down/300?cb=20230125211658" group-title="Premium", SHOxBET West
+#EXTINF:-1 tvg-id="SHOxBETPacific.us" tvg-name="SHOxBET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/ShoBET_logo_2020.svg" group-title="Premium", SHOxBET West
 
 
 #EXTINF:-1 tvg-id="Smile.us" tvg-name="Smile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png" group-title="Live Channels", Smile
