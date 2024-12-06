@@ -247,7 +247,7 @@ http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="Court TV US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels", Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
-#EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="Court TV West" tvg-shift=3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels", Court TV West
+#EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="Court TV West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" tvg-shift="-3" group-title="Live Channels", Court TV West
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:-1 tvg-id="Cozi.TV.us" tvg-name="Cozi TV" tvg-logo="" group-title="Live Channels", Cozi TV
