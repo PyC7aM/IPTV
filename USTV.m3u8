@@ -1044,7 +1044,7 @@ http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV USA - Eastern" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels", truTV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/TSN_Logo.svg" group-title="Sports", TSN 1
+#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports", TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TSN2.svg" group-title="Sports", TSN 2
