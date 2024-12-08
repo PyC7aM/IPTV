@@ -551,7 +551,7 @@ http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 # M
 
 #EXTINF:-1 tvg-id="Magnolia.-.East.us" tvg-name="Magnolia - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Magnolia_Network.svg" group-title="Live Channels", Magnolia
-
+http://fl2.moveonjoy.com/DIY/index.m3u8
 
 #EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV East" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Live Channels", MeTV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
