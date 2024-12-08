@@ -1092,7 +1092,7 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 tvg-id="The.Weather.Channel.us" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Live Channels", Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="WE.(Women's.Entertainment).-.Eastern.us">" tvg-name="WE (Women's Entertainment) - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/320px-Wetv-july-2024-logo.svg.png" group-title="Live Channels", WE (Women's Entertainment)
+#EXTINF:-1 tvg-id="WE.(Women's.Entertainment).-.Eastern.us" tvg-name="WE (Women's Entertainment) - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/320px-Wetv-july-2024-logo.svg.png" group-title="Live Channels", WE (Women's Entertainment)
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Sports", WWE Network
 http://fl2.moveonjoy.com/WWE/index.m3u8
