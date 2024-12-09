@@ -910,11 +910,11 @@ http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Start.TV.us" tvg-name="Start TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Start_TV_logo.svg" group-title="Live Channels", Start TV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz - Eastern" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Premium", Starz
+#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="Premium", Starz
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 
-#EXTINF:-1 tvg-id="STARZ.HD.(West).(SZHDw).us" tvg-name="STARZ HD (West) (SZHDw)" tvg-logo="https://www.starz.com/assets/images/icons/starz-logo-glint.svg" group-title="Premium", Starz West
-
+#EXTINF:-1 tvg-id="Starz.-.Pacific.us" tvg-name="Starz - Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="Premium", Starz West
+http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.-.Eastern.us" tvg-name="Starz Cinema HD - Eastern" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Premium", Starz Cinema
 
