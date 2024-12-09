@@ -755,6 +755,9 @@ http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OuterMax east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/OuterMax_Logo.svg" group-title="Premium", OuterMAX
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 
+#EXTINF:-1 tvg-id="Outside.TV.us" tvg-name="Outside TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Outside_TV.png" group-title="Live Channels", Outside TV
+http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="Ovation.us" tvg-name="Ovation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Ovation_TV_2018.jpg" group-title="Live Channels", Ovation
 http://fl3.moveonjoy.com/Ovation/index.m3u8
 
