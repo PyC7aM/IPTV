@@ -51,6 +51,8 @@ http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="Animal Planet West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet West
 
+#EXTINF:-1 tvg-id="ASPiRE.TV.us" tvg-name="ASPiRE TV" tvg-logo="" group-title="Live Channels", ASPiRE TV
+http://fl3.moveonjoy.com/Aspire/index.m3u8
 
 #EXTINF:-1 tvg-id="AXSTV.HD.(AXSTV).us" tvg-name="AXSTV HD (AXSTV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/AXS_TV_logo.svg" group-title="Live Channels", AXSTV
 
@@ -203,7 +205,7 @@ https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?delay=1
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.-.Pacific.Feed.us" tvg-name="Cinemax - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax West
-
+http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Circle.us" tvg-name="Circle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png" group-title="Live Channels", Circle
 
@@ -267,6 +269,9 @@ http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="Crime and Investigation Network HDTV (CI HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Live Channels", Crime & Investigation
 
+
+#EXTINF:-1 tvg-id="Curiosity.Channel(Stream).us" tvg-name="Curiosity Channel(Stream)" tvg-logo="" group-title="Live Channels", Curiosity Channel(Stream)
+http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 
 #EXTINF:-1 tvg-id="CWPIX11.us" tvg-name="CW (New York)" tvg-logo="https://cdn.cookielaw.org/logos/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/8759a1c2-140a-4c40-9971-9507bd445f02/96f451bb-2555-4c61-a248-8b78334b4fbe/CW-logo-black.png" group-title="Live Channels", CW East (New York)
 
