@@ -6,12 +6,12 @@
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-name="5 Star Max - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/5StarMax_Logo.svg" group-title="Premium", 5 StarMAX
-
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 # A
 
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A and E US - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="Live Channels", A&E
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/212.m3u8
+
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -49,7 +49,8 @@ http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet US - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanetPacific.us" tvg-name="Animal Planet West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet West
+#EXTINF:-1 tvg-id="Antenna.us" tvg-name="Antenna" tvg-logo="" group-title="Live Channels", Antenna
+http://fl3.moveonjoy.com/Antenna/index.m3u8
 
 #EXTINF:-1 tvg-id="ASPiRE.TV.us" tvg-name="ASPiRE TV" tvg-logo="" group-title="Live Channels", ASPiRE TV
 http://fl3.moveonjoy.com/Aspire/index.m3u8
@@ -358,10 +359,10 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News", FOX News
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/267.m3u8
+
 
 #EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports", FOX Soccer Plus
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/265.m3u8
+
 
 #EXTINF:-1 tvg-id="Fox.Soul.us" tvg-name="Fox Soul" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Fox-Soul-logo-network.png" group-title="Live Channels", FOX Soul
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
@@ -370,7 +371,7 @@ http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sports", FS2
-http://streamsy.online:2999/venomj/EmoOmOskzq/264
+
 
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Live Channels", FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -479,7 +480,7 @@ http://fl2.moveonjoy.com/HGTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History Channel US - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Live Channels", History Channel
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/153.m3u8
+
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg" group-title="Live Channels", HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
@@ -604,7 +605,7 @@ http://fl3.moveonjoy.com/MSG/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-name="MSNBC USA" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_35/3502557/msnbc-logo.png" group-title="Live Channels", MSNBC
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/143.m3u8
+
 
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="MTV USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels", MTV
 https://fl2.moveonjoy.com/MTV/index.m3u8
