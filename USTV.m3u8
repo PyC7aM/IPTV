@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="3ABN.Kids.Network.us" tvg-name="3ABN Kids Network" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Kids", 3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-name="5 Star Max - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/5StarMax_Logo.svg" group-title="Premium", 5 StarMAX
+#EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-name="5 Star Max - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/640px-5StarMax_Logo.svg.png" group-title="Premium", 5 StarMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 # A
@@ -758,7 +758,7 @@ http://fl2.moveonjoy.com/OWN/index.m3u8
 #EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-name="Outdoor Channel US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="Live Channels", Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OuterMax east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/OuterMax_Logo.svg" group-title="Premium", OuterMAX
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OuterMax east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/640px-OuterMax_Logo.svg.png" group-title="Premium", OuterMAX
 http://fl2.moveonjoy.com/OUTER_MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Outside.TV.us" tvg-name="Outside TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Outside_TV.png" group-title="Live Channels", Outside TV
@@ -931,13 +931,13 @@ http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="Starz Cinema West" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Premium", Starz Cinema West
 
 
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy HD - Eastern" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Premium", Starz Comedy
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy HD - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/640px-Starz_Comedy_Logo_2022.svg.png" group-title="Premium", Starz Comedy
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="Starz Comedy West" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Premium", Starz Comedy West
 
 
-#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Premium", Starz Edge
+#EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/640px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 
 #EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="Starz Edge West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Premium", Starz Edge West
