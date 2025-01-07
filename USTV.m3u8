@@ -11,7 +11,7 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 # A
 
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A and E US - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="Live Channels", A&E
-
+http://23.237.104.106:8080/USA_AE/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
@@ -47,7 +47,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-name="Animal Planet US - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet
-http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
 #EXTINF:-1 tvg-id="Antenna.us" tvg-name="Antenna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png" group-title="Live Channels", Antenna
 http://fl3.moveonjoy.com/Antenna/index.m3u8
@@ -327,7 +327,7 @@ http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports", ESPN
-
+http://23.237.104.106:8080/USA_ESPN1/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="Sports", ESPN2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
@@ -371,7 +371,7 @@ http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sports", FS2
-
+http://23.237.104.106:8080/USA_FS2/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Live Channels", FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -456,7 +456,7 @@ http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-name="HBO Signature (HBO 3) - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HBO_Signature_%282014%29.svg" group-title="Premium", HBO Signature
-
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HBO_Signature_%282014%29.svg" group-title="Premium", HBO Signature West
 
@@ -480,7 +480,7 @@ http://fl2.moveonjoy.com/HGTV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History Channel US - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Live Channels", History Channel
-
+http://23.237.104.106:8080/USA_HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg" group-title="Live Channels", HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
@@ -493,8 +493,8 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 
 # I
 
-#EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/800px-IFC_2018_logo.svg.png" group-title="Live Channels", IFC
-
+#EXTINF:-1 tvg-id="IFC.HDTV.(East).us" tvg-name="IFC HDTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/800px-IFC_2018_logo.svg.png" group-title="Live Channels", IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiePlex.us" tvg-name="Indieplex" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Indieplex_Stacked.svg/revision/latest?cb=20160512191618" group-title="Premium", IndiePlex
 
@@ -926,7 +926,7 @@ http://fl2.moveonjoy.com/STARZ/index.m3u8
 http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.-.Eastern.us" tvg-name="Starz Cinema HD - Eastern" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Premium", Starz Cinema
-
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="Starz Cinema West" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Premium", Starz Cinema West
 
