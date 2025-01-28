@@ -1110,6 +1110,9 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-name="World Fishing Network (US) (WFN)" tvg-logo="" group-title="Live Channels", World Fishing Network
 http://fl2.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="WGN.Chicago,.IL.us" tvg-name="WGN Chicago, IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WGN_CW_logo_2024.svg/640px-WGN_CW_logo_2024.svg.png" group-title="Live Channels", WGN
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Sports", WWE Network
 
 
