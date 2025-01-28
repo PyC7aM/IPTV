@@ -197,10 +197,10 @@ http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge East" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+
 
 #EXTINF:-1 tvg-id="Charge!Pacific.us" tvg-name="Charge West" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge West
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8?delay=10800
+
 
 #EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="Cinemax - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax
 http://fl5.moveonjoy.com/CINEMAX/index.m3u8
@@ -239,10 +239,10 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-name="Comet TV (COMET)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
 
 #EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-name="Comet West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet West
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?delay=10800
+
 
 #EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="The Cooking Channel" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels", Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
@@ -991,10 +991,10 @@ http://fl2.moveonjoy.com/SYFY/index.m3u8
 # T
 
 #EXTINF:-1 tvg-id="TBD.us" tvg-name="TBD. East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/2560px-TBD_Logo_2019.svg.png" group-title="Live Channels", TBD.
-https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+
 
 #EXTINF:-1 tvg-id="TBDPacific.us" tvg-name="TBD. West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TBD_Logo_2019.svg/2560px-TBD_Logo_2019.svg.png" group-title="Live Channels", TBD. West
-https://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?delay=10800
+
 
 #EXTINF:-1 tvg-id="TBN..-.Trinity.Broadcasting.Network.-.East.us" tvg-name="TBN  - Trinity Broadcasting Network - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_%282015%29.svg/1200px-Trinity_Broadcasting_Network_logo_%282015%29.svg.png" group-title="Live Channels", TBN
 https://d7ge95bb03xsu.cloudfront.net/out/v1/0c95a89614194912834019fc37d741ef/tbn-freecast.m3u8
