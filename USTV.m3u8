@@ -461,7 +461,7 @@ http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HBO_Signature_%282014%29.svg" group-title="Premium", HBO Signature West
 
 
-#EXTINF:-1 tvg-id="HBO.Xtreme.-.East.us" tvg-name="HBO Xtreme - Eastern Feed" tvg-logo="" group-title="Premium", HBO Xtreme
+#EXTINF:-1 tvg-id="HBO.Xtreme.-.East.us" tvg-name="HBO Xtreme - Eastern Feed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg" group-title="Premium", HBO Xtreme
 http://170.254.18.106/HBO_XTREME/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone HD - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_%282014%29.svg" group-title="Premium", HBO Zone
