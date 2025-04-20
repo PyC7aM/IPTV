@@ -177,7 +177,7 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-id="C-SPAN.2.us" tvg-name="C-SPAN 2" tvg-logo="https://cdn.worldvectorlogo.com/logos/c-span2.svg" group-title="Live Channels", C-SPAN 2
-
+https://v1.thetvapp.to/hls/CSPAN2/index.m3u8
 
 #EXTINF:-1 tvg-id="C-SPAN.3.us" tvg-name="C-SPAN 3" tvg-logo="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/11/cspan3.png?fit=800%2C250&ssl=1" group-title="Live Channels", C-SPAN 3
 
