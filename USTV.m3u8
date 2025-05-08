@@ -118,7 +118,7 @@ http://fl3.moveonjoy.com/Aspire/index.m3u8
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="BBC World News North America (BBCWN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/BBC_News_2022_%28Alt%29.svg" group-title="News", BBC News
-http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+https://v1.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
 
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="beIN Sports La Liga" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_LaLiga_1.png" group-title="Live Channels", beIN Sports La Liga
 
