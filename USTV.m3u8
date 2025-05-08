@@ -356,7 +356,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News", FOX News
-
+https://v1.thetvapp.to/hls/FoxNewsChannel/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports", FOX Soccer Plus
 
@@ -429,7 +429,7 @@ http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO
-http://fl2.moveonjoy.com/HBO/index.m3u8
+https://v1.thetvapp.to/hls/HBOEast/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.-.Pacific.Feed.us" tvg-name="HBO - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO West
 
