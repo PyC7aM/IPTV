@@ -435,7 +435,7 @@ https://v1.thetvapp.to/hls/HBOEast/index.m3u8
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.-.Pacific.Feed.us" tvg-name="HBO 2 - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/HBO_2_%282014%29.svg" group-title="Premium", HBO2 West
-
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy HD - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Premium", HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
