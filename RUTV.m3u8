@@ -988,22 +988,22 @@ http://livetv.mylifeisgood.net.ru/channels/mult.m3u8
 http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="General", НТВ
-https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv-mir" group-title="General", НТВ-Мир
 http://ott-cdn.ucom.am/s17/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv-pravo" group-title="", НТВ Право
-https://livetv.mylifeisgood.net.ru/channels/ntvpravo24
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Movies", НТВ Сериал
-https://livetv.mylifeisgood.net.ru/channels/ntvserial24
+https://cdn.ntv.ru/th_serial/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv-style" group-title="", НТВ Стиль
-https://livetv.mylifeisgood.net.ru/channels/ntvstyle24
+https://cdn.ntv.ru/th_style/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Movies", НТВ-Хит
-https://livetv.mylifeisgood.net.ru/channels/ntvhit24
+https://cdn.ntv.ru/th_hit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntm" group-title="Regional", НТМ
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
