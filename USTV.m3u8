@@ -123,8 +123,8 @@ https://v1.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="beIN Sports La Liga" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_LaLiga_1.png" group-title="Live Channels", beIN Sports La Liga
 
 
-#EXTINF:-1 tvg-id="beIN.Sports.HDTV.(English).(beIn).us" tvg-name="beIN Sports HDTV (English) (beIn)" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports", beIN Sports
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="beIN.Sport.USA.us" tvg-name="beIN Sport USA" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports", beIN Sport USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
