@@ -919,11 +919,12 @@ http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Start.TV.us" tvg-name="Start TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Start_TV_logo.svg" group-title="Live Channels", Start TV
 http://fl3.moveonjoy.com/Start_Tv/index.m3u8
 
+
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-name="Starz - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="Premium", Starz
-http://fl2.moveonjoy.com/STARZ/index.m3u8
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.-.Pacific.us" tvg-name="Starz - Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="Premium", Starz West
-http://fl2.moveonjoy.com/STARZ_WEST/index.m3u8
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.-.Eastern.us" tvg-name="Starz Cinema HD - Eastern" tvg-logo="https://iili.io/bIfER1.md.png" group-title="Premium", Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
@@ -932,13 +933,13 @@ http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy HD - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/640px-Starz_Comedy_Logo_2022.svg.png" group-title="Premium", Starz Comedy
-http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="Starz Comedy West" tvg-logo="https://iili.io/bIfMDg.md.png" group-title="Premium", Starz Comedy West
 
 
 #EXTINF:-1 tvg-id="Starz.Edge.-.Eastern.us" tvg-name="Starz Edge - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/640px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge
-http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+http://23.237.104.106:8080/USA_STARZ_EDGE/index.m3u8
 
 #EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="Starz Edge West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Premium", Starz Edge West
 
@@ -965,7 +966,7 @@ http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Starz.Encore.Westerns.-.Eastern.us" tvg-name="Starz Encore Westerns - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/2560px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Premium", Starz Encore Westerns
-http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
+http://23.237.104.106:8080/USA_STARZ_WESTERNS/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.In.Black.-.Eastern.us" tvg-name="Starz In Black - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png" group-title="Premium", Starz in Black
 
@@ -983,7 +984,7 @@ http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="Syfy - Eastern Feed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels", SYFY
-http://fl2.moveonjoy.com/SYFY/index.m3u8
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-id="SyfyPacific.us" tvg-name="SYFY West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels", SYFY West
 
@@ -1051,7 +1052,7 @@ http://fl2.moveonjoy.com/Travel_Channel/index.m3u8
 
 
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV USA - Eastern" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels", truTV
-http://fl2.moveonjoy.com/TRU_TV/index.m3u8
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports", TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
@@ -1086,15 +1087,15 @@ http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network - East Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
+http://23.237.104.106:8080/USA_NETWORK/index.m3u8
 
 # V 
 
 #EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1 - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/VH1_logo.svg" group-title="Live Channels", VH1
-http://fl2.moveonjoy.com/VH1/index.m3u8
+http://23.237.104.106:8080/USA_VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/256px-Vice_TV_logo.svg.png" group-title="Live Channels", Vice
-http://fl2.moveonjoy.com/VICELAND/index.m3u8
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
 # W
 
