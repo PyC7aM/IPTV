@@ -779,7 +779,7 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels", Paramount Network
-http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="Paramount Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels", Paramount Network West
 
@@ -851,7 +851,7 @@ http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Paramount+ with Showtime - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime
-http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="Paramount+ with Showtime West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime West
 http://fl2.moveonjoy.com/SHOWTIME_WEST/index.m3u8
