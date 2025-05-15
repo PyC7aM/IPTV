@@ -118,7 +118,7 @@ http://fl3.moveonjoy.com/Aspire/index.m3u8
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="BBC World News North America (BBCWN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/BBC_News_2022_%28Alt%29.svg" group-title="News", BBC News
-https://v1.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
+
 
 #EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="beIN Sports La Liga" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_LaLiga_1.png" group-title="Live Channels", beIN Sports La Liga
 
@@ -174,7 +174,7 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-id="C-SPAN.2.us" tvg-name="C-SPAN 2" tvg-logo="https://cdn.worldvectorlogo.com/logos/c-span2.svg" group-title="Live Channels", C-SPAN 2
-https://v1.thetvapp.to/hls/CSPAN2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="C-SPAN.3.us" tvg-name="C-SPAN 3" tvg-logo="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/11/cspan3.png?fit=800%2C250&ssl=1" group-title="Live Channels", C-SPAN 3
 
@@ -353,7 +353,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News", FOX News
-https://v1.thetvapp.to/hls/FoxNewsChannel/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-name="FOX Soccer Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports", FOX Soccer Plus
 
@@ -426,7 +426,7 @@ http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO
-https://v1.thetvapp.to/hls/HBOEast/index.m3u8
+http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.-.Pacific.Feed.us" tvg-name="HBO - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO West
 
@@ -596,7 +596,7 @@ http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
 http://fl3.moveonjoy.com/MSG/index.m3u8
 
 #EXTINF:-1 tvg-id="MovieMax.(Max.6).-.East.us" tvg-name="MovieMAX (Max 6 ) - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/MovieMax_Logo.svg" group-title="Premium", MovieMAX
-https://v1.thetvapp.to/hls/MovieMaxEast/index.m3u8
+
 
 #EXTINF:-1 tvg-id="MoviePlex.us" tvg-name="MoviePlex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/2560px-Movieplex_logo.svg.png" group-title="Premium", MoviePlex
 
@@ -694,7 +694,7 @@ http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="NewsMax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="News", Newsmax
-https://v1.thetvapp.to/hls/NewsmaxTV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="NewsMax.TV.us" tvg-name="NewsMax TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="News", Newsmax 2
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
