@@ -127,7 +127,7 @@ https://v1.thetvapp.to/hls/BBCWorldNewsNorthAmerica/index.m3u8
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET
-http://fl2.moveonjoy.com/BET_EAST/index.m3u8
+http://23.237.104.106:8080/USA_BET/index.m3u8
 
 #EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET West
 
@@ -338,7 +338,7 @@ http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-name="Food Network USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Live Channels", Food Network
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetworkPacific.us" tvg-name="Food Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Live Channels", Food Network West
 
@@ -362,7 +362,7 @@ https://v1.thetvapp.to/hls/FoxNewsChannel/index.m3u8
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports", FS1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://23.237.104.106:8080/USA_FS1/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-name="Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sports", FS2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
@@ -371,7 +371,7 @@ http://23.237.104.106:8080/USA_FS2/index.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" tvg-name="Freeform - East Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="Live Channels", Freeform
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
+http://23.237.104.106:8080/USA_FREEFORM/index.m3u8
 
 #EXTINF:-1 tvg-id="FreeformPacific.us" tvg-name="Freeform West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="Live Channels", Freeform West
 
@@ -380,7 +380,7 @@ http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX Networks East Coast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels", FX
-http://fl2.moveonjoy.com/FX/index.m3u8
+http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FXPacific.us" tvg-name="FX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels", FX West
 
@@ -389,7 +389,7 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-name="FXX USA - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels", FXX
-http://fl2.moveonjoy.com/FXX/index.m3u8
+http://23.237.104.106:8080/USA_FXX/index.m3u8
 
 #EXTINF:-1 tvg-id="FXXPacific.us" tvg-name="FXX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels", FXX West
 
