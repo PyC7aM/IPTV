@@ -276,6 +276,15 @@ http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8
 
 # D
 
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Deep House District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-id="deutsche-welle-eu" group-title="News", Deutsche Welle Europe
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
 #EXTINF:-1 tvg-id="Destination.America.us" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Destination_America_logo.svg" group-title="Live Channels", Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
 
