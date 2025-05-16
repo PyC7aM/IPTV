@@ -251,7 +251,7 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 http://fl3.moveonjoy.com/COZI_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Crave.1.ca" tvg-name="Crave 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 1
-http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+http://fl5.moveonjoy.com/CRAVE_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Crave.2.ca" tvg-name="Crave 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 2
 http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
@@ -945,13 +945,13 @@ http://23.237.104.106:8080/USA_STARZ_EDGE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Starz.Encore.-.Eastern.us" tvg-name="Starz Encore - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Premium", Starz Encore
-http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Encore.-.Pacific.us" tvg-name="Starz Encore - Pacific" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Premium", Starz Encore West
 
 
 #EXTINF:-1 tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-name="Starz Encore Action - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/2560px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Premium", Starz Encore Action
-http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+http://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Encore.Black.-.Eastern.us" tvg-name="Starz Encore Black - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/2560px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Premium", Starz Encore Black
 
