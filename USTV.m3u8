@@ -664,7 +664,7 @@ http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sports", NBA TV
-http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-name="NBC (WNBC) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels", NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
@@ -712,13 +712,13 @@ https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 http://fl5.moveonjoy.com/NEWS_NATION/index.m3u8
 
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-name="NFL Network" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Sports", NFL Network
-http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+http://fl5.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NFL.RedZone.us" tvg-name="NFL RedZone" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/NFL_RedZone.svg/revision/latest?cb=20230828151712" group-title="Sports", NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://sing.com.br/wp-content/uploads/2019/11/NHK-japan-1030x1030.png" group-title="Live Channels", NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
+
 
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-name="NHL Network USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/NHL_Network_2012.svg" group-title="Sports", NHL Network
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
@@ -733,7 +733,7 @@ http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-name="Nick Jr. - East" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="Kids", Nick Jr
-http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+http://fl5.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJrPacific.us" tvg-name="NickJr West" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="Kids", Nick Jr West
 
@@ -742,7 +742,7 @@ http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 https://dai.google.com/linear/hls/event/_Ath2237RR2QfYlKfSa9hQ/master.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="Nick Music (NICM)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/NickMusic_Splat.svg/revision/latest/scale-to-width-down/250?cb=20240129184250" group-title="Kids", Nick Music
-http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="Nicktoons - East" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939" group-title="Kids", NickToons
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
@@ -759,19 +759,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a
 
 
 #EXTINF:-1 tvg-id="Oprah.Winfrey.Network.USA.Eastern.us" tvg-name="Oprah Winfrey Network USA Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels", Oprah Winfrey Network (OWN)
-http://fl2.moveonjoy.com/OWN/index.m3u8
+http://fl5.moveonjoy.com/OWN/index.m3u8
 
 #EXTINF:-1 tvg-id="OWNPacific.us" tvg-name="Oprah Winfrey Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels", Oprah Winfrey Network (OWN) West
 
 
 #EXTINF:-1 tvg-id="Outdoor.Channel.US.us" tvg-name="Outdoor Channel US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="Live Channels", Outdoor Channel
-http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
+http://fl5.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="OuterMax east" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/OuterMax_Logo.svg/640px-OuterMax_Logo.svg.png" group-title="Premium", OuterMAX
 http://fl5.moveonjoy.com/OUTER_MAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Outside.TV.us" tvg-name="Outside TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Outside_TV.png" group-title="Live Channels", Outside TV
-http://fl2.moveonjoy.com/OUTSIDE_TV/index.m3u8
+http://fl5.moveonjoy.com/OUTSIDE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Ovation.us" tvg-name="Ovation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Ovation_TV_2018.jpg" group-title="Live Channels", Ovation
 http://fl3.moveonjoy.com/Ovation/index.m3u8
@@ -843,7 +843,7 @@ http://fl2.moveonjoy.com/REELZ/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Revolt.TV.us" tvg-name="Revolt TV" tvg-logo="https://photos.prnewswire.com/prnfull/20150320/183424LOGO" group-title="Live Channels", Revolt
-http://fl2.moveonjoy.com/REVOLT/index.m3u8
+http://fl5.moveonjoy.com/REVOLT/index.m3u8
 
 #EXTINF:-1 tvg-id="rootsportsnorthwest.us" tvg-name="Root Sports Northwest" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Root_Sports_logo.svg" group-title="Live Channels", Root Sports Northwest
 
@@ -857,7 +857,7 @@ http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SEC.Network.us" tvg-name="SEC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Sports", SEC Network
-http://fl2.moveonjoy.com/SEC_NETWORK/index.m3u8
+http://fl5.moveonjoy.com/SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Paramount+ with Showtime - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
@@ -911,7 +911,7 @@ http://fl5.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Smithsonian.Channel.USA.HD.us" tvg-name="Smithsonian Channel USA HD" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Live Channels", Smithsonian Channel
-http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+http://fl5.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="SmithsonianNetworkPacific.us" tvg-name="Smithsonian Channel West" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Live Channels", Smithsonian Channel West
 
@@ -1051,7 +1051,7 @@ https://fl2.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 tvg-id="Tr3s.(East).(TR3s).us" tvg-name="Tr3s (East) (TR3s)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels", tr3s
 
 
-#EXTINF:-1 tvg-id="Trace.Urban.(North.America).(TRACEURB).us" tvg-name="Trace Urban (North America) (TRACEURB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Live Channels", Trace Urban
+#EXTINF:-1 tvg-id="Trace.Urban.(North.America).(TRACEURB).us" tvg-name="Trace Urban (North America) (TRACEURB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Music", Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-name="Travel US - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/2018_Travel_Channel_logo.svg" group-title="Live Channels", Travel Channel
