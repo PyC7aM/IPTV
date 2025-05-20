@@ -359,7 +359,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Fox.Business.us" tvg-name="Fox Business" tvg-logo="https://circlecareservices.com/wp-content/uploads/2024/04/Fox_Business.png" group-title="Live Channels", FOX Business
-http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
+http://fl5.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News", FOX News
 
@@ -386,7 +386,7 @@ http://23.237.104.106:8080/USA_FREEFORM/index.m3u8
 
 
 #EXTINF:-1 tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-name="FUSE TV - Eastern feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="Live Channels", Fuse
-http://fl2.moveonjoy.com/FUSE/index.m3u8
+http://fl5.moveonjoy.com/FUSE/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-name="FX Networks East Coast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels", FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
