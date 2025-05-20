@@ -1124,7 +1124,7 @@ http://fl5.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Sports", WWE Network
-
+http://fl5.moveonjoy.com/WWE/index.m3u8
 
 # X
 
