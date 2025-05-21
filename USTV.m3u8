@@ -1111,6 +1111,9 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
 # W
 
+#EXTINF:-1 tvg-id="W.Network.us" tvg-name="W Network" tvg-logo="" group-title="Live Channels", W Network
+http://fl5.moveonjoy.com/W_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="The.Weather.Channel.us" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Live Channels", Weather Channel
 http://fl5.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
