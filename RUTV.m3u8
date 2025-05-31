@@ -9,7 +9,7 @@ http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD
-https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
 
