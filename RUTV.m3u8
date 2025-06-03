@@ -12,7 +12,7 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
-
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
 
 #EXTINF:-1 tvg-id="360-news" group-title="News", 360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
@@ -469,7 +469,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 
 #EXTINF:-1 tvg-id="rtg-hd" group-title="Travel & Tourism", RTG HD 
-
+http://194.143.148.28:8080/RTG_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="rtg-tv" group-title="Travel & Tourism", RTG TV
 
@@ -478,7 +478,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 
 #EXTINF:-1 tvg-id="rutv" group-title="Music", RU.TV
-
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
 
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", Russian MusicBox
 
@@ -728,13 +728,13 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="dozhd" group-title="News", Дождь
-
+https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
 
 
 #EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
-
+https://streaming.skynetconnect.online/live/44.m3u8
 
 #EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино премиум HD
 
@@ -743,7 +743,7 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="domashny" group-title="", Домашний
-
+https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 
 #EXTINF:-1 tvg-id="drive" group-title="", Драйв
 
@@ -785,6 +785,9 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" group-title="Movies", Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zvezda-plus" group-title="Movies", Звезда Плюс
+http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zootv" group-title="", Зоо ТВ
 http://ott-cdn.ucom.am/s92/index.m3u8
@@ -841,7 +844,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kino-tv" group-title="Movies", КиноТВ
-
+https://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
 
@@ -959,7 +962,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="moya-planeta" group-title="", Моя Планета
-
+http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
 
@@ -985,7 +988,7 @@ https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 # Н
 
 #EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
-
+http://178.217.72.66:8080/NSTV/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="General", НТВ
 https://cdn.ntv.ru/ntv0/playlist.m3u8
@@ -1091,7 +1094,7 @@ http://rtmp.one.by:1200
 
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
-
+http://178.217.72.66:8080/pobeda/index.m3u8
 
 #EXTINF:-1 tvg-id="poexali" group-title="Travel & Tourism", Поехали!
 
@@ -1109,13 +1112,13 @@ http://rtmp.one.by:1200
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Entertainment", Пятница
-
+https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 
 #EXTINF:-1 tvg-id="piatnica-int" group-title="Entertainment", Пятница International
 
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Movies", Пятый канал
-
+http://178.217.72.66:8080/5_Kanal/index.m3u8
 
 # Р
 
@@ -1129,7 +1132,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
-
+https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="Movies", Ретро ТВ
 
@@ -1162,7 +1165,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="Movies", Русский иллюзион
-
+http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="Movies", Русский роман
 
@@ -1179,7 +1182,7 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 
 
 #EXTINF:-1 tvg-id="sts-int" group-title="Entertainment", СТС International
-
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
 
@@ -1209,7 +1212,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="super" group-title="Entertainment", Супер
-
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 
 # Т
 
@@ -1217,7 +1220,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://ott-cdn.ucom.am/s54/index.m3u8
 
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Entertainment", ТВ3 
-
+https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 
 #EXTINF:-1 tvg-id="tv3-by" group-title="Entertainment", ТВ3 Беларусь
 
@@ -1226,10 +1229,10 @@ http://ott-cdn.ucom.am/s54/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
-
+https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="Entertainment", ТНТ-International
-http://ott-cdn.ucom.am/s19/index.m3u8
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 
 #EXTINF:-1 tvg-id="tnt-music" group-title="Music", ТНТ-Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
@@ -1284,7 +1287,7 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 # Ч
 
 #EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
-
+https://vs6.cdn.mrf.tvime.ru/che/index.m3u8
 
 # Ш
 
@@ -1307,7 +1310,7 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 # Ю
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
-
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
 
 #EXTINF:-1 tvg-id="yurgan" group-title="Regional", Юрган
 
