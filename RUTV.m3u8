@@ -1156,7 +1156,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
-
+https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Movies", Русский бестселлер
 
