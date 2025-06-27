@@ -795,7 +795,7 @@ http://ott-cdn.ucom.am/s92/index.m3u8
 # И
 
 #EXTINF:-1 tvg-id="izvestia" group-title="News", Известия
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Movies", Иллюзион +
 
@@ -965,7 +965,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 
 #EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
-
+http://195.26.83.96:7007/play/11/index.m3u8
 
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Movies", Мужское кино
 
@@ -1028,6 +1028,9 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Новое радио
 
+
+#EXTINF:-1 tvg-id="novy-vek-tambov" group-title="General", Новый век
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
 
 #EXTINF:-1 tvg-id="novy-mir" group-title="General", Новый мир
 
@@ -1144,10 +1147,10 @@ https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
-
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
-
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="Entertainment", Россия К
 
