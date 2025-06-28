@@ -524,7 +524,7 @@ http://fl2.moveonjoy.com/ION_TV/index.m3u8
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ION.Plus.TV.us" tvg-name="ION Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Ion_Plus_2024.svg" group-title="Live Channels", ION Plus
-
+https://fl3.moveonjoy.com/ION_Plus/index.m3u8
 
 # J
 
@@ -812,7 +812,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="PIXL.us" tvg-name="PIXL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Pixl.png/revision/latest?cb=20210408045829" group-title="Live Channels", PixL
-
+https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 
 #EXTINF:-1 tvg-id="POP.-.East.us" tvg-name="POP - East" tvg-logo="https://seeklogo.com/images/P/pop-tv-logo-741352277F-seeklogo.com.png" group-title="Live Channels", PopTV
 
