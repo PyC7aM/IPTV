@@ -127,7 +127,7 @@ http://fl5.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET
-http://23.237.104.106:8080/USA_BET/index.m3u8
+https://fl3.moveonjoy.com/BET_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="BETPacific.us" tvg-name="BET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET West
 
