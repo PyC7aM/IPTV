@@ -19,6 +19,9 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ACC.Network.us" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/ACC_Network_ESPN_logo.svg" group-title="Sports", ACC Network
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
 
+#EXTINF:-1 tvg-id="AccuWeather.us" tvg-name="AccuWeather" tvg-logo="" group-title="Live Channels", AccuWeather
+https://accuweatherx-lg.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ActionMAX.us" tvg-name="ActionMAX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ActionMax_logo.svg" group-title="Premium", ActionMAX
 
 
