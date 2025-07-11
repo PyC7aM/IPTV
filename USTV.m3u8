@@ -1051,7 +1051,7 @@ http://fl5.moveonjoy.com/TLC/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels", TNT
-https://fl2.moveonjoy.com/TNT/index.m3u8
+http://143.244.60.30/TNT/index.m3u8
 
 #EXTINF:-1 tvg-id="Tr3s.(East).(TR3s).us" tvg-name="Tr3s (East) (TR3s)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels", tr3s
 
@@ -1101,8 +1101,7 @@ http://fl5.moveonjoy.com/TV_ONE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network - East Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
-http://23.237.104.106:8080/USA_NETWORK/index.m3u8
-
+http://143.244.60.30/USA_NETWORK/index.m3u8
 # V 
 
 #EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1 - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/VH1_logo.svg" group-title="Live Channels", VH1
