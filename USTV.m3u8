@@ -383,7 +383,7 @@ http://23.237.104.106:8080/USA_FS2/index.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" tvg-name="Freeform - East Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="Live Channels", Freeform
-http://23.237.104.106:8080/USA_FREEFORM/index.m3u8
+http://fl5.moveonjoy.com/FREE_FORM/index.m3u8
 
 #EXTINF:-1 tvg-id="FreeformPacific.us" tvg-name="Freeform West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="Live Channels", Freeform West
 
@@ -444,7 +444,7 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO 2 - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/HBO_2_%282014%29.svg" group-title="Premium", HBO2
-
+http://fl5.moveonjoy.com/HBO_2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.-.Pacific.Feed.us" tvg-name="HBO 2 - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/HBO_2_%282014%29.svg" group-title="Premium", HBO2 West
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
@@ -483,7 +483,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-name="HGTV USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels", HGTV
-http://23.237.104.106:8080/USA_HGTV/index.m3u8
+http://fl5.moveonjoy.com/HGTV/index.m3u8
 
 #EXTINF:-1 tvg-id="HGTVPacific.us" tvg-name="HGTV West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels", HGTV West
 
