@@ -871,7 +871,7 @@ http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 http://fl5.moveonjoy.com/SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-name="Paramount+ with Showtime - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime
-http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="Paramount+ with Showtime West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime West
 http://fl5.moveonjoy.com/SHOWTIME_WEST/index.m3u8
