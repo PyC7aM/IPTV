@@ -845,7 +845,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 http://fl2.moveonjoy.com/MAV_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Reelz_Channel.svg/795px-Reelz_Channel.svg.png" group-title="Live Channels", Reelz
-http://fl2.moveonjoy.com/REELZ/index.m3u8
+http://fl1.moveonjoy.com/REELZ/index.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="RetroPlex East" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Premium", RetroPlex
 
