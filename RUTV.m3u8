@@ -222,6 +222,9 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-eu" group-title="News", Deutsche Welle Europe
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="News", Deutsche Welle Russia
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+
 #EXTINF:-1 tvg-id="discovery-channel-ce" group-title="", Discovery Channel
 
 
