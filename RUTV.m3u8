@@ -3,7 +3,7 @@
 # Nos
 
 #EXTINF:-1 tvg-id="10kanal-novokuzneck" group-title="Regional", 10 канал Новокузнецк
-http://rmhkuzbass.ru:8082/10kanal/10kanal_720/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="12-omsk" group-title="Regional", 12 канал Омск
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
@@ -12,7 +12,7 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
-https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+
 
 #EXTINF:-1 tvg-id="360-news" group-title="News", 360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
@@ -41,7 +41,7 @@ http://31.148.48.15/A2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Akudji
-https://hls.goodgame.ru/hls/5346.m3u8
+
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", Amedia Hit
 
@@ -53,16 +53,16 @@ https://hls.goodgame.ru/hls/5346.m3u8
 
 
 #EXTINF:-1 tvg-id="ani" group-title="Kids", Ani
-
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="", Animal Planet
 
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
-http://ott-cdn.ucom.am/s66/04.m3u8
+
 
 #EXTINF:-1 tvg-id="atv-filmzone" group-title="Movies", ATV Filmzone
-http://ott-cdn.ucom.am/s48/04.m3u8
+
 
 #EXTINF:-1 tvg-id="atv-kinoman" group-title="Movies", ATV Kinoman
 
@@ -138,7 +138,7 @@ http://ott-cdn.ucom.am/s48/04.m3u8
 
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-
+http://catchup.videoline.ru/cinema/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cineman" group-title="Movies", CineMan
 
@@ -492,7 +492,7 @@ https://hls-03-video.webcaramba.com/rutv/live.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
-
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
 
