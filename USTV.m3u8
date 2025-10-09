@@ -192,7 +192,7 @@ http://fl7.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network HD" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="Sports", CBS Sports Network
 http://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Charge!.us" tvg-name="Charge East" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="CHARGE!" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge
 
 
 #EXTINF:-1 tvg-id="Charge!Pacific.us" tvg-name="Charge West" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge West
@@ -222,14 +222,14 @@ http://fl7.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="Consumer.News.and.Business.Channel.World.(CNBCWLD).us" tvg-name="Consumer News and Business Channel World (CNBCWLD) " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="Live Channels", CNBC World
 
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="News", CNN
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="News", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-name="Cable News Network International (CNNI)" tvg-logo="" group-title="News", CNNI
-http://fl5.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International" tvg-logo="" group-title="News", CNNI
+http://fl7.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central (US) - Eastern Feed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+http://fl7.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="Comedy Central West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central West
 
@@ -241,25 +241,25 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 
 #EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="The Cooking Channel" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels", Cooking Channel
-http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+http://fl7.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="Court TV US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels", Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:-1 tvg-id="Cozi.TV.us" tvg-name="Cozi TV" tvg-logo="" group-title="Live Channels", Cozi TV
-http://fl3.moveonjoy.com/COZI_TV/index.m3u8
+http://fl7.moveonjoy.com/COZI_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Crave.1.ca" tvg-name="Crave 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 1
-http://fl5.moveonjoy.com/CRAVE_1/index.m3u8
+http://fl7.moveonjoy.com/CRAVE_1/index.m3u8
 
 #EXTINF:-1 tvg-id="Crave.2.ca" tvg-name="Crave 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 2
-http://fl5.moveonjoy.com/CRAVE_2/index.m3u8
+http://fl7.moveonjoy.com/CRAVE_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Crave.3.ca" tvg-name="Crave 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 3
-http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+http://fl7.moveonjoy.com/CRAVE_3/index.m3u8
 
 #EXTINF:-1 tvg-id="Crave.4.ca" tvg-name="Crave 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 4
-http://fl5.moveonjoy.com/CRAVE_4/index.m3u8
+http://fl7.moveonjoy.com/CRAVE_4/index.m3u8
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="Crime and Investigation Network HDTV (CI HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Live Channels", Crime & Investigation
 
@@ -285,19 +285,19 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="Destination.America.us" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Destination_America_logo.svg" group-title="Live Channels", Destination America
-http://fl3.moveonjoy.com/Destination_America/index.m3u8
+http://fl7.moveonjoy.com/Destination_America/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery Channel (US) - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels", Discovery Channel
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+http://fl7.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels", Discovery Channel West
 
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-name="Discovery Family Channel" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/Discovery_Family_logo.png/revision/latest?cb=20220703140718" group-title="Live Channels", Discovery Family
-http://fl3.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+http://fl7.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us" tvg-name="Discovery Life Channel" tvg-logo="https://adma.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&h=270" group-title="Live Channels", Discovery Life
-http://fl5.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+http://fl7.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Kids", Disney Channel
 http://fl1.moveonjoy.com/DISNEY/index.m3u8
@@ -306,13 +306,13 @@ http://fl1.moveonjoy.com/DISNEY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Junior USA - East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior
-http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+http://fl7.moveonjoy.com/DISNEY_JR/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-name="Disney Junior West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior West
 
 
 #EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="Disney XD USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD
-http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyXDPacific.us" tvg-name="Disney XD West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD West
 
@@ -566,8 +566,8 @@ http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 # M
 
-#EXTINF:-1 tvg-id="Magnolia.-.East.us" tvg-name="Magnolia - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Magnolia_Network.svg" group-title="Live Channels", Magnolia
-http://fl2.moveonjoy.com/DIY/index.m3u8
+#EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Magnolia_Network.svg" group-title="Live Channels", Magnolia
+http://fl7.moveonjoy.com/DIY/index.m3u8
 
 #EXTINF:-1 tvg-id="MeTV.us" tvg-name="MeTV East" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Live Channels", MeTV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
