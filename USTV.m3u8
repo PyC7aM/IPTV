@@ -41,7 +41,7 @@ http://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 
 #EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/American_Heroes_Channel_logo.svg" group-title="Live Channels", American Heroes Channel
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
+http://fl7.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet
 http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
@@ -50,7 +50,7 @@ http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="ASPiRE HD" tvg-logo="" group-title="Live Channels", ASPiRE
-http://fl3.moveonjoy.com/Aspire/index.m3u8
+http://fl7.moveonjoy.com/Aspire/index.m3u8
 
 #EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/AXS_TV_logo.svg" group-title="Live Channels", AXS TV
 
