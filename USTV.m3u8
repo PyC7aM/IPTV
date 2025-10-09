@@ -14,7 +14,7 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+http://fl7.moveonjoy.com/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/ACC_Network_ESPN_logo.svg" group-title="Sports", ACC Network
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
@@ -32,7 +32,7 @@ https://accuweatherx-lg.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Live Channels", AMC
-http://23.237.104.106:8080/USA_AMC/index.m3u8
+http://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Live Channels", AMC West
 
@@ -198,17 +198,17 @@ http://fl5.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Charge!Pacific.us" tvg-name="Charge West" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge West
 
 
-#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="Cinemax - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax
-http://fl5.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax
+http://fl7.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.-.Pacific.Feed.us" tvg-name="Cinemax - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax West
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax West
 
 
 #EXTINF:-1 tvg-id="Circle.us" tvg-name="Circle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png" group-title="Live Channels", Circle
 
 
-#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT US - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels", CMT
-http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels", CMT
+http://fl7.moveonjoy.com/CMT/index.m3u8
 
 #EXTINF:-1 tvg-id="CMTPacific.us" tvg-name="CMT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels", CMT West
 
@@ -216,8 +216,8 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 tvg-id="CMTMusic.us" tvg-name="CMT Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/CMT_Music_boxed.svg/revision/latest?cb=20231211211250" group-title="Live Channels", CMT Music
 
 
-#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="Live Channels", CNBC
-http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="Live Channels", CNBC
+http://fl7.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="Consumer.News.and.Business.Channel.World.(CNBCWLD).us" tvg-name="Consumer News and Business Channel World (CNBCWLD) " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="Live Channels", CNBC World
 
