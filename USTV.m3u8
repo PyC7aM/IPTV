@@ -1052,46 +1052,46 @@ http://fl5.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="ThrillerMAXPacific.us" tvg-name="ThrillerMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/ThrillerMax_Logo.svg" group-title="Premium", ThrillerMAX West
 
 
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels", TNT
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels", TNT
 http://143.244.60.30/TNT/index.m3u8
 
-#EXTINF:-1 tvg-id="Tr3s.(East).(TR3s).us" tvg-name="Tr3s (East) (TR3s)" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels", tr3s
+#EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="Tr3s: MTV, Musica y Mas" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels", Tr3s: MTV
 
 
 #EXTINF:-1 tvg-id="Trace.Urban.(North.America).(TRACEURB).us" tvg-name="Trace Urban (North America) (TRACEURB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Music", Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-name="Travel US - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/2018_Travel_Channel_logo.svg" group-title="Live Channels", Travel Channel
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-name="The Travel Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/2018_Travel_Channel_logo.svg" group-title="Live Channels", Travel Channel
 http://fl5.moveonjoy.com/Travel_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="TravelChannelPacific.us" tvg-name="Travel Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Live Channels", Travel Channel West
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="The Travel Channel HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Live Channels", Travel Channel West
 
 
-#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV USA - Eastern" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels", truTV
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels", truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports", TSN 1
 http://fl5.moveonjoy.com/TSN_1/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TSN2.svg" group-title="Sports", TSN 2
+#EXTINF:-1 tvg-id="TSN2" tvg-name="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TSN2.svg" group-title="Sports", TSN 2
 http://fl5.moveonjoy.com/TSN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg" group-title="Sports", TSN 3
+#EXTINF:-1 tvg-id="TSN3" tvg-name="TSN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg" group-title="Sports", TSN 3
 http://fl5.moveonjoy.com/TSN_3/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg" group-title="Sports", TSN 4
+#EXTINF:-1 tvg-id="TSN4" tvg-name="TSN 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg" group-title="Sports", TSN 4
 http://fl5.moveonjoy.com/TSN_4/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1" tvg-name="TSN 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg" group-title="Sports", TSN 5
+#EXTINF:-1 tvg-id="TSN5" tvg-name="TSN 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg" group-title="Sports", TSN 5
 http://fl5.moveonjoy.com/TSN_5/index.m3u8
 
-#EXTINF:-1 tvg-id="TV.Land.-.Eastern.us" tvg-name="TV Land - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land
+#EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
 
-#EXTINF:-1 tvg-id="TVLandPacific.us" tvg-name="TVLand West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land West
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV Land HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land West
 
 
-#EXTINF:-1 tvg-id="TV.One.us" tvg-name="TV One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels", TV ONE
+#EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels", TV ONE
 http://fl5.moveonjoy.com/TV_ONE/index.m3u8
 
 # U
@@ -1099,17 +1099,17 @@ http://fl5.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 tvg-id="Universal.Kids.HDTV.(SPROUTHD).us" tvg-name="Universal Kids HDTV (SPROUTHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Universal_Kids_2019_Logo.svg" group-title="Kids", Universal Kids
 
 
-#EXTINF:-1 tvg-id="UPtv.HDTV.(UPTVHD).us" tvg-name="UPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/UPtv_logo.svg" group-title="Live Channels", UPtv
+#EXTINF:-1 tvg-id="UPtv.us2" tvg-name="UPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/UPtv_logo.svg" group-title="Live Channels", UPtv
 
 
-#EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA Network - East Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
 http://143.244.60.30/USA_NETWORK/index.m3u8
-# V 
+# V
 
-#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1 - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/VH1_logo.svg" group-title="Live Channels", VH1
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/VH1_logo.svg" group-title="Live Channels", VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="VICE.us" tvg-name="VICE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/256px-Vice_TV_logo.svg.png" group-title="Live Channels", Vice
+#EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="Vice HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/256px-Vice_TV_logo.svg.png" group-title="Live Channels", Vice
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
 # W
@@ -1117,19 +1117,19 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="W.Network.us" tvg-name="W Network" tvg-logo="" group-title="Live Channels", W Network
 http://fl5.moveonjoy.com/W_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="The.Weather.Channel.us" tvg-name="The Weather Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Live Channels", Weather Channel
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Live Channels", Weather Channel
 http://fl5.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="WE.(Women's.Entertainment).-.Eastern.us" tvg-name="WE (Women's Entertainment) - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/320px-Wetv-july-2024-logo.svg.png" group-title="Live Channels", WE (Women's Entertainment)
+#EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE tv HD us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/320px-Wetv-july-2024-logo.svg.png" group-title="Live Channels", WE (Women's Entertainment)
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-name="World Fishing Network (US) (WFN)" tvg-logo="" group-title="Live Channels", World Fishing Network
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network HD (US)" tvg-logo="" group-title="Live Channels", World Fishing Network
 http://fl5.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="WGN.Chicago,.IL.us" tvg-name="WGN Chicago, IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WGN_CW_logo_2024.svg/640px-WGN_CW_logo_2024.svg.png" group-title="Live Channels", WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Sports", WWE Network
+#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Sports", WWE Network
 http://fl5.moveonjoy.com/WWE/index.m3u8
 
 # X
@@ -1137,7 +1137,7 @@ http://fl5.moveonjoy.com/WWE/index.m3u8
 
 # Y
 
-#EXTINF:-1 tvg-id="YES.Network.us" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/YES_Network_logo.svg" group-title="Sports", YES Network
+#EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/YES_Network_logo.svg" group-title="Sports", YES Network
 http://fl5.moveonjoy.com/YES_NETWORK/index.m3u8
 
 # Z
