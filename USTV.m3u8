@@ -25,17 +25,11 @@ https://accuweatherx-lg.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-name="ActionMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ActionMax_logo.svg" group-title="Premium", ActionMAX
 
 
-#EXTINF:-1 tvg-id="ActionMAXPacific.us" tvg-name="ActionMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ActionMax_logo.svg" group-title="Premium", ActionMAX West
-
-
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="AdultSwim.com Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="Live Channels", Adult Swim
 
 
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Live Channels", AMC
 http://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Live Channels", AMC West
-
 
 #EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Live Channels", AMC Plus
 
@@ -60,68 +54,11 @@ http://fl7.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.TV.us2" tvg-name="BabyFirst TV" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20240422182307" group-title="Kids", BabyFirst
 
 
-#EXTINF:-1 tvg-id="BallySportsDetroit.us" tvg-name="Bally Sports Detroit" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Detroit
-
-
-#EXTINF:-1 tvg-id="BallySportsFlorida.us" tvg-name="Bally Sports Florida" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Florida
-
-
-#EXTINF:-1 tvg-id="BallySportsGreatLakes.us" tvg-name="Bally Sports Great Lakes" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Great Lakes
-
-
-#EXTINF:-1 tvg-id="BallySportsIndiana.us" tvg-name="Bally Sports Indiana" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Indiana
-
-
-#EXTINF:-1 tvg-id="BallySportsKansasCity.us" tvg-name="Bally Sports Kansas City" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Kansas City
-
-
-#EXTINF:-1 tvg-id="BallySportsMidwest.us" tvg-name="Bally Sports Midwest" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Midwest
-
-
-#EXTINF:-1 tvg-id="BallySportsNewOrleans.us" tvg-name="Bally Sports New Orleans" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports New Orleans
-
-
-#EXTINF:-1 tvg-id="BallySportsNorth.us" tvg-name="Bally Sports North" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports North
-
-
-#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="Bally Sports Ohio" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Ohio
-
-
-#EXTINF:-1 tvg-id="BallySportsOklahoma.us" tvg-name="Bally Sports Oklahoma" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Oklahoma
-
-
-#EXTINF:-1 tvg-id="BallySportsSanDiego.us" tvg-name="Bally Sports San Diego" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports San Diego
-
-
-#EXTINF:-1 tvg-id="BallySportsSoCal.us" tvg-name="Bally Sports SoCal" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports SoCal
-
-
-#EXTINF:-1 tvg-id="BallySportsSouth.us" tvg-name="Bally Sports South" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports South
-
-
-#EXTINF:-1 tvg-id="BallySportsSoutheast.us" tvg-name="Bally Sports Southeast" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Southeast
-
-
-#EXTINF:-1 tvg-id="BallySportsSouthwest.us" tvg-name="Bally Sports Southwest" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Southwest
-
-
-#EXTINF:-1 tvg-id="BallySportsSun.us" tvg-name="Bally Sports Sun" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Sun
-
-
-#EXTINF:-1 tvg-id="BallySportsWest.us" tvg-name="Bally Sports West" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports West
-
-
-#EXTINF:-1 tvg-id="BallySportsWisconsin.us" tvg-name="Bally Sports Wisconsin" tvg-logo="https://i.ibb.co/fxf61dL/bally-sports-us.png" group-title="Sport", Bally Sports Wisconsin
-
-
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Live Channels", BBC America
-http://fl5.moveonjoy.com/BBC_AMERICA/index.m3u8
+http://fl7.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC News (North America) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/BBC_News_2022_%28Alt%29.svg" group-title="News", BBC News
 http://fl7.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="beinsportslaliga.us" tvg-name="beIN Sports La Liga" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/BeIn_Sports_LaLiga_1.png" group-title="Live Channels", beIN Sports La Liga
-
 
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA HD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports", beIN Sport USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
@@ -137,9 +74,6 @@ http://fl7.moveonjoy.com/BET_GOSPEL/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live Channels", BET Her
 http://fl7.moveonjoy.com/BET_HER/index.m3u8
-
-#EXTINF:-1 tvg-id="BETHerPacific.us" tvg-name="BET Her West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live Channels", BET Her
-
 
 #EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/BET_Jams_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230922123529" group-title="Live Channels", BET Jams
 http://fl7.moveonjoy.com/BET_Jams/index.m3u8
@@ -171,12 +105,13 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 # C
 
 #EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="CSPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/C-SPAN_Logo_%282019%29.svg" group-title="Live Channels", C-SPAN
-http://fl5.moveonjoy.com/C-SPAN/index.m3u8
+http://fl7.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-id="CSPAN2.us2" tvg-name="CSPAN2" tvg-logo="https://cdn.worldvectorlogo.com/logos/c-span2.svg" group-title="Live Channels", C-SPAN 2
 
 
 #EXTINF:-1 tvg-id="CSPAN3.us2" tvg-name="CSPAN3" tvg-logo="https://i0.wp.com/graphicpolicy.com/wp-content/uploads/2022/11/cspan3.png?fit=800%2C250&ssl=1" group-title="Live Channels", C-SPAN 3
+
 
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
@@ -184,18 +119,16 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-name="Cartoon Network (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network West
 
 
-#EXTINF:-1 tvg-id="CBS.News.National.Stream.us2" tvg-name="CBS News National Stream" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels", CBS
+#EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-name="CBS Streaming SD East feed" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels", CBS
 http://fl7.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.West.us2" tvg-name="CBS West" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels", CBS West
+
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network HD" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="Sports", CBS Sports Network
 http://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="CHARGE!" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge
-
-
-#EXTINF:-1 tvg-id="Charge!Pacific.us" tvg-name="Charge West" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge West
 
 
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax
@@ -204,14 +137,11 @@ http://fl7.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax West
 
 
-#EXTINF:-1 tvg-id="Circle.us" tvg-name="Circle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png" group-title="Live Channels", Circle
+#EXTINF:-1 tvg-id="Circle.Country.us2" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png" group-title="Live Channels", Circle Country
 
 
 #EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels", CMT
 http://fl7.moveonjoy.com/CMT/index.m3u8
-
-#EXTINF:-1 tvg-id="CMTPacific.us" tvg-name="CMT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels", CMT West
-
 
 #EXTINF:-1 tvg-id="CMTMusic.us" tvg-name="CMT Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/CMT_Music_boxed.svg/revision/latest?cb=20231211211250" group-title="Live Channels", CMT Music
 
@@ -219,34 +149,34 @@ http://fl7.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="Live Channels", CNBC
 http://fl7.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="Consumer.News.and.Business.Channel.World.(CNBCWLD).us" tvg-name="Consumer News and Business Channel World (CNBCWLD) " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="Live Channels", CNBC World
+#EXTINF:-1 tvg-id="CNBC.World.us2" tvg-name="CNBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="Live Channels", CNBC World
 
 
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="News", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International" tvg-logo="" group-title="News", CNNI
+#EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International" tvg-logo="" group-title="News", CNN International
 http://fl7.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="Comedy Central (US) - Eastern Feed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central
 http://fl7.moveonjoy.com/Comedy_Central/index.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="Comedy Central West" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central West
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central HD (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central West
 
 
-#EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-name="Comet TV (COMET)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet
+#EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet
 
 
-#EXTINF:-1 tvg-id="Comet.TV.(COMET).us" tvg-name="Comet West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet West
+#EXTINF:-1 tvg-id="Comet.(Pacific).us2" tvg-name="Comet (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet West
 
 
-#EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="The Cooking Channel" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels", Cooking Channel
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel HD" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels", Cooking Channel
 http://fl7.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="Court TV US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels", Court TV
+#EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels", Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
-#EXTINF:-1 tvg-id="Cozi.TV.us" tvg-name="Cozi TV" tvg-logo="" group-title="Live Channels", Cozi TV
+#EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" tvg-logo="" group-title="Live Channels", Cozi TV
 http://fl7.moveonjoy.com/COZI_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Crave.1.ca" tvg-name="Crave 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 1
@@ -261,16 +191,13 @@ http://fl7.moveonjoy.com/CRAVE_3/index.m3u8
 #EXTINF:-1 tvg-id="Crave.4.ca" tvg-name="Crave 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 4
 http://fl7.moveonjoy.com/CRAVE_4/index.m3u8
 
-#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-name="Crime and Investigation Network HDTV (CI HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Live Channels", Crime & Investigation
+#EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime and Investigation Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Live Channels", Crime & Investigation
 
 
 #EXTINF:-1 tvg-id="Curiosity.Channel(Stream).us" tvg-name="Curiosity Channel(Stream)" tvg-logo="" group-title="Live Channels", Curiosity Channel(Stream)
 
 
-#EXTINF:-1 tvg-id="CWPIX11.us" tvg-name="CW (New York)" tvg-logo="https://cdn.cookielaw.org/logos/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/8759a1c2-140a-4c40-9971-9507bd445f02/96f451bb-2555-4c61-a248-8b78334b4fbe/CW-logo-black.png" group-title="Live Channels", CW East (New York)
-
-
-#EXTINF:-1 tvg-id="CWKTLA.us" tvg-name="CW (Los Angeles)" tvg-logo="https://cdn.cookielaw.org/logos/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/8759a1c2-140a-4c40-9971-9507bd445f02/96f451bb-2555-4c61-a248-8b78334b4fbe/CW-logo-black.png" group-title="Live Channels", CW West (Los Angeles)
+#EXTINF:-1 tvg-id="CW.us2" tvg-name="CW" tvg-logo="https://cdn.cookielaw.org/logos/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/8759a1c2-140a-4c40-9971-9507bd445f02/96f451bb-2555-4c61-a248-8b78334b4fbe/CW-logo-black.png" group-title="Live Channels", CW
 
 
 # D
