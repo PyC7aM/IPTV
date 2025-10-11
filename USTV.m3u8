@@ -354,19 +354,19 @@ http://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Mystery Eastern - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Live Channels", Hallmark Mystery
 http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.-.Pacific.Feed.us" tvg-name="HBO - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO West
+#EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-name="HBO (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO West
 
 
-#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-name="HBO 2 - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/HBO_2_%282014%29.svg" group-title="Premium", HBO2
-http://fl5.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/HBO_2_%282014%29.svg" group-title="Premium", HBO2
+http://fl7.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.2.-.Pacific.Feed.us" tvg-name="HBO 2 - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/HBO_2_%282014%29.svg" group-title="Premium", HBO2 West
+#EXTINF:-1 tvg-id="HBO2.(Pacific).us2" tvg-name="HBO2 (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/HBO_2_%282014%29.svg" group-title="Premium", HBO2 West
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-name="HBO Comedy HD - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Premium", HBO Comedy
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Premium", HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Premium", HBO Comedy West
@@ -378,7 +378,7 @@ http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-name="HBO Family - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Premium", HBO Family West
 
 
-#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-name="HBO Signature (HBO 3) - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HBO_Signature_%282014%29.svg" group-title="Premium", HBO Signature
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HBO_Signature_%282014%29.svg" group-title="Premium", HBO Signature
 http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HBO_Signature_%282014%29.svg" group-title="Premium", HBO Signature West
@@ -387,7 +387,7 @@ http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Xtreme.-.East.us" tvg-name="HBO Xtreme - Eastern Feed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg" group-title="Premium", HBO Xtreme
 
 
-#EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-name="HBO Zone HD - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_%282014%29.svg" group-title="Premium", HBO Zone
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_%282014%29.svg" group-title="Premium", HBO Zone
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOZonePacific.us" tvg-name="HBO Zone West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_%282014%29.svg" group-title="Premium", HBO Zone West
