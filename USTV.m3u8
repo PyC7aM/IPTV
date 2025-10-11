@@ -211,61 +211,55 @@ https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="deutsche-welle-eu" group-title="News", Deutsche Welle Europe
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="Destination.America.us" tvg-name="Destination America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Destination_America_logo.svg" group-title="Live Channels", Destination America
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Destination_America_logo.svg" group-title="Live Channels", Destination America
 http://fl7.moveonjoy.com/Destination_America/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-name="Discovery Channel (US) - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels", Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels", Discovery Channel
 http://fl7.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannelPacific.us" tvg-name="Discovery Channel West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg" group-title="Live Channels", Discovery Channel West
-
-
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-name="Discovery Family Channel" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/Discovery_Family_logo.png/revision/latest?cb=20220703140718" group-title="Live Channels", Discovery Family
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel HD" tvg-logo="https://static.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/Discovery_Family_logo.png/revision/latest?cb=20220703140718" group-title="Live Channels", Discovery Family
 http://fl7.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us" tvg-name="Discovery Life Channel" tvg-logo="https://adma.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&h=270" group-title="Live Channels", Discovery Life
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life Channel" tvg-logo="https://adma.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&h=270" group-title="Live Channels", Discovery Life
 http://fl7.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="Disney - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Kids", Disney Channel
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Kids", Disney Channel
 http://fl1.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.-.Pacific.Feed.us" tvg-name="Disney - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Kids", Disney Channel West
+#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-name="Disney Channel (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Kids", Disney Channel West
 
 
-#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="Disney Junior USA - East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior
 http://fl7.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJuniorPacific.us" tvg-name="Disney Junior West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior West
+#EXTINF:-1 tvg-id="Disney.Junior.HD.(Pacific).us2" tvg-name="Disney Junior HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids", Disney Junior West
 
 
-#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="Disney XD USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD
 http://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXDPacific.us" tvg-name="Disney XD West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD West
+#EXTINF:-1 tvg-id="Disney.XD.HD.(Pacific).us2" tvg-name="Disney XD HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/800px-Disney_XD_-_2015.svg.png" group-title="Kids", Disney XD West
 
 
-#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DogTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/DOGTV_logo.svg" group-title="Live Channels", DogTV
+#EXTINF:-1 tvg-id="DOG.TV.us2" tvg-name="DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/DOGTV_logo.svg" group-title="Live Channels", DOG TV
 
 
 # E
 
-#EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-name="E! Entertainment USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels", E! Entertainment Television
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-name="E! Entertainment Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels", E! Entertainment Television
 http://23.237.104.106:8080/USA_E/index.m3u8
 
-#EXTINF:-1 tvg-id="EEntertainmentTelevisionPacific.us" tvg-name="E! Entertainment Television West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/E%21_Logo_2012.svg" group-title="Live Channels", E! Entertainment Television West
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports", ESPN
+http://fl7.moveonjoy.com/ESPN/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2 HD" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="Sports", ESPN2
+http://fl7.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="Sports", ESPN
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="Sports", ESPN News
+http://fl7.moveonjoy.com/ESPN_NEWS/index.m3u8
 
-
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="Sports", ESPN2
-http://fl5.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPN News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/2560px-ESPNews.svg.png" group-title="Sports", ESPN News
-http://fl5.moveonjoy.com/ESPN_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="ESPN U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="Sports", ESPN U
-http://fl5.moveonjoy.com/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="Sports", ESPN U
+http://fl7.moveonjoy.com/ESPN_U/index.m3u8
 
 # F
 
