@@ -712,7 +712,7 @@ http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 #EXTINF:-1 tvg-id="Pac12Network.us" tvg-name="Pac-12 Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Pac-12-Network-White.png" group-title="Live Channels", Pac-12 Network
 
 
-#EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels", Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels", Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountNetworkPacific.us" tvg-name="Paramount Network West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels", Paramount Network West
