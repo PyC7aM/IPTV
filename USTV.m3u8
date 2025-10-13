@@ -428,29 +428,29 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 
 # I
 
-#EXTINF:-1 tvg-id="IFC.HDTV.(East).us" tvg-name="IFC HDTV East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/800px-IFC_2018_logo.svg.png" group-title="Live Channels", IFC
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/800px-IFC_2018_logo.svg.png" group-title="Live Channels", IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
-#EXTINF:-1 tvg-id="IndiePlex.us" tvg-name="Indieplex" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Indieplex_Stacked.svg/revision/latest?cb=20160512191618" group-title="Premium", IndiePlex
+#EXTINF:-1 tvg-id="IndiePlex.HD.us2" tvg-name="Indieplex HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Indieplex_Stacked.svg/revision/latest?cb=20160512191618" group-title="Premium", IndiePlex
 
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-name="Investigation Discovery USA - Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery)
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery)
 http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-id="InvestigationDiscoveryPacific.us" tvg-name="ID (Investigation Discovery) West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery) West
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="Investigation Discovery HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery) West
 
 
-#EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/INSP_logo_2022.png" group-title="Live Channels", INSP
-http://fl2.moveonjoy.com/INSP/index.m3u8
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/INSP_logo_2022.png" group-title="Live Channels", INSP
+http://fl7.moveonjoy.com/INSP/index.m3u8
 
-#EXTINF:-1 tvg-id="ION..-.Eastern.Feed.us" tvg-name="ION  - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg" group-title="Live Channels", ION
+#EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg" group-title="Live Channels", ION
 http://fl1.moveonjoy.com/ION_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION Mystery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/1200px-ION_Mystery_logo.svg.png" group-title="Live Channels", ION Mystery
-https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ION.Plus.TV.us" tvg-name="ION Plus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Ion_Plus_2024.svg" group-title="Live Channels", ION Plus
-https://fl3.moveonjoy.com/ION_Plus/index.m3u8
+
+#EXTINF:-1 tvg-id="ION.Plus.us2" tvg-name="ION Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Ion_Plus_2024.svg" group-title="Live Channels", ION Plus
+https://fl7.moveonjoy.com/ION_Plus/index.m3u8
 
 # J
 
@@ -459,36 +459,30 @@ https://fl3.moveonjoy.com/ION_Plus/index.m3u8
 
 # K
 
-#EXTINF:-1 tvg-id="" group-title="Music", Kronehit
+#EXTINF:-1 tvg-id="" tvg-name="Kronehit" tvg-logo="" group-title="Music", Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 # L
 
-#EXTINF:-1 tvg-id="Laff.TV.(DISH).(LAFF).us" tvg-name="Laff TV (DISH) (LAFF)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Live Channels", Laff TV
+#EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Live Channels", Laff
 
 
-#EXTINF:-1 tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-name="Lifetime Network US - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels", Lifetime
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels", Lifetime
 http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-id="LifetimePacific.us" tvg-name="Lifetime West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels" , Lifetime West
-
-
-#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us" tvg-name="Lifetime Movies - East" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Live Channels", Lifetime Movies
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="LMN HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Live Channels", LMN (Lifetime Movie Network)
 http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="LRW.Lifetime.Real.Women.us" tvg-name="LRW Lifetime Real Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/LRW_logo_2012.png" group-title="Live Channels", Lifetime Real Women
+#EXTINF:-1 tvg-id="Lifetime.Real.Women.us2" tvg-name="Lifetime Real Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/LRW_logo_2012.png" group-title="Live Channels", Lifetime Real Women
 
 
-#EXTINF:-1 tvg-id="LOGO.-.East.us" tvg-name="LOGO - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Live Channels", Logo
-
-
-#EXTINF:-1 tvg-id="LOGO.HDTV.(West).(LGOHD).us" tvg-name="LOGO HDTV (West) (LGOHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Live Channels", Logo West
+#EXTINF:-1 tvg-id="Logo.us2" tvg-name="Logo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" group-title="Live Channels", Logo
 
 
 #EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/1280px-Longhorn_Network_logo.svg.png" group-title="Live Channels", Longhorn Network
 
 
-#EXTINF:-1 tvg-id="Love.Nature.us" tvg-name="Love Nature" tvg-logo="" group-title="Live Channels", Love Nature
+#EXTINF:-1 tvg-id="Love.Nature.us2" tvg-name="Love Nature" tvg-logo="" group-title="Live Channels", Love Nature
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 # M
@@ -526,8 +520,8 @@ http://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="MOTORTREND HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="Live Channels", MOTORTREND
 http://fl7.moveonjoy.com/MOTOR_TREND/index.m3u8
 
-#EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG (Madison Square Gardens)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png" group-title="Sports", MSG (Madison Square Gardens)
-http://fl3.moveonjoy.com/MSG/index.m3u8
+#EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG National" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png" group-title="Sports", MSG (Madison Square Gardens)
+http://fl7.moveonjoy.com/MSG/index.m3u8
 
 #EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="MoviePlex HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/2560px-Movieplex_logo.svg.png" group-title="Premium", MoviePlex
 
@@ -535,40 +529,37 @@ http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-name="MSNBC HD" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/newscms/2021_35/3502557/msnbc-logo.png" group-title="Live Channels", MSNBC
 http://fl7.moveonjoy.com/MSNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="MTV USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels", MTV
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV - Music Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels", MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVPacific.us" tvg-name="MTV West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels", MTV
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-name="MTV - Music Television HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels", MTV West
 
 
-#EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-name="MTV 2 - East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="Live Channels", MTV2
-https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV2: Music Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="Live Channels", MTV2
+https://fl7.moveonjoy.com/MTV_2/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV2Pacific.us" tvg-name="MTV2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="Live Channels", MTV2 West
-
-
-#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/MTV_Circle_476x476_SamsungTV.png?$ORIGIN_PNG$" group-title="Live Channels", MTV Biggest Pop
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/MTV_Circle_476x476_SamsungTV.png?$ORIGIN_PNG$" group-title="Music", MTV Biggest Pop
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="MTV.Classic.-.East.us" tvg-name="MTV Classic - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg" group-title="Live Channels", MTV Classic
-http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/MTV_Classic_US.svg" group-title="Live Channels", MTV Classic
+http://fl7.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVBlockParty.us" tvg-name="MTV Block Party" tvg-logo="https://i.imgur.com/Lqhy44V.png" group-title="Live Channels",MTV Flow Latino
+#EXTINF:-1 tvg-id="MTVBlockParty.us" tvg-name="MTV Block Party" tvg-logo="https://i.imgur.com/Lqhy44V.png" group-title="Music", MTV Flow Latino
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="MTV.Live.HD.us" tvg-name="MTV Live HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg/revision/latest/scale-to-width-down/250?cb=20220317014118" group-title="Live Channels", MTV Live
-https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-name="MTVLIVE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg/revision/latest/scale-to-width-down/250?cb=20220317014118" group-title="Live Channels", MTV Live
+https://fl7.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/thumbnail.jpg" group-title="Live Channels", MTV Spankin' New
+#EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/thumbnail.jpg" group-title="Music", MTV Spankin' New
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" tvg-name="MTV-U (MTV-U)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg" group-title="Live Channels", MTV-U
-https://fl5.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-id="mtv-U.us2" tvg-name="mtv-U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg" group-title="Live Channels", MTV-U
+https://fl7.moveonjoy.com/MTV_U/index.m3u8
 
-#EXTINF:-1 tvg-id="YoMTV.us" tvg-name="MTV Yo!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/YO%21_MTV.svg/revision/latest?cb=20210629162715" group-title="Live Channels", MTV Yo!
+#EXTINF:-1 tvg-id="YoMTV.us" tvg-name="MTV Yo!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/YO%21_MTV.svg/revision/latest?cb=20210629162715" group-title="Music", MTV Yo!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="MYWSTR.us" tvg-name="MyNetworkTV (Cincinnati)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Live Channels", MyNetworkTV (Cincinnati)
+#EXTINF:-1 tvg-id="My.Network.us2" tvg-name="My Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Live Channels", My Network
 
 
 # N
