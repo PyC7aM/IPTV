@@ -131,7 +131,7 @@ http://fl7.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax West
 
 
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-name="ActionMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ActionMax_logo.svg" group-title="Premium", Cinemax Action
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-name="ActionMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Cinemax_Action_Logo.png" group-title="Premium", Cinemax Action
 
 
 #EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-name="5 StarMax HD East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Cinemax_Classics_Logo.png" group-title="Premium", Cinemax Classics
