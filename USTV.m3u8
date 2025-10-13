@@ -366,16 +366,16 @@ http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-name="HBO (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO West
 
 
-#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/HBO_2_%282014%29.svg" group-title="Premium", HBO2
-http://fl7.moveonjoy.com/HBO_2/index.m3u8
-
-#EXTINF:-1 tvg-id="HBO2.(Pacific).us2" tvg-name="HBO2 (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/HBO_2_%282014%29.svg" group-title="Premium", HBO2 West
-http://23.237.104.106:8080/USA_HBO2/index.m3u8
-
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Premium", HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Premium", HBO Comedy West
+
+
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Premium", HBO Drama
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Premium", HBO Drama West
 
 
 #EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Premium", HBO Family
@@ -384,46 +384,46 @@ http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-name="HBO Family - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Premium", HBO Family West
 
 
-#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HBO_Signature_%282014%29.svg" group-title="Premium", HBO Signature
-http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/HBO_Hits_Logo.svg" group-title="Premium", HBO Hits
+http://fl7.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HBO_Signature_%282014%29.svg" group-title="Premium", HBO Signature West
+#EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-name="HBO2 HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/HBO_Hits_Logo.svg" group-title="Premium", HBO Hits West
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/HBO_Movies_Logo.svg" group-title="Premium", HBO Movies
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Zone.HD.(Pacific).us2" tvg-name="HBO Zone HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/HBO_Movies_Logo.svg" group-title="Premium", HBO Movies West
 
 
 #EXTINF:-1 tvg-id="HBO.Xtreme.-.East.us" tvg-name="HBO Xtreme - Eastern Feed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg" group-title="Premium", HBO Xtreme
 
 
-#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_%282014%29.svg" group-title="Premium", HBO Zone
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-
-#EXTINF:-1 tvg-id="HBOZonePacific.us" tvg-name="HBO Zone West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_%282014%29.svg" group-title="Premium", HBO Zone West
+#EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/HDNET_Movies_Logo.png" group-title="Live Channels", HDNet Movies
 
 
-#EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="HDNet Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/HDNET_Movies_Logo.png" group-title="Live Channels", HDNet Movies
+#EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes and Icons Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/1200px-Heroes_%26_Icons_logo.svg.png" group-title="Live Channels", H&I (Heroes & Icons)
 
 
-#EXTINF:-1 tvg-id="HeroesAndIconsNetwork.us" tvg-name="H&I" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/1200px-Heroes_%26_Icons_logo.svg.png" group-title="Live Channels", H&I (Heroes & Icons)
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="Home and Garden Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels", HGTV
+http://fl7.moveonjoy.com/HGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-name="Home and Garden Television HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels", HGTV West
 
 
-#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-name="HGTV USA - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels", HGTV
-http://fl5.moveonjoy.com/HGTV/index.m3u8
-
-#EXTINF:-1 tvg-id="HGTVPacific.us" tvg-name="HGTV West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels", HGTV West
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Live Channels", History
 
 
-#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-name="History Channel US - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Live Channels", History Channel
-
-
-#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg" group-title="Live Channels", HLN
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg" group-title="Live Channels", HLN
 http://fl1.moveonjoy.com/HLN/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
-#EXTINF:-1 tvg-id="HSN..-.Home.Shopping.Network.us" tvg-name="HSN  - Home Shopping Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Live Channels", HSN
+#EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2" tvg-name="HSN.Home Shopping Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Live Channels", HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
 
-#EXTINF:-1 tvg-id="Home.Shopping.Network.2.HDTV.(HSN2).us" tvg-name="Home Shopping Network 2 HDTV (HSN2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129" group-title="Live Channels", HSN 2
+#EXTINF:-1 tvg-id="HSN2.us2" tvg-name="HSN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/HSN2_2018.svg/revision/latest?cb=20221114163129" group-title="Live Channels", HSN 2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 
 # I
