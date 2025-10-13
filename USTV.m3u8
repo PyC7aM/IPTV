@@ -337,27 +337,27 @@ http://fl3.moveonjoy.com/FYI/index.m3u8
 
 # G
 
-#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us" tvg-name="Game Show Network - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Live Channels", Game Show Network
+#EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Live Channels", Game Show Network
 
 
-#EXTINF:-1 tvg-id="getTV.Network.(getTV).us" tvg-name="getTV Network (getTV)" tvg-logo="https://busterhouse.com/wp-content/uploads/2018/04/gettv.png" group-title="Live Channels", getTV
-http://fl3.moveonjoy.com/GET_TV/index.m3u8
+#EXTINF:-1 tvg-id="get.us2" tvg-name="get" tvg-logo="https://busterhouse.com/wp-content/uploads/2018/04/gettv.png" group-title="Live Channels", get
+http://fl7.moveonjoy.com/GET_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Great.American.Family.(GFAM).us" tvg-name="Great American Family (GFAM) FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Great_American_Family_logo.svg" group-title="Live Channels", Great American Family
+#EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="Great American Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Great_American_Family_logo.svg" group-title="Live Channels", Great American Family
 
 
-#EXTINF:-1 tvg-id="Grit.us" tvg-name="Grit" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-GRIT.png" group-title="Live Channels", Grit
-http://fl3.moveonjoy.com/GRIT_TV/index.m3u8
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-GRIT.png" group-title="Live Channels", Grit
+http://fl7.moveonjoy.com/GRIT_TV/index.m3u8
 
 # H
 
-#EXTINF:-1 tvg-id="Hallmark.-.Eastern.Feed.us" tvg-name="Hallmark - Eastern Feed" tvg-logo="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Landing-Pages/collections/hallmark/hallmark-channel-min.png/_jcr_content/renditions/original.PNG" group-title="Live Channels", Hallmark Channel
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel HD" tvg-logo="https://roost.nbcuni.com/bin/viewasset.html/content/dam/Peacock/Landing-Pages/collections/hallmark/hallmark-channel-min.png/_jcr_content/renditions/original.PNG" group-title="Live Channels", Hallmark Channel
 http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-name="Hallmark Drama HDTV (HALDRHD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Hallmark_Drama_%28Gold%29.svg/revision/latest?cb=20171130164502" group-title="Live Channels", Hallmark Drama
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/Hallmark_Drama_%28Gold%29.svg/revision/latest?cb=20171130164502" group-title="Live Channels", Hallmark Family
 http://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
-#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-name="Hallmark Mystery Eastern - HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Live Channels", Hallmark Mystery
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-name="Hallmark Mystery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="Live Channels", Hallmark Mystery
 http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO
