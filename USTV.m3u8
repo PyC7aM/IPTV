@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-id="3ABN.Kids.Network.us2" tvg-name="3ABN Kids Network" tvg-logo="https://3abnkids.tv/img/3ABN-KIDS-LOGO.png" group-title="Kids", 3ABN Kids Network
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-name="5 StarMax HD East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/5StarMax_Logo.svg/640px-5StarMax_Logo.svg.png" group-title="Premium", 5 StarMAX
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-
 # A
 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A and E HD East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="Live Channels", A&E
@@ -21,9 +18,6 @@ http://23.237.104.106:8080/USA_ACCN/index.m3u8
 
 #EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather HD" tvg-logo="" group-title="Live Channels", AccuWeather
 https://accuweatherx-lg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-name="ActionMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ActionMax_logo.svg" group-title="Premium", ActionMAX
-
 
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="AdultSwim.com Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="Live Channels", Adult Swim
 
@@ -136,6 +130,15 @@ http://fl7.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax West
 
+
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-name="ActionMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/ActionMax_logo.svg" group-title="Premium", Cinemax Action
+
+
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-name="5 StarMax HD East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Cinemax_Classics_Logo.png" group-title="Premium", Cinemax Classics
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Cinemax_Hits_Logo.png" group-title="Premium", Cinemax Hits
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="Circle.Country.us2" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png" group-title="Live Channels", Circle Country
 
@@ -518,12 +521,6 @@ http://fl7.moveonjoy.com/EPIX_HITS/index.m3u8
 http://fl7.moveonjoy.com/MLB_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.us2" tvg-name="MLB Network Strike Zone HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/MLB_Network_Strike_Zone.png/revision/latest?cb=20221211002759" group-title="Sports", MLB Strike Zone
-
-
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="MoreMax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/MoreMax_Logo.svg" group-title="Premium", MoreMAX
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
-
-#EXTINF:-1 tvg-id="MoreMAXPacific.us" tvg-name="MoreMAX West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/MoreMax_Logo.svg" group-title="Premium", MoreMAX West
 
 
 #EXTINF:-1 tvg-id="MOTORTREND.HD.us2" tvg-name="MOTORTREND HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Motor_Trend.svg/revision/latest?cb=20180410190357" group-title="Live Channels", MOTORTREND
