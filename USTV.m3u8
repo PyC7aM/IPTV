@@ -35,7 +35,7 @@ http://fl7.moveonjoy.com/American_Heroes_Channel/index.m3u8
 http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
 
 #EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png" group-title="Live Channels", Antenna
-
+https://fl7.moveonjoy.com/Antenna_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="ASPiRE HD" tvg-logo="" group-title="Live Channels", ASPiRE
 http://fl7.moveonjoy.com/Aspire/index.m3u8
@@ -123,7 +123,7 @@ http://fl7.moveonjoy.com/CBSEAST/index.m3u8
 http://fl7.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="CHARGE!" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge
-
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax
 http://fl7.moveonjoy.com/CINEMAX_EAST/index.m3u8
