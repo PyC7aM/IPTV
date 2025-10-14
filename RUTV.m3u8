@@ -790,7 +790,7 @@ https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zvezda-plus" group-title="Movies", Звезда Плюс
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zootv" group-title="", Зоо ТВ
 http://ott-cdn.ucom.am/s92/index.m3u8
