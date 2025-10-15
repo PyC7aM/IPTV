@@ -46,7 +46,7 @@ https://fl7.moveonjoy.com/Axs_TV/index.m3u8
 # B
 
 #EXTINF:-1 tvg-id="BabyFirst.TV.us2" tvg-name="BabyFirst TV" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20240422182307" group-title="Kids", BabyFirst
-
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Live Channels", BBC America
 http://fl7.moveonjoy.com/BBC_AMERICA/index.m3u8
