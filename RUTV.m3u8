@@ -1236,7 +1236,7 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 # Т
 
 #EXTINF:-1 tvg-id="tvcentr" group-title="Entertainment", ТВ Центр
-http://ott-cdn.ucom.am/s54/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/13.m3u8
 
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Entertainment", ТВ3 
 https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
