@@ -18,7 +18,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 
 #EXTINF:-1 tvg-id="360-podmoskovie" group-title="Regional", 360° Подмосковье
-
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 
 #EXTINF:-1 tvg-id="360-tunebox" group-title="Music", 360TuneBox
 
@@ -376,6 +376,11 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 # L
 
 # M
+#EXTINF:-1 tvg-id="mgm" group-title="Movies", MGM
+https://v2.catcast.tv/content/44051/index.m3u8
+
+#EXTINF:-1 tvg-id="m1global" group-title="Sport", MMA-TV
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", MTV
 
@@ -817,7 +822,7 @@ http://ott-cdn.ucom.am/s40/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", КХЛ HD
-
+http://194.143.148.28:8080/KHL_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="kxl" group-title="Sport", КХЛ ТВ
 
