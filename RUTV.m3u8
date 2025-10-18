@@ -991,7 +991,7 @@ https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 # Н
 
 #EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
-http://178.217.72.66:8080/NSTV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ntv" group-title="General", НТВ
 https://cdn.ntv.ru/ntv0/playlist.m3u8
@@ -1100,7 +1100,7 @@ http://rtmp.one.by:1200
 
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
-http://178.217.72.66:8080/pobeda/index.m3u8
+
 
 #EXTINF:-1 tvg-id="poexali" group-title="Travel & Tourism", Поехали!
 
@@ -1124,7 +1124,7 @@ https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Movies", Пятый канал
-http://178.217.72.66:8080/5_Kanal/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
 
 # Р
 
@@ -1171,7 +1171,7 @@ https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="Movies", Русский иллюзион
-http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
+
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="Movies", Русский роман
 
