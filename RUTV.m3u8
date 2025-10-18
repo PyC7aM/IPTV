@@ -1110,7 +1110,7 @@ http://rtmp.one.by:1200
 
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
-
+https://streaming.thestream.cyou/live/43.m3u8
 
 #EXTINF:-1 tvg-id="poexali" group-title="Travel & Tourism", Поехали!
 
@@ -1239,7 +1239,7 @@ https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 https://streaming.televizor-24-tochka.ru/live/13.m3u8
 
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Entertainment", ТВ3 
-https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
 
 #EXTINF:-1 tvg-id="tv3-by" group-title="Entertainment", ТВ3 Беларусь
 
@@ -1251,13 +1251,13 @@ https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="Entertainment", ТНТ-International
-https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+https://streaming.thestream.cyou/live/38.m3u8
 
 #EXTINF:-1 tvg-id="tnt-music" group-title="Music", ТНТ-Music
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Entertainment", ТНТ4
-
+https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 
 #EXTINF:-1 tvg-id="tayna" group-title="", Тайна
 
