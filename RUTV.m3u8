@@ -914,7 +914,7 @@ http://live.m2.tv/hls3/720/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
-
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
 
 #EXTINF:-1 tvg-id="match-arena" group-title="Sport", Матч! Арена
 
@@ -1156,7 +1156,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="Entertainment", Россия К
-
+https://streaming.televizor-24-tochka.ru/live/9.m3u8
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
 https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
