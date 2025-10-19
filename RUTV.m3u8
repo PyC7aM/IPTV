@@ -274,16 +274,16 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", FantasticMystiC 
-https://hls.goodgame.ru/hls/187741.m3u8
+
 
 #EXTINF:-1 tvg-id="fashion-tv" group-title="Lifestyle", Fashion TV
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+
 
 #EXTINF:-1 tvg-id="fashionbox-hd" group-title="Lifestyle", FashionBOX
 
 
 #EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Sport", Fast&FunBox
-http://ott-cdn.ucom.am/s79/index.m3u8
+
 
 #EXTINF:-1 tvg-id="fightbox-hd" group-title="", Fightbox HD
 
@@ -368,7 +368,7 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 # K
 
 #EXTINF:-1 tvg-id="kino-24" group-title="Movies", Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -500,7 +500,7 @@ https://hls-03-video.webcaramba.com/rutv/live.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
-http://178.124.179.122:8088/Sci-Fi/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
 
@@ -692,7 +692,7 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 
 
 #EXTINF:-1 tvg-id="arsenaltv" group-title="", Арсенал
-http://ott-cdn.ucom.am/s68/index.m3u8
+
 
 # Б
 
@@ -723,7 +723,7 @@ http://ott-cdn.ucom.am/s68/index.m3u8
 
 
 #EXTINF:-1 tvg-id="detsky-mir" group-title="Kids", Детский мир
-http://ott-cdn.ucom.am/s58/index.m3u8
+
 
 #EXTINF:-1 tvg-id="detkinoint-tviksel" group-title="Kids", Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
@@ -803,7 +803,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="zootv" group-title="", Зоо ТВ
-http://ott-cdn.ucom.am/s92/index.m3u8
+
 
 # И
 
@@ -817,7 +817,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="istoria" group-title="", История
-http://ott-cdn.ucom.am/s40/index.m3u8
+
 
 # Й
 
