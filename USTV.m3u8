@@ -93,7 +93,7 @@ http://212.102.60.231/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Live Channels", Bravo West
 
 
-#EXTINF:-1 tvg-id="BUZZR.us2" tvg-name="BUZZR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/800px-Buzzr_logo.svg.png" group-title="Live Channels", Buzzr
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/800px-Buzzr_logo.svg.png" group-title="Live Channels", Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 
 # C
@@ -182,16 +182,16 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" tvg-logo="" group-title="Live Channels", Cozi TV
 http://212.102.60.231/COZI_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Crave.1.ca" tvg-name="Crave 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 1
+#EXTINF:-1 tvg-id="Crave1.HD.ca2" tvg-name="Crave1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 1
 http://212.102.60.231/CRAVE_1/index.m3u8
 
-#EXTINF:-1 tvg-id="Crave.2.ca" tvg-name="Crave 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 2
+#EXTINF:-1 tvg-id="Crave2.HD.ca2" tvg-name="Crave2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 2
 http://212.102.60.231/CRAVE_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Crave.3.ca" tvg-name="Crave 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 3
+#EXTINF:-1 tvg-id="Crave3.HD.ca2" tvg-name="Crave3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 3
 http://212.102.60.231/CRAVE_3/index.m3u8
 
-#EXTINF:-1 tvg-id="Crave.4.ca" tvg-name="Crave 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 4
+#EXTINF:-1 tvg-id="Crave4.ca2" tvg-name="Crave4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 4
 http://212.102.60.231/CRAVE_4/index.m3u8
 
 #EXTINF:-1 tvg-id="Create.us2" tvg-name="Create" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest?cb=20240205233457" group-title="Live Channels", Create
@@ -214,7 +214,7 @@ https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 
-#EXTINF:-1 tvg-id="deutsche-welle-eu" group-title="News", Deutsche Welle Europe
+#EXTINF:-1 tvg-id="DW.HD.ca2" tvg-name="DW HD" tvg-logo="" group-title="News", DW (Deutsche Welle Europe)
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Destination_America_logo.svg" group-title="Live Channels", Destination America
@@ -476,7 +476,7 @@ http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/1280px-Longhorn_Network_logo.svg.png" group-title="Live Channels", Longhorn Network
 
 
-#EXTINF:-1 tvg-id="Love.Nature.us2" tvg-name="Love Nature" tvg-logo="" group-title="Live Channels", Love Nature
+#EXTINF:-1 tvg-id="Love.Nature.ca2" tvg-name="Love Nature" tvg-logo="" group-title="Live Channels", Love Nature
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 # M
@@ -923,19 +923,19 @@ http://212.102.60.231/Travel_Channel/index.m3u8
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels", truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports", TSN 1
+#EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports", TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="TSN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TSN2.svg" group-title="Sports", TSN 2
+#EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TSN2.svg" group-title="Sports", TSN 2
 http://212.102.60.231/TSN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="TSN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg" group-title="Sports", TSN 3
+#EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg" group-title="Sports", TSN 3
 http://212.102.60.231/TSN_3/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="TSN 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg" group-title="Sports", TSN 4
+#EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg" group-title="Sports", TSN 4
 http://212.102.60.231/TSN_4/index.m3u8
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="TSN 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg" group-title="Sports", TSN 5
+#EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg" group-title="Sports", TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
 
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land
@@ -964,7 +964,7 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
 # W
 
-#EXTINF:-1 tvg-id="W.Network.us" tvg-name="W Network" tvg-logo="" group-title="Live Channels", W Network
+#EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-name="W Network HD" tvg-logo="" group-title="Live Channels", W Network
 http://212.102.60.231/W_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Live Channels", Weather Channel
