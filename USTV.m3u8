@@ -173,7 +173,7 @@ http://fl1.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central HD (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central West
 
 
-#EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy TV HD" tvg-logo="" group-title="Live Channels", Comedy TV
+#EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy.TV HD" tvg-logo="" group-title="Live Channels", Comedy.TV
 https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet
