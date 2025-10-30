@@ -13,7 +13,7 @@ https://tvpass.org/live/AEEast/hd
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC 2 Baltimore MD (WMAR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC 2 Baltimore MD (WMAR)
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC 2 Baltimore MD (WMAR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/2_ABC_WMAR_Baltimore.png" group-title="Live Channels", ABC 2 Baltimore MD (WMAR)
 https://livetv-fa.tubi.video/wmar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/ACC_Network_ESPN_logo.svg" group-title="Sports", ACC Network
