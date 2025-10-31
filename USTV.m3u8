@@ -168,7 +168,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central
-http://fl1.moveonjoy.com/Comedy_Central/index.m3u8
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central HD (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central West
 
@@ -251,7 +251,7 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/stream
 http://fl1.moveonjoy.com/Destination_America/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" group-title="Live Channels", Discovery Channel
-http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Discovery_Family_Logo_%282014%29.svg" group-title="Live Channels", Discovery Family
 http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
@@ -542,7 +542,7 @@ http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
 http://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
 
 #EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG National" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/MSG_Network_logo.png" group-title="Sports", MSG (Madison Square Gardens)
-http://fl1.moveonjoy.com/MSG/index.m3u8
+http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 #EXTINF:-1 tvg-id="MoviePlex.HD.us2" tvg-name="MoviePlex HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/2560px-Movieplex_logo.svg.png" group-title="Premium", MoviePlex
 
