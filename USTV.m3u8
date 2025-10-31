@@ -998,7 +998,7 @@ http://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/320px-Wetv-july-2024-logo.svg.png" group-title="Live Channels", WE (Women's Entertainment)
-http://fl1.moveonjoy.com/WE_TV/index.m3u8
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network HD (US)" tvg-logo="" group-title="Live Channels", World Fishing Network
 http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
