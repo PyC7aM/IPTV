@@ -217,31 +217,31 @@ https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 
 # D
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="" tvg-logo="" group-title="Music", Dance TV - Best of
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Best of" tvg-logo="" group-title="Music", Dance TV - Best of
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="" tvg-logo="" group-title="Music", Dance TV - Deep House District
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Deep House District" tvg-logo="" group-title="Music", Dance TV - Deep House District
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="" tvg-logo="" group-title="Music", Dance TV - Techno Warehouse
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Techno Warehouse" tvg-logo="" group-title="Music", Dance TV - Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="" tvg-logo="" group-title="Music", Dance TV - Tech House Terrace
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Tech House Terrace" tvg-logo="" group-title="Music", Dance TV - Tech House Terrace
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="" tvg-logo="" group-title="Music", Dance TV - House Floor
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="House Floor" tvg-logo="" group-title="Music", Dance TV - House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="" tvg-logo="" group-title="Music", Dance TV - MiNiMaL
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="MiNiMaL" tvg-logo="" group-title="Music", Dance TV - MiNiMaL
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="" tvg-logo="" group-title="Music", Dance TV - Mainstream EDM
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Mainstream EDM" tvg-logo="" group-title="Music", Dance TV - Mainstream EDM
 
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="" tvg-logo="" group-title="Music", Dance TV - Chill AF Downtempo
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Chill AF Downtempo" tvg-logo="" group-title="Music", Dance TV - Chill AF Downtempo
 
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="" tvg-logo="" group-title="Music", Dance TV - Melodic Tech
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Melodic Tech" tvg-logo="" group-title="Music", Dance TV - Melodic Tech
 
 
 #EXTINF:-1 tvg-id="DW.HD.ca2" tvg-name="DW HD" tvg-logo="" group-title="News", DW (Deutsche Welle Europe)
