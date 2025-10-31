@@ -236,13 +236,13 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="Mainstream EDM" tvg-logo="" group-title="Music", Dance TV - Mainstream EDM
-
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="Chill AF Downtempo" tvg-logo="" group-title="Music", Dance TV - Chill AF Downtempo
-
+https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="Melodic Tech" tvg-logo="" group-title="Music", Dance TV - Melodic Tech
-
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 
 #EXTINF:-1 tvg-id="DW.HD.ca2" tvg-name="DW HD" tvg-logo="" group-title="News", DW (Deutsche Welle Europe)
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
