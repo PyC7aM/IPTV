@@ -272,7 +272,7 @@ http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids", Disney XD
-http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.(Pacific).us2" tvg-name="Disney XD HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids", Disney XD West
 
