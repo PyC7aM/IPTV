@@ -19,7 +19,7 @@ https://livetv-fa.tubi.video/wmar/playlist.m3u8
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/ACC_Network_ESPN_logo.svg" group-title="Sports", ACC Network
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
 
-#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather HD" tvg-logo="" group-title="Live Channels", AccuWeather
+#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather HD" tvg-logo="" group-title="Weather", AccuWeather
 https://accuweatherx-lg.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="AdultSwim.com Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="Live Channels", Adult Swim
@@ -329,7 +329,7 @@ http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2 Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sports", FS2
 http://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Live Channels", FOX Weather
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Weather", FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Freeform_2022.svg/2560px-Freeform_2022.svg.png" group-title="Live Channels", Freeform
@@ -994,7 +994,7 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 #EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-name="W Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/W_Network_Logo.svg" group-title="Live Channels", W Network
 http://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Live Channels", Weather Channel
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Weather", Weather Channel
 http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/320px-Wetv-july-2024-logo.svg.png" group-title="Live Channels", WE (Women's Entertainment)
