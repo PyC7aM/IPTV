@@ -90,10 +90,10 @@ http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" group-title="Live Channels", Bounce
 http://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce XL" tvg-logo="" group-title="Live Channels", Bounce XL
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce XL" tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png" group-title="Live Channels", Bounce XL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Live Channels", Bravo
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Bravo_2024.svg" group-title="Live Channels", Bravo
 http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Live Channels", Bravo West
