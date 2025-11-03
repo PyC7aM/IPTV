@@ -318,7 +318,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News", FOX 
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports", Fox Soccer Plus
 
