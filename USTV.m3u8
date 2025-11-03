@@ -757,8 +757,8 @@ http://fl1.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Science Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Live Channels", Science Channel
 http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
 
-#EXTINF:-1 tvg-id="Scripps.News.us2" tvg-name="Scripps News" tvg-logo="https://seeklogo.com/images/N/newsy-logo-DDC77AD5CE-seeklogo.com.png" group-title="News", Scripps News (Newsy)
-
+#EXTINF:-1 tvg-id="Scripps.News.us2" tvg-name="Scripps News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Scripps_News_logo.svg" group-title="News", Scripps News
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 
 #EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Sports", SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
@@ -938,7 +938,10 @@ http://143.244.60.30/TNT/index.m3u8
 #EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="Tr3s: MTV, Musica y Mas" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels", Tr3s: MTV
 
 
-#EXTINF:-1 tvg-id="Trace.Urban.(North.America).(TRACEURB).us" tvg-name="Trace Urban (North America) (TRACEURB)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Music", Trace Urban
+#EXTINF:-1 tvg-id="Trace.Latina.us" tvg-name="Trace Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/TRACE_Latina_Logo.png" group-title="Music", Trace Latina
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trace.Urban.us" tvg-name="Trace Urban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="Music", Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-name="The Travel Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/2018_Travel_Channel_logo.svg" group-title="Live Channels", Travel Channel
