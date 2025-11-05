@@ -922,7 +922,7 @@ http://fl1.moveonjoy.com/TBS/index.m3u8
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
 #EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="Teen Nick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Kids", Teen Nick
-http://fl1.moveonjoy.com/Teen_Nick/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Teen.Nick.(Pacific).us2" tvg-name="Teen Nick (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Kids", Teen Nick West
 
