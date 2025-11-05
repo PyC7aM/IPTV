@@ -1007,12 +1007,12 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 http://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Weather", Weather Channel
-http://fl1.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/320px-Wetv-july-2024-logo.svg.png" group-title="Live Channels", WE (Women's Entertainment)
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network HD (US)" tvg-logo="" group-title="Live Channels", World Fishing Network
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network HD (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/WFN_2014_logo.svg" group-title="Live Channels", World Fishing Network
 http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="WGN.Chicago,.IL.us" tvg-name="WGN Chicago, IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WGN_CW_logo_2024.svg/640px-WGN_CW_logo_2024.svg.png" group-title="Live Channels", WGN
