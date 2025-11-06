@@ -66,9 +66,6 @@ http://23.237.104.106:8080/USA_BEIN/index.m3u8
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET
 http://fl1.moveonjoy.com/BET_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-name="BET HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET West
-
-
 #EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET GOSPEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149" group-title="Live Channels", BET Gospel
 http://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
 
@@ -99,9 +96,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tabl
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Bravo_2024.svg" group-title="Live Channels", Bravo
 http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
-#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-name="Bravo (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bravo_2017_logo.svg/1200px-Bravo_2017_logo.svg.png" group-title="Live Channels", Bravo West
-
-
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/800px-Buzzr_logo.svg.png" group-title="Live Channels", Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 
@@ -119,14 +113,8 @@ http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-name="Cartoon Network (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network West
-
-
 #EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-name="CBS Streaming SD East feed" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels", CBS
 http://fl1.moveonjoy.com/CBSEAST/index.m3u8
-
-#EXTINF:-1 tvg-id="CBS.West.us2" tvg-name="CBS West" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels", CBS West
-
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network HD" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="Sports", CBS Sports Network
 http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -137,7 +125,7 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax
 http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax West
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax (West)
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-name="ActionMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Cinemax_Action_Logo.png" group-title="Premium", Cinemax Action
@@ -173,17 +161,11 @@ http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-name="Comedy Central HD (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central West
-
-
 #EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy.TV HD" tvg-logo="" group-title="Live Channels", Comedy.TV
 https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
-
-#EXTINF:-1 tvg-id="Comet.(Pacific).us2" tvg-name="Comet (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet West
-
 
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel HD" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels", Cooking Channel
 http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
@@ -235,13 +217,13 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="House Floor" tvg-logo="" group-title="Music", Dance TV - House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="MiNiMaL" tvg-logo="" group-title="Music", Dance TV - MNML
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="MNML" tvg-logo="" group-title="Music", Dance TV - MiNiMaL
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Mainstream EDM" tvg-logo="" group-title="Music", Dance TV - Mainstage
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Mainstage" tvg-logo="" group-title="Music", Dance TV - Mainstream EDM
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Chill AF Downtempo" tvg-logo="" group-title="Music", Dance TV - Chill AF
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Chill AF" tvg-logo="" group-title="Music", Dance TV - Chill AF Downtempo
 https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="Melodic Tech" tvg-logo="" group-title="Music", Dance TV - Melodic Tech
@@ -265,20 +247,11 @@ http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids", Disney Channel
 http://fl1.moveonjoy.com/DISNEY/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-name="Disney Channel (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids", Disney Channel West
-
-
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids", Disney Junior
 http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.Junior.HD.(Pacific).us2" tvg-name="Disney Junior HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids", Disney Junior West
-
-
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids", Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="Disney.XD.HD.(Pacific).us2" tvg-name="Disney XD HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids", Disney XD West
-
 
 #EXTINF:-1 tvg-id="DOG.TV.us2" tvg-name="DOG TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/DOGTV_logo.svg" group-title="Live Channels", DOG TV
 
@@ -309,9 +282,6 @@ http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX (WNYW) New York, NY" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live Channels", FOX
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-
-#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-name="FOX (KTTV) Los Angeles, CA" tvg-logo="https://static.wikia.nocookie.net/centralpark/images/5/55/FOX.png/revision/latest?cb=20200405065309" group-title="Live Channels", FOX West (Los Angeles)
 
 
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD" tvg-logo="https://circlecareservices.com/wp-content/uploads/2024/04/Fox_Business.png" group-title="Live Channels", FOX Business
@@ -344,17 +314,11 @@ http://fl1.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels", FX
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
-#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-name="FX HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Live Channels", FX West
-
-
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1280px-FX_Movies_logo.svg.png" group-title="Live Channels", FXM
 http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels", FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
-
-#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-name="FXX HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels", FXX West
-
 
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels", FYI
 http://fl1.moveonjoy.com/FYI/index.m3u8
@@ -364,7 +328,7 @@ http://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Live Channels", Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="get.us2" tvg-name="get" tvg-logo="https://busterhouse.com/wp-content/uploads/2018/04/gettv.png" group-title="Live Channels", get
+#EXTINF:-1 tvg-id="get.us2" tvg-name="get" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Get._2023_logo.svg" group-title="Live Channels", get
 http://fl1.moveonjoy.com/GET_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="GOL.TV.us2" tvg-name="GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/GolTV_logo.svg" group-title="Sports", GOL TV
@@ -376,7 +340,7 @@ http://23.237.104.106:8080/USA_GOLF/index.m3u8
 #EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="Great American Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Great_American_Family_logo.svg" group-title="Live Channels", Great American Family
 
 
-#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit" tvg-logo="https://cms.scrippsnetworks.com/wp-content/uploads/2022/01/snn_logo-GRIT.png" group-title="Live Channels", Grit
+#EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/GRIT_TV_Logo.svg" group-title="Live Channels", Grit
 http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 
 # H
@@ -393,37 +357,37 @@ http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-name="HBO (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO West
+#EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-name="HBO (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Premium", HBO (West)
 
 
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-name="HBO Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Premium", HBO Comedy
 http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Premium", HBO Comedy West
+#EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO Comedy West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/HBO_Comedy_%282014%29.svg" group-title="Premium", HBO Comedy (West)
 
 
 #EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Premium", HBO Drama
 
 
-#EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Premium", HBO Drama West
+#EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Premium", HBO Drama (West)
 
 
 #EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Premium", HBO Family
 http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-name="HBO Family - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Premium", HBO Family West
+#EXTINF:-1 tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-name="HBO Family - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Premium", HBO Family (West)
 
 
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/HBO_Hits_Logo.svg" group-title="Premium", HBO Hits
 http://fl1.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-name="HBO2 HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/HBO_Hits_Logo.svg" group-title="Premium", HBO Hits West
+#EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-name="HBO2 HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/HBO_Hits_Logo.svg" group-title="Premium", HBO Hits (West)
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/HBO_Movies_Logo.svg" group-title="Premium", HBO Movies
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Zone.HD.(Pacific).us2" tvg-name="HBO Zone HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/HBO_Movies_Logo.svg" group-title="Premium", HBO Movies West
+#EXTINF:-1 tvg-id="HBO.Zone.HD.(Pacific).us2" tvg-name="HBO Zone HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/HBO_Movies_Logo.svg" group-title="Premium", HBO Movies (West)
 
 
 #EXTINF:-1 tvg-id="HBO.Xtreme.-.East.us" tvg-name="HBO Xtreme - Eastern Feed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/HBO_Xtreme_%282020%29.svg" group-title="Premium", HBO Xtreme
@@ -437,9 +401,6 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-name="Home and Garden Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels", HGTV
 http://fl1.moveonjoy.com/HGTV/index.m3u8
-
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-name="Home and Garden Television HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels", HGTV West
-
 
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-name="History HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="Live Channels", History
 https://fl1.moveonjoy.com/history_channel/index.m3u8
@@ -464,7 +425,7 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.us2" tvg-name="Investigation Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery)
 http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="Investigation Discovery HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery) West
+#EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="Investigation Discovery HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery) (West)
 
 
 #EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/INSP_logo_2022.png" group-title="Live Channels", INSP
@@ -562,7 +523,7 @@ http://fl1.moveonjoy.com/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV - Music Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels", MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-name="MTV - Music Television HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels", MTV West
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-name="MTV - Music Television HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels", MTV (West)
 
 
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-name="MTV2: Music Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/MTV2_logo_2013.svg" group-title="Live Channels", MTV2
@@ -600,7 +561,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc408
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="Live Channels", National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="National Geographic HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="Live Channels", National Geographic West
+#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-name="National Geographic HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="Live Channels", National Geographic (West)
 
 
 #EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-name="National Geographic Wild HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/640px-National_Geographic_Wild_logo.svg.png" group-title="Live Channels", National Geographic Wild
@@ -612,7 +573,7 @@ http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC East Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels", NBC
 
 
-#EXTINF:-1 tvg-id="NBC.West.Stream.us2" tvg-name="NBC West Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels", NBC West
+#EXTINF:-1 tvg-id="NBC.West.Stream.us2" tvg-name="NBC West Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels", NBC (West)
 
 
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2017/03/nbc-sports-bay-area.png" group-title="Live Channels", NBC Sports Bay Area
@@ -636,7 +597,7 @@ http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="Universo.us" tvg-name="NBC Universo East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Live Channels", NBC Universo East
 
 
-#EXTINF:-1 tvg-id="UniversoPacific.us" tvg-name="NBC Universo West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Live Channels", NBC Universo West
+#EXTINF:-1 tvg-id="UniversoPacific.us" tvg-name="NBC Universo West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" group-title="Live Channels", NBC Universo (West)
 
 
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="New England Sports Network HD" tvg-logo="" group-title="Sports", NESN (New England Sports Network)
@@ -666,7 +627,7 @@ http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Kids", Nickelodeon
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-name="Nickelodeon (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Kids", Nickelodeon West
+#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-name="Nickelodeon (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Kids", Nickelodeon (West)
 
 
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-name="Nick Jr HD" tvg-logo="https://static.wikia.nocookie.net/bubbleguppies/images/2/2c/Nick_Jr_2023.webp/revision/latest?cb=20230826161102" group-title="Kids", Nick Jr
@@ -686,10 +647,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a
 #EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Live Channels", Olympic Channel
 
 
-#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="Oprah Winfrey Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels", Oprah Winfrey Network (OWN)
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.HD.us2" tvg-name="Oprah Winfrey Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels", Oprah Winfrey Network
 http://fl1.moveonjoy.com/OWN/index.m3u8
 
-#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.(Pacific.A.Feed).us2" tvg-name="Oprah Winfrey Network (Pacific A Feed)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels", Oprah Winfrey Network (OWN) West
+#EXTINF:-1 tvg-id="Oprah.Winfrey.Network.(Pacific.A.Feed).us2" tvg-name="Oprah Winfrey Network (Pacific A Feed)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/OWN_Canada_2015_logo.png" group-title="Live Channels", Oprah Winfrey Network (West)
 
 
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-name="Outdoor Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Outdoor_Channel_logo_2017.svg" group-title="Live Channels", Outdoor Channel
@@ -704,7 +665,7 @@ http://fl1.moveonjoy.com/Ovation/index.m3u8
 #EXTINF:-1 tvg-id="Oxygen.True.Crime.HD.us2" tvg-name="Oxygen True Crime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Live Channels", Oxygen True Crime
 http://fl1.moveonjoy.com/OXYGEN/index.m3u8
 
-#EXTINF:-1 tvg-id="OxygenPacific.us" tvg-name="Oxygen West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Live Channels", Oxygen West
+#EXTINF:-1 tvg-id="OxygenPacific.us" tvg-name="Oxygen West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Oxygen_TV_%282017_Logo%29.svg/1200px-Oxygen_TV_%282017_Logo%29.svg.png" group-title="Live Channels", Oxygen (West)
 
 
 # P
@@ -735,7 +696,7 @@ http://fl1.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels", QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 
-#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels", QVC West
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels", QVC (West)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8?delay=10800
 
 #EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="Live Channels", QVC2
@@ -775,49 +736,49 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Paramount+ with Showtime HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime West
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Paramount+ with Showtime HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime (West)
 http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Premium", Showtime 2
 http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Premium", Showtime 2 West
+#EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Premium", Showtime 2 (West)
 
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Premium", Showtime Extreme
 http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Premium", Showtime Extreme West
+#EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Premium", Showtime Extreme (West)
 
 
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-name="Showtime Familyzone HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Showtime_Family_Zone.svg" group-title="Premium", Showtime Family Zone
 
 
-#EXTINF:-1 tvg-id="ShowtimeFamilyZonePacific.us" tvg-name="Showtime Family Zone West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Showtime_Family_Zone.svg" group-title="Premium", Showtime Family Zone West
+#EXTINF:-1 tvg-id="ShowtimeFamilyZonePacific.us" tvg-name="Showtime Family Zone West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Showtime_Family_Zone.svg" group-title="Premium", Showtime Family Zone (West)
 
 
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Premium", Showtime Next
 http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime Next West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Premium", Showtime Next West
+#EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime Next West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Premium", Showtime Next (West)
 
 
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.-.East.us" tvg-name="Showtime Showcase HD - East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Showtime_Showcase.svg" group-title="Premium", Showtime Showcase
 
 
-#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="Showtime Showcase West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Showtime_Showcase.svg" group-title="Premium", Showtime Showcase West
+#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="Showtime Showcase West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Showtime_Showcase.svg" group-title="Premium", Showtime Showcase (West)
 
 
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Showtime_Women.svg" group-title="Premium", Showtime Women
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Showtime_Women.svg" group-title="Premium", Showtime Women West
+#EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Showtime_Women.svg" group-title="Premium", Showtime Women (West)
 
 
 #EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-name="SHO x BET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/ShoBET_logo_2020.svg" group-title="Premium", SHOxBET
 
 
-#EXTINF:-1 tvg-id="SHOxBETPacific.us" tvg-name="SHOxBET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/ShoBET_logo_2020.svg" group-title="Premium", SHOxBET West
+#EXTINF:-1 tvg-id="SHOxBETPacific.us" tvg-name="SHOxBET West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/ShoBET_logo_2020.svg" group-title="Premium", SHOxBET (West)
 
 
 #EXTINF:-1 tvg-id="Smile.us" tvg-name="Smile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png" group-title="Live Channels", Smile
@@ -841,31 +802,31 @@ https://fl1.moveonjoy.com/Start_Tv/index.m3u8
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="Premium", Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.(Pacific).us2" tvg-name="Starz (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="Premium", Starz West
+#EXTINF:-1 tvg-id="Starz.(Pacific).us2" tvg-name="Starz (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="Premium", Starz (West)
 http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Starz_Cinema_Logo_2022.svg" group-title="Premium", Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.(Pacific).us2" tvg-name="Starz Cinema HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Starz_Cinema_Logo_2022.svg" group-title="Premium", Starz Cinema West
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.(Pacific).us2" tvg-name="Starz Cinema HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Starz_Cinema_Logo_2022.svg" group-title="Premium", Starz Cinema (West)
 
 
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Starz_Comedy_Logo_2022.svg" group-title="Premium", Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.(Pacific).us2" tvg-name="Starz Comedy HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Starz_Comedy_Logo_2022.svg" group-title="Premium", Starz Comedy West
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.(Pacific).us2" tvg-name="Starz Comedy HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Starz_Comedy_Logo_2022.svg" group-title="Premium", Starz Comedy (West)
 
 
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Premium", Starz Edge
 
 
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Premium", Starz Edge West
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Premium", Starz Edge (West)
 http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8?delay=10800
 
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Starz_Encore_Logo_2022.svg" group-title="Premium", Starz Encore
 
 
-#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Starz_Encore_Logo_2022.svg" group-title="Premium", Starz Encore West
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Starz_Encore_Logo_2022.svg" group-title="Premium", Starz Encore (West)
 
 
 #EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Starz_Encore_Action_Logo_2022.svg" group-title="Premium", Starz Encore Action
@@ -889,13 +850,13 @@ http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Starz_in_Black_Logo_2022.svg" group-title="Premium", Starz in Black
 
 
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.(Pacific).us2" tvg-name="Starz in Black HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Starz_in_Black_Logo_2022.svg" group-title="Premium", Starz in Black West
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.(Pacific).us2" tvg-name="Starz in Black HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Starz_in_Black_Logo_2022.svg" group-title="Premium", Starz in Black (West)
 
 
 #EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Premium", Starz Kids & Family
 
 
-#EXTINF:-1 tvg-id="Starz.Kids.HD.(Pacific).us2" tvg-name="Starz Kids HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Premium", Starz Kids & Family West
+#EXTINF:-1 tvg-id="Starz.Kids.HD.(Pacific).us2" tvg-name="Starz Kids HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Premium", Starz Kids & Family (West)
 
 
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" group-title="Live Channels", SundanceTV
@@ -904,7 +865,7 @@ http://fl1.moveonjoy.com/SUNDANCE/index.m3u8
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels", SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
-#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="Syfy HD (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels", SYFY West
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-name="Syfy HD (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels", SYFY (West)
 
 
 # T
@@ -915,7 +876,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels", TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
 
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels", TBS West
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels", TBS (West)
 
 
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels", TCM (Turner Classic Movies)
@@ -924,7 +885,7 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 #EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="Teen Nick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Kids", Teen Nick
 
 
-#EXTINF:-1 tvg-id="Teen.Nick.(Pacific).us2" tvg-name="Teen Nick (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Kids", Teen Nick West
+#EXTINF:-1 tvg-id="Teen.Nick.(Pacific).us2" tvg-name="Teen Nick (Pacific)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Kids", Teen Nick (West)
 
 
 #EXTINF:-1 tvg-id="NickTotallyTeen.us" tvg-name="TeenNick PlutoTV" tvg-logo="https://vignette2.wikia.nocookie.net/nickelodeon/images/8/8e/TeenNick_logo_2009.png/revision/latest?cb=20111127040207" group-title="Kids", Teen Nick PlutoTV
@@ -939,7 +900,7 @@ http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-name="TLC HD (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels", TLC (The Learning Channel)
 http://fl1.moveonjoy.com/TLC/index.m3u8
 
-#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-name="TLC HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels", TLC (The Learning Channel) West
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-name="TLC HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels", TLC (The Learning Channel) (West)
 
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels", TNT
 http://143.244.60.30/TNT/index.m3u8
@@ -956,7 +917,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-name="The Travel Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/2018_Travel_Channel_logo.svg" group-title="Live Channels", Travel Channel
 http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="The Travel Channel HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Live Channels", Travel Channel West
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="The Travel Channel HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Live Channels", Travel Channel (West)
 
 
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels", truTV
@@ -980,7 +941,7 @@ http://fl1.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land
 
 
-#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV Land HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land West
+#EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV Land HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land (West)
 https://fl1.moveonjoy.com/TV_LAND/index.m3u8
 
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels", TV ONE
@@ -993,6 +954,7 @@ https://fl1.moveonjoy.com/Up_Tv/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
 http://143.244.60.30/USA_NETWORK/index.m3u8
+
 # V
 
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/VH1_logo.svg" group-title="Live Channels", VH1
