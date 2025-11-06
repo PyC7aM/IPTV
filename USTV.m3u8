@@ -799,64 +799,64 @@ http://fl1.moveonjoy.com/STADIUM/index.m3u8
 #EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Start_TV_logo.svg" group-title="Live Channels", Start TV Network
 https://fl1.moveonjoy.com/Start_Tv/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="Premium", Starz
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/960px-Starz_2022.svg.png" group-title="Premium", Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.(Pacific).us2" tvg-name="Starz (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Starz_2022.svg" group-title="Premium", Starz (West)
+#EXTINF:-1 tvg-id="Starz.(Pacific).us2" tvg-name="Starz (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/960px-Starz_2022.svg.png" group-title="Premium", Starz (West)
 http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Starz_Cinema_Logo_2022.svg" group-title="Premium", Starz Cinema
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/640px-Starz_Cinema_Logo_2022.svg.png" group-title="Premium", Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.(Pacific).us2" tvg-name="Starz Cinema HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Starz_Cinema_Logo_2022.svg" group-title="Premium", Starz Cinema (West)
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.(Pacific).us2" tvg-name="Starz Cinema HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/640px-Starz_Cinema_Logo_2022.svg.png" group-title="Premium", Starz Cinema (West)
 
 
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Starz_Comedy_Logo_2022.svg" group-title="Premium", Starz Comedy
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/640px-Starz_Comedy_Logo_2022.svg.png" group-title="Premium", Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.(Pacific).us2" tvg-name="Starz Comedy HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Starz_Comedy_Logo_2022.svg" group-title="Premium", Starz Comedy (West)
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.(Pacific).us2" tvg-name="Starz Comedy HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/640px-Starz_Comedy_Logo_2022.svg.png" group-title="Premium", Starz Comedy (West)
 
 
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Premium", Starz Edge
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/640px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge
 
 
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Premium", Starz Edge (West)
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/640px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge (West)
 http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8?delay=10800
 
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Starz_Encore_Logo_2022.svg" group-title="Premium", Starz Encore
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/640px-Starz_Encore_Logo_2022.svg.png" group-title="Premium", Starz Encore
 
 
-#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Starz_Encore_Logo_2022.svg" group-title="Premium", Starz Encore (West)
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/640px-Starz_Encore_Logo_2022.svg.png" group-title="Premium", Starz Encore (West)
 
 
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Starz_Encore_Action_Logo_2022.svg" group-title="Premium", Starz Encore Action
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/640px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Premium", Starz Encore Action
 http://fl1.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="Starz Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Starz_Encore_Black_Logo_2022.svg" group-title="Premium", Starz Encore Black
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="Starz Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/640px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Premium", Starz Encore Black
 
 
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Starz_Encore_Classic_Logo_2022.svg" group-title="Premium", Starz Encore Classic
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-name="Starz Encore Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Starz_Encore_Classic_Logo_2022.svg/640px-Starz_Encore_Classic_Logo_2022.svg.png" group-title="Premium", Starz Encore Classic
 http://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Starz_Encore_Family_Logo_2022.svg" group-title="Premium", Starz Encore Family
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-name="Starz Encore Family SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Starz_Encore_Family_Logo_2022.svg/640px-Starz_Encore_Family_Logo_2022.svg.png" group-title="Premium", Starz Encore Family
 
 
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Starz_Encore_Suspense_Logo_2022.svg" group-title="Premium", Starz Encore Suspense
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Starz_Encore_Suspense_Logo_2022.svg/640px-Starz_Encore_Suspense_Logo_2022.svg.png" group-title="Premium", Starz Encore Suspense
 
 
-#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Starz_Encore_Westerns_Logo_2022.svg" group-title="Premium", Starz Encore Westerns
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="Starz Encore Westerns SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Starz_Encore_Westerns_Logo_2022.svg/640px-Starz_Encore_Westerns_Logo_2022.svg.png" group-title="Premium", Starz Encore Westerns
 http://fl1.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Starz_in_Black_Logo_2022.svg" group-title="Premium", Starz in Black
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/640px-Starz_in_Black_Logo_2022.svg.png" group-title="Premium", Starz in Black
 
 
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.(Pacific).us2" tvg-name="Starz in Black HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Starz_in_Black_Logo_2022.svg" group-title="Premium", Starz in Black (West)
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.(Pacific).us2" tvg-name="Starz in Black HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/640px-Starz_in_Black_Logo_2022.svg.png" group-title="Premium", Starz in Black (West)
 
 
-#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Premium", Starz Kids & Family
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-name="Starz Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/640px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="Premium", Starz Kids & Family
 
 
-#EXTINF:-1 tvg-id="Starz.Kids.HD.(Pacific).us2" tvg-name="Starz Kids HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Starz_Kids_%26_Family_Logo_2022.svg" group-title="Premium", Starz Kids & Family (West)
+#EXTINF:-1 tvg-id="Starz.Kids.HD.(Pacific).us2" tvg-name="Starz Kids HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/640px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="Premium", Starz Kids & Family (West)
 
 
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" group-title="Live Channels", SundanceTV
