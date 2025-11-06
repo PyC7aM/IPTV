@@ -138,7 +138,7 @@ https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-name="Cinemax HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax West
-http://fl1.moveonjoy.com/CINEMAX/index.m3u8
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-name="ActionMAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Cinemax_Action_Logo.png" group-title="Premium", Cinemax Action
 
@@ -235,13 +235,13 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="House Floor" tvg-logo="" group-title="Music", Dance TV - House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="MiNiMaL" tvg-logo="" group-title="Music", Dance TV - MiNiMaL
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="MiNiMaL" tvg-logo="" group-title="Music", Dance TV - MNML
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Mainstream EDM" tvg-logo="" group-title="Music", Dance TV - Mainstream EDM
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Mainstream EDM" tvg-logo="" group-title="Music", Dance TV - Mainstage
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Chill AF Downtempo" tvg-logo="" group-title="Music", Dance TV - Chill AF Downtempo
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Chill AF Downtempo" tvg-logo="" group-title="Music", Dance TV - Chill AF
 https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="Melodic Tech" tvg-logo="" group-title="Music", Dance TV - Melodic Tech
@@ -317,7 +317,7 @@ http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD" tvg-logo="https://circlecareservices.com/wp-content/uploads/2024/04/Fox_Business.png" group-title="Live Channels", FOX Business
 http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News", FOX 
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News", Fox News Channel
 http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports", Fox Soccer Plus
@@ -330,7 +330,7 @@ http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2 Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="Sports", FS2
-http://fl1.moveonjoy.com/FOX_Sports_2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/1200px-Fox_Weather_logo.svg.png" group-title="Weather", FOX Weather
 https://247wlive.foxweather.com/stream/index.m3u8
@@ -403,7 +403,7 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Premium", HBO Drama
-http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Premium", HBO Drama West
 
@@ -584,7 +584,7 @@ https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="mtv-U.us2" tvg-name="mtv-U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg" group-title="Live Channels", MTV-U
-https://fl1.moveonjoy.com/MTV_U/index.m3u8
+
 
 #EXTINF:-1 tvg-id="YoMTV.us" tvg-name="MTV Yo!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/YO%21_MTV.svg/revision/latest?cb=20210629162715" group-title="Music", MTV Yo!
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -610,7 +610,7 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="NBC.East.Stream.us2" tvg-name="NBC East Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels", NBC
-http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
 
 #EXTINF:-1 tvg-id="NBC.West.Stream.us2" tvg-name="NBC West Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="Live Channels", NBC West
 
@@ -645,7 +645,7 @@ http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="News", Newsmax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="News", Newsmax TV 2
+#EXTINF:-1 tvg-id="N2.Newsmax2.us2" tvg-name="N2 Newsmax2" tvg-logo="" group-title="News", Newsmax2
 https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsNation.us2" tvg-name="NewsNation" tvg-logo="https://www.newsnationnow.com/wp-content/themes/newsnation/client/static/newsnation-app-landing/images/newsnation-hero-logo.png" group-title="News", NewsNation
