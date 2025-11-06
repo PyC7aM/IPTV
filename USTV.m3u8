@@ -735,7 +735,7 @@ http://fl1.moveonjoy.com/Pop_TV/index.m3u8
 #EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels", QVC
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 
-#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels", QVC West
+#EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/QVC.svg/revision/latest/scale-to-width-down/250?cb=20190429184243" group-title="Live Channels", QVC West
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8?delay=10800
 
 #EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/QVC2_%282017%29.svg/revision/latest?cb=20210225125729" group-title="Live Channels", QVC2
@@ -823,7 +823,7 @@ http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="Smile.us" tvg-name="Smile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Smile_Tv_Greece_Logo.png" group-title="Live Channels", Smile
 
 
-#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian HD Network" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Live Channels", Smithsonian Channel
+#EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian HD Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Smithsonian_Channel_current_logo.png" group-title="Live Channels", Smithsonian
 http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Live Channels", Sony Movie Channel
