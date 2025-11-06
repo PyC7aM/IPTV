@@ -859,7 +859,7 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/640px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge
 
 
-#EXTINF:-1 tvg-id="Starz.Edge.HD.(Pacific).us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Starz_Edge_Logo_2022.svg" group-title="Premium", Starz Edge West
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/640px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge West
 http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8?delay=10800
 
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/2560px-Starz_Encore_Logo_2022.svg.png" group-title="Premium", Starz Encore
