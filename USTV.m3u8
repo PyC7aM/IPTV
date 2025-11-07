@@ -51,7 +51,7 @@ http://fl1.moveonjoy.com/Axs_TV/index.m3u8
 
 # B
 
-#EXTINF:-1 tvg-id="BabyFirst.TV.us2" tvg-name="BabyFirst TV" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest?cb=20240422182307" group-title="Kids", BabyFirst
+#EXTINF:-1 tvg-id="BabyFirst.TV.us2" tvg-name="BabyFirst TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/BabyFirst_Logo.png" group-title="Kids", BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Live Channels", BBC America
@@ -60,34 +60,34 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC News (North America) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/BBC_News_2022_%28Alt%29.svg" group-title="News", BBC News
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA HD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports", beIN Sport USA
+#EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Bein_Sports_Logo.svg" group-title="Sports", beIN Sport USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET
 http://fl1.moveonjoy.com/BET_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET GOSPEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/69/BET_Gospel_2022_%28Vertical%29.svg/revision/latest?cb=20230922065149" group-title="Live Channels", BET Gospel
+#EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET GOSPEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/BET_Gospel_2022.png" group-title="Live Channels", BET Gospel
 http://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live Channels", BET Her
 http://fl1.moveonjoy.com/BET_HER/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/BET_Jams_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230922123529" group-title="Live Channels", BET Jams
+#EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/BET_Jams_2021.png" group-title="Live Channels", BET Jams
 http://fl1.moveonjoy.com/BET_Jams/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET Soul" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/BET_Soul_2021_%28Vertical%29.svg/revision/latest/scale-to-width-down/250?cb=20230923015343" group-title="Live Channels", BET Soul
+#EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET Soul" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Live Channels", BET Soul
 http://fl1.moveonjoy.com/BET_SOUL/index.m3u8
 
-#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/1200px-Big_Ten_Network_Logo.svg.png" group-title="Sports", Big Ten Network
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Big_Ten_Network_Logo.svg" group-title="Sports", Big Ten Network
 http://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg HD" tvg-logo="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivUxvlPidC3M/v0/-1x-1.jpg" group-title="Live Channels", Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/New_Bloomberg_Logo.svg" group-title="Live Channels", Bloomberg
 http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
 
-#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Kids", Boomerang
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="Kids", Boomerang
 http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2018/02/5bfb1301-bounce_adjusted1.png" group-title="Live Channels", Bounce
+#EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Bounce_TV_logo.svg" group-title="Live Channels", Bounce
 http://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce XL" tvg-logo="https://www.bouncetv.com/wp-content/themes/wp-bootstrap-starter/images/bouncexl/header-logo.png" group-title="Live Channels", Bounce XL
@@ -96,7 +96,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tabl
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Bravo_2024.svg" group-title="Live Channels", Bravo
 http://fl1.moveonjoy.com/BRAVO/index.m3u8
 
-#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/800px-Buzzr_logo.svg.png" group-title="Live Channels", Buzzr
+#EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Buzzr_logo.svg" group-title="Live Channels", Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
 
 # C
