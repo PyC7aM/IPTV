@@ -55,10 +55,10 @@ http://fl1.moveonjoy.com/Axs_TV/index.m3u8
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
 
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Live Channels", BBC America
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC News (North America) HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/BBC_News_2022_%28Alt%29.svg" group-title="News", BBC News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN.Sports.USA.HD.us2" tvg-name="beIN Sports USA HD" tvg-logo="https://www.beinsports.com/_next/static/media/bein_logo.af017869.webp?ver=06-02-2024?w=3840&q=75" group-title="Sports", beIN Sport USA
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
