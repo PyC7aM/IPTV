@@ -140,6 +140,9 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-id="Circle.Country.us2" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png" group-title="Live Channels", Circle Country
 
 
+#EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="Live Channels", Cleo TV
+https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels", CMT
 http://fl1.moveonjoy.com/CMT/index.m3u8
 
@@ -172,6 +175,9 @@ http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels", Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+
+#EXTINF:-1 tvg-id="The.Cowboy.Channel.us2" tvg-name="The Cowboy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/The_Cowboy_Channel.png" group-title="Live Channels", Cowboy Channel
+https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" tvg-logo="" group-title="Live Channels", Cozi TV
 http://fl1.moveonjoy.com/COZI_TV/index.m3u8
@@ -338,7 +344,7 @@ http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
 
 #EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="Great American Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Great_American_Family_logo.svg" group-title="Live Channels", Great American Family
-
+https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
 
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/GRIT_TV_Logo.svg" group-title="Live Channels", Grit
 http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
@@ -499,8 +505,8 @@ http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
 #EXTINF:-1 tvg-id="MGM.Presents.us2" tvg-name="MGM Presents" tvg-logo="" group-title="Premium", MGM Presents
 https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
 
-#EXTINF:-1 tvg-id="Military.History.Channel.us2" tvg-name="Military History Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Military_History_2015.svg/revision/latest/scale-to-width-down/250?cb=20210604115718" group-title="Live Channels", Military History Channel
-
+#EXTINF:-1 tvg-id="Military.History.Channel.us2" tvg-name="Military History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Mhistory.png" group-title="Live Channels", Military History Channel
+https://fl1.moveonjoy.com/Military_History/index.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Network.HD.us2" tvg-name="MLB Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="Sports", MLB Network
 http://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
@@ -670,8 +676,8 @@ http://fl1.moveonjoy.com/OXYGEN/index.m3u8
 
 # P
 
-#EXTINF:-1 tvg-id="Pac12Network.us" tvg-name="Pac-12 Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Pac-12-Network-White.png" group-title="Live Channels", Pac-12 Network
-
+#EXTINF:-1 tvg-id="Pac12Network.us" tvg-name="Pac-12 Network" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Pac-12-Network-White.png" group-title="Sports", Pac-12 Network
+https://fl1.moveonjoy.com/PAC_12/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="Live Channels", Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
@@ -790,8 +796,8 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Live Channels", Sony Movie Channel
 
 
-#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="Sportsnet LA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Spectrum_Sportsnet_LA.svg" group-title="Live Channels", Sportsnet LA
-
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SNY SportsNet New York HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Spectrum_Sportsnet_LA.svg" group-title="Sports", SNY SportsNet New York
+https://fl1.moveonjoy.com/SNY/index.m3u8
 
 #EXTINF:-1 tvg-id="Stadium.College.Sports.-.Central.us" tvg-name="Stadium College Sports - Central" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Stadium_new_logo.png" group-title="Sports", Stadium
 http://fl1.moveonjoy.com/STADIUM/index.m3u8
