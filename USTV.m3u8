@@ -284,6 +284,9 @@ http://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="Family.Entertainment.Television.us2" tvg-name="Family Entertainment Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Fetv_logo.png" group-title="Live Channels", Family Entertainment Television
 
 
+#EXTINF:-1 tvg-id="FanDuel.TV.us2" tvg-name="FanDuel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/FanDuel_TV_logo.svg" group-title="Sports", FanDuel TV
+https://fl1.moveonjoy.com/TVG/index.m3u8
+
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Live Channels", Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
