@@ -487,6 +487,9 @@ http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-id="Magnolia.Network.HD.us2" tvg-name="Magnolia Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Magnolia_Network.svg" group-title="Live Channels", Magnolia
 http://fl1.moveonjoy.com/DIY/index.m3u8
 
+#EXTINF:-1 tvg-id="Marquee.Sports.Network.HD.us2" tvg-name="Marquee Sports Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Marquee_Sports_Network_Logo.svg/640px-Marquee_Sports_Network_Logo.svg.png" group-title="Sports", Marquee Sports Network
+http://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="Me.TV.Network.us2" tvg-name="Me TV Network" tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="Live Channels", MeTV
 http://fl1.moveonjoy.com/ME_TV/index.m3u8
 
