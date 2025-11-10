@@ -987,7 +987,7 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 http://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Weather", Weather Channel
-
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/320px-Wetv-july-2024-logo.svg.png" group-title="Live Channels", WE (Women's Entertainment)
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
