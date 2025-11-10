@@ -562,6 +562,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc408
 #EXTINF:-1 tvg-id="My.Network.us2" tvg-name="My Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Live Channels", My Network
 
 
+#EXTINF:-1 tvg-id="Much.us2" tvg-name="Much" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Much_-_2013_logo.svg" group-title="Live Channels", Much
+https://fl1.moveonjoy.com/MUCH/index.m3u8
+
 # N
 
 #EXTINF:-1 tvg-id="NASA.us" tvg-name="NASA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/NASA_logo.svg/revision/latest?cb=20210622024945" group-title="Live Channels", NASA TV
@@ -699,6 +702,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="POP.HD.us2" tvg-name="POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Pop_Network_Logo.svg" group-title="Live Channels", POP
 http://fl1.moveonjoy.com/Pop_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="Pursuit.Channel.us2" tvg-name="Pursuit Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png" group-title="Live Channels", Pursuit Channel
+https://fl1.moveonjoy.com/Pursuit_Channel/index.m3u8
 
 # Q
 
