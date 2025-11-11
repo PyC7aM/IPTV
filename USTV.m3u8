@@ -168,7 +168,7 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet
-https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+http://fl1.moveonjoy.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel HD" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels", Cooking Channel
 http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
