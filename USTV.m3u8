@@ -717,7 +717,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 tvg-id="QVC.HD.us2" tvg-name="QVC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/QVC_logo_2019.svg" group-title="Live Channels", QVC (West)
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8?delay=10800
 
-#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2" tvg-logo="hhttps://upload.wikimedia.org/wikipedia/commons/7/7a/QVC2_logo_2019.svg" group-title="Live Channels", QVC2
+#EXTINF:-1 tvg-id="QVC2.us2" tvg-name="QVC2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/QVC2_logo_2019.svg" group-title="Live Channels", QVC2
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 
 #EXTINF:-1 tvg-id="QVC3.us2" tvg-name="QVC3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/QVC3_logo%2C_1_April_2019.png" group-title="Live Channels", QVC3
