@@ -823,22 +823,22 @@ http://23.237.104.106:8080/USA_STARZ/index.m3u8
 #EXTINF:-1 tvg-id="Starz.(Pacific).us2" tvg-name="Starz (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/960px-Starz_2022.svg.png" group-title="Premium", Starz (West)
 http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/640px-Starz_Cinema_Logo_2022.svg.png" group-title="Premium", Starz Cinema
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-name="Starz Cinema HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/960px-Starz_Cinema_Logo_2022.svg.png" group-title="Premium", Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.(Pacific).us2" tvg-name="Starz Cinema HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/640px-Starz_Cinema_Logo_2022.svg.png" group-title="Premium", Starz Cinema (West)
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.(Pacific).us2" tvg-name="Starz Cinema HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/960px-Starz_Cinema_Logo_2022.svg.png" group-title="Premium", Starz Cinema (West)
 
 
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/640px-Starz_Comedy_Logo_2022.svg.png" group-title="Premium", Starz Comedy
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-name="Starz Comedy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/960px-Starz_Comedy_Logo_2022.svg.png" group-title="Premium", Starz Comedy
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.(Pacific).us2" tvg-name="Starz Comedy HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/640px-Starz_Comedy_Logo_2022.svg.png" group-title="Premium", Starz Comedy (West)
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.(Pacific).us2" tvg-name="Starz Comedy HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/960px-Starz_Comedy_Logo_2022.svg.png" group-title="Premium", Starz Comedy (West)
 
 
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/640px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/960px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge
 
 
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/640px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge (West)
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/960px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge (West)
 http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8?delay=10800
 
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/640px-Starz_Encore_Logo_2022.svg.png" group-title="Premium", Starz Encore
