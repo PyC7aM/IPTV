@@ -11,10 +11,10 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 http://fl1.moveonjoy.com/ANE/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+http://fl1.moveonjoy.com/ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC 2 Baltimore MD (WMAR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/2_ABC_WMAR_Baltimore.png" group-title="Live Channels", ABC 2 Baltimore MD (WMAR)
-
+https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ABC_News_Live_logo_2021.svg" group-title="News", ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -52,7 +52,7 @@ http://fl1.moveonjoy.com/Axs_TV/index.m3u8
 # B
 
 #EXTINF:-1 tvg-id="BabyFirst.TV.us2" tvg-name="BabyFirst TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/BabyFirst_Logo.png" group-title="Kids", BabyFirst
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+
 
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-name="BBC America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="Live Channels", BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
@@ -64,7 +64,7 @@ http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET
-http://fl1.moveonjoy.com/BET_EAST/index.m3u8
+http://fl1.moveonjoy.com/BET/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET GOSPEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/BET_Gospel_2022.png" group-title="Live Channels", BET Gospel
 http://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
@@ -114,7 +114,7 @@ http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Streaming.SD.East.feed.us2" tvg-name="CBS Streaming SD East feed" tvg-logo="https://cordcutting.com/wp-content/uploads/2022/03/CBS-Logo.png" group-title="Live Channels", CBS
-http://fl1.moveonjoy.com/CBSEAST/index.m3u8
+http://fl1.moveonjoy.com/CBS/index.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network HD" tvg-logo="https://static.wikia.nocookie.net/viacom4633/images/7/73/ACCD68D0-9B23-449F-A783-E8CF43EE2BD4.png/revision/latest?cb=20191208013647" group-title="Sports", CBS Sports Network
 http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
@@ -156,7 +156,7 @@ http://fl1.moveonjoy.com/CNBC/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="News", CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://fl1.moveonjoy.com/CNN/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International" tvg-logo="" group-title="News", CNN International
 http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
