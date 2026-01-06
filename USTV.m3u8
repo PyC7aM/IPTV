@@ -291,7 +291,7 @@ https://fl1.moveonjoy.com/TVG/index.m3u8
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX (WNYW) New York, NY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg" group-title="Live Channels", FOX
-http://fl1.moveonjoy.com/FOX/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Fox_Business_Logo.svg/640px-Fox_Business_Logo.svg.png" group-title="Live Channels", FOX Business
 http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
