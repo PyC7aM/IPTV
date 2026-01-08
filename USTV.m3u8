@@ -101,7 +101,7 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 
 # C
 
-#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="CSPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/C-SPAN_Logo_%282019%29.svg" group-title="Live Channels", C-SPAN
+#EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="CSPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png" group-title="Live Channels", C-SPAN
 http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-id="CSPAN2.us2" tvg-name="CSPAN2" tvg-logo="https://cdn.worldvectorlogo.com/logos/c-span2.svg" group-title="Live Channels", C-SPAN 2
@@ -122,7 +122,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/960px-CBS_Sports_Network_2021.svg.png" group-title="Sports", CBS Sports Network
 http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="CHARGE!" tvg-logo="https://d12lhx8qhim5rg.cloudfront.net/uploads/2021/07/Charge_Yellow-1.png" group-title="Live Channels", Charge
+#EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="CHARGE!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/960px-Charge%21_Logo_2020.svg.png" group-title="Live Channels", Charge
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="Premium", Cinemax
