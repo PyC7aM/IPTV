@@ -206,8 +206,8 @@ https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 #EXTINF:-1 tvg-id="Curiosity.Channel(Stream).us" tvg-name="Curiosity Channel(Stream)" tvg-logo="" group-title="Live Channels", Curiosity Channel(Stream)
 
 
-#EXTINF:-1 tvg-id="CW.us2" tvg-name="CW" tvg-logo="https://cdn.cookielaw.org/logos/60ba8bee-28bd-45b9-bfaf-0bc25767ba53/8759a1c2-140a-4c40-9971-9507bd445f02/96f451bb-2555-4c61-a248-8b78334b4fbe/CW-logo-black.png" group-title="Live Channels", CW
-
+#EXTINF:-1 tvg-id="CW.us2" tvg-name="CW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/960px-The_CW_2024.svg.png" group-title="Live Channels", CW
+http://restream-live.realiptv.to:8080/live/33741215/82527298/647359.ts
 
 # D
 
