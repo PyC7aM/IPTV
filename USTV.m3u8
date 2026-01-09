@@ -7,34 +7,34 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
 # A
 
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A and E HD East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="Live Channels", A&E
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A and E HD East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Live Channels", A&E
 http://fl1.moveonjoy.com/ANE/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ABC-2021-LOGO.svg" group-title="Live Channels", ABC
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/960px-ABC-2021-LOGO.svg.png" group-title="Live Channels", ABC
 http://fl1.moveonjoy.com/ABC/index.m3u8
 
-#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC 2 Baltimore MD (WMAR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/2_ABC_WMAR_Baltimore.png" group-title="Live Channels", ABC 2 Baltimore MD (WMAR)
+#EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC 2 Baltimore MD (WMAR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2_ABC_WMAR_Baltimore.png/960px-2_ABC_WMAR_Baltimore.png" group-title="Live Channels", ABC 2 Baltimore MD (WMAR)
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/ABC_News_Live_logo_2021.svg" group-title="News", ABC News Live
+#EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News", ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/ACC_Network_ESPN_logo.svg" group-title="Sports", ACC Network
+#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/960px-ACC_Network_ESPN_logo.svg.png" group-title="Sports", ACC Network
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
 
-#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg" group-title="Weather", AccuWeather
+#EXTINF:-1 tvg-id="AccuWeather.HD.us2" tvg-name="AccuWeather HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/AccuWeather_2021.svg/960px-AccuWeather_2021.svg.png" group-title="Weather", AccuWeather
 https://accuweatherx-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="AdultSwim.com Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Adult_Swim_2003_logo.svg" group-title="Live Channels", Adult Swim
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us2" tvg-name="AdultSwim.com Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png" group-title="Live Channels", Adult Swim
 
 
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Live Channels", AMC
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Live Channels", AMC
 http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/AMC%2B_logo.png" group-title="Live Channels", AMC Plus
+#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AMC%2B_logo.png/887px-AMC%2B_logo.png" group-title="Live Channels", AMC Plus
 
 
-#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/American_Heroes_Channel_logo.svg" group-title="Live Channels", American Heroes Channel
+#EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png" group-title="Live Channels", American Heroes Channel
 http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet
@@ -970,15 +970,15 @@ http://fl1.moveonjoy.com/TV_ONE/index.m3u8
 
 # U
 
-#EXTINF:-1 tvg-id="UPtv.us2" tvg-name="UPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/UPtv_logo.svg" group-title="Live Channels", UPtv
+#EXTINF:-1 tvg-id="UPtv.us2" tvg-name="UPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/UPtv_logo.svg/960px-UPtv_logo.svg.png" group-title="Live Channels", UPtv
 https://fl1.moveonjoy.com/Up_Tv/index.m3u8
 
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Live Channels", USA Network
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/960px-USA_Network_2020.svg.png" group-title="Live Channels", USA Network
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 
 # V
 
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/VH1_logo.svg" group-title="Live Channels", VH1
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-name="VH1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/960px-VH1_logo.svg.png" group-title="Live Channels", VH1
 http://23.237.104.106:8080/USA_VH1/index.m3u8
 
 #EXTINF:-1 tvg-id="Vice.HD.us2" tvg-name="Vice HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Vice_logo.svg/960px-Vice_logo.svg.png" group-title="Live Channels", Vice
@@ -986,22 +986,22 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
 # W
 
-#EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-name="W Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/W_Network_Logo.svg" group-title="Live Channels", W Network
+#EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-name="W Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/960px-W_Network_Logo.svg.png" group-title="Live Channels", W Network
 http://fl1.moveonjoy.com/W_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/The_Weather_Channel_logo_2005-present.svg" group-title="Weather", Weather Channel
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/960px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Weather", Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
 #EXTINF:-1 tvg-id="WE.tv.HD.us2" tvg-name="WE tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wetv-july-2024-logo.svg/960px-Wetv-july-2024-logo.svg.png" group-title="Live Channels", WE (Women's Entertainment)
 http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network HD (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/WFN_2014_logo.svg" group-title="Live Channels", World Fishing Network
+#EXTINF:-1 tvg-id="World.Fishing.Network.HD.(US).us2" tvg-name="World Fishing Network HD (US)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/WFN_2014_logo.svg/960px-WFN_2014_logo.svg.png" group-title="Live Channels", World Fishing Network
 http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="WGN.Chicago,.IL.us" tvg-name="WGN Chicago, IL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/WGN_CW_logo_2024.svg/960px-WGN_CW_logo_2024.svg.png" group-title="Live Channels", WGN
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 
-#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="Sports", WWE Network
+#EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/960px-WWE_official_logo.svg.png" group-title="Sports", WWE Network
 http://fl1.moveonjoy.com/WWE/index.m3u8
 
 # X
@@ -1009,7 +1009,7 @@ http://fl1.moveonjoy.com/WWE/index.m3u8
 
 # Y
 
-#EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/YES_Network_logo.svg" group-title="Sports", YES Network
+#EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" group-title="Sports", YES Network
 http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
 
 # Z
