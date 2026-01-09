@@ -891,13 +891,13 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 # T
 
-#EXTINF:-1 tvg-id="Trinity.Broadcasting.Network.HD.us2" tvg-name="TBN  - Trinity Broadcasting Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trinity_Broadcasting_Network_logo_%282015%29.svg/1200px-Trinity_Broadcasting_Network_logo_%282015%29.svg.png" group-title="Live Channels", TBN
+#EXTINF:-1 tvg-id="Trinity.Broadcasting.Network.HD.us2" tvg-name="TBN  - Trinity Broadcasting Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Trinity_Broadcasting_Network_logo_%282016%29.svg/960px-Trinity_Broadcasting_Network_logo_%282016%29.svg.png" group-title="Live Channels", TBN
 
 
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels", TBS
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Live Channels", TBS
 http://fl1.moveonjoy.com/TBS/index.m3u8
 
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TBS_2020.svg" group-title="Live Channels", TBS (West)
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Live Channels", TBS (West)
 
 
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels", TCM (Turner Classic Movies)
