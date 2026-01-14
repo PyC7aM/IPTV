@@ -910,7 +910,7 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NickTotallyTeen.us" tvg-name="TeenNick PlutoTV" tvg-logo="https://vignette2.wikia.nocookie.net/nickelodeon/images/8/8e/TeenNick_logo_2009.png/revision/latest?cb=20111127040207" group-title="Kids", Teen Nick PlutoTV
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6450209d939a5900084dba1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-name="Tennis Channel HD" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/2000px-Tennis_Channel_logo.svg_.png" group-title="Sports", Tennis Channel
 http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
@@ -924,7 +924,7 @@ http://fl1.moveonjoy.com/TLC/index.m3u8
 #EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-name="TLC HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels", TLC (The Learning Channel) (West)
 
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels", TNT
-http://143.244.60.30/TNT/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="Tr3s: MTV, Musica y Mas" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels", Tr3s: MTV
 
@@ -945,19 +945,19 @@ http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports", TSN 1
-http://fl1.moveonjoy.com/TSN_1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TSN2.svg" group-title="Sports", TSN 2
-http://fl1.moveonjoy.com/TSN_2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg" group-title="Sports", TSN 3
-http://fl1.moveonjoy.com/TSN_3/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg" group-title="Sports", TSN 4
-http://fl1.moveonjoy.com/TSN_4/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg" group-title="Sports", TSN 5
-http://fl1.moveonjoy.com/TSN_5/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land
 
@@ -971,10 +971,10 @@ http://fl1.moveonjoy.com/TV_ONE/index.m3u8
 # U
 
 #EXTINF:-1 tvg-id="UPtv.us2" tvg-name="UPtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/UPtv_logo.svg/960px-UPtv_logo.svg.png" group-title="Live Channels", UPtv
-https://fl1.moveonjoy.com/Up_Tv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-name="USA Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/960px-USA_Network_2020.svg.png" group-title="Live Channels", USA Network
-http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+
 
 # V
 
@@ -1002,7 +1002,7 @@ http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_WGN/index.m3u8
 
 #EXTINF:-1 tvg-id="WWE.Network.us2" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/960px-WWE_official_logo.svg.png" group-title="Sports", WWE Network
-http://fl1.moveonjoy.com/WWE/index.m3u8
+
 
 # X
 
