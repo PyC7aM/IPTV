@@ -32,10 +32,10 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 # A
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Movies", A1
-http://31.148.48.15/A1/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=amedia
 
 #EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
-http://31.148.48.15/A2/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=amedia2
 
 #EXTINF:-1 tvg-id="aiva" group-title="Music", AIVA
 
@@ -44,10 +44,10 @@ http://31.148.48.15/A2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", Amedia Hit
-
+http://158.101.222.193:88/georgia_play.php?id=amediahit
 
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", Amedia Premium
-
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
 
 #EXTINF:-1 tvg-id="amc" group-title="", AMC
 
