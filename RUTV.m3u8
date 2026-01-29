@@ -368,7 +368,7 @@ https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 # K
 
 #EXTINF:-1 tvg-id="kino-24" group-title="Movies", Kino 24
-
+http://a0925677.xsph.ru/hls/CH_KINO24.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -503,7 +503,7 @@ https://hls-03-video.webcaramba.com/rutv/live.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
-
+http://158.101.222.193:88/georgia_play.php?id=black
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
 
@@ -649,7 +649,7 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", Viju+ Comedy
-
+http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", Viju+ Megahit
 
@@ -710,7 +710,7 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="", В мире животных HD
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ВИДЕО КАССЕТА
-
+https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
 
 # Г
 
@@ -924,7 +924,7 @@ http://live.m2.tv/hls3/720/stream.m3u8
 
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
-https://streaming.televizor-24-tochka.ru/live/6.m3u8
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="match-arena" group-title="Sport", Матч! Арена
 
@@ -969,7 +969,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="mosfilm" group-title="Movies", Мосфильм. Золотая коллекция
-
+http://178.134.1.158:8081/mosfilm/index.m3u8
 
 #EXTINF:-1 tvg-id="motorsportv-tv" group-title="Sport", Моторспорт ТВ
 
@@ -1031,7 +1031,7 @@ http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="nauka-20" group-title="", Наука 2.0
-
+https://vod.tuva.ru/nauka2/index.m3u8
 
 #EXTINF:-1 tvg-id="nashehd" group-title="", Наше HD
 
@@ -1294,7 +1294,7 @@ http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Movies", Феникс+ Кино
-
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 
 # Х
 
