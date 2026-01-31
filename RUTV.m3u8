@@ -43,10 +43,10 @@ http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Akudji
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Alpha Cinema
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="Alpha Cinema" tvg-logo="https://i.ibb.co/n0g4LCy/alphac.png" group-title="Movies", Alpha Cinema
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Alpha Moretime
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="Alpha Moretime" tvg-logo="https://i.ibb.co/yPDTMTn/alpham.png" group-title="Movies", Alpha Moretime
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", Amedia Hit
