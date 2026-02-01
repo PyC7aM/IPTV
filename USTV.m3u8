@@ -320,6 +320,9 @@ http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Fox-weather-logo-stacked-color.svg" group-title="Weather", Fox Weather
 https://247wlive.foxweather.com/stream/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="France 24 English HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/France_24_logo_%282013%29.svg/960px-France_24_logo_%282013%29.svg.png" group-title="News", France 24
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Freeform_2022_%282%29.svg/960px-Freeform_2022_%282%29.svg.png" group-title="Live Channels", Freeform
 http://fl1.moveonjoy.com/FREE_FORM/index.m3u8
 
@@ -347,7 +350,7 @@ https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 http://fl1.moveonjoy.com/GET_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="GOL.TV.us2" tvg-name="GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/GolTV_logo.svg" group-title="Sports", GOL TV
-http://23.237.104.106:8080/USA_GOLTV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Golf.Channel.HD.us2" tvg-name="Golf Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Sports", Golf Channel
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
