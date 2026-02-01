@@ -1081,7 +1081,7 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist
 
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Sport", Охотник и рыболов HD
-http://ott-cdn.ucom.am/s62/index.m3u8
+
 
 # П
 
@@ -1140,7 +1140,7 @@ https://vod.tuva.ru/friday/index.m3u8
 
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Movies", Пятый канал
-https://streaming.televizor-24-tochka.ru/live/8.m3u8
+
 
 # Р
 
@@ -1148,7 +1148,7 @@ https://streaming.televizor-24-tochka.ru/live/8.m3u8
 
 
 #EXTINF:-1 tvg-id="radio-shanson" group-title="Music", Радио Шансон
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
+
 
 #EXTINF:-1 tvg-id="rentv" group-title="General", Рен ТВ
 
@@ -1175,7 +1175,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
-https://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Movies", Русский бестселлер
 
@@ -1213,13 +1213,13 @@ https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 
 
 #EXTINF:-1 tvg-id="sts-love" group-title="Entertainment", СТС Love
-http://194.143.148.28:8080/CTC_LOVE/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sarafan" group-title="Entertainment", Сарафан
-http://31.148.48.15:80/Sarafan/index.m3u8
+
 
 #EXTINF:-1 tvg-id="sever" group-title="Regional", Север
-https://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
+
 
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Kids", Смайлик ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
@@ -1240,7 +1240,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="super" group-title="Entertainment", Супер
-https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+
 
 # Т
 
@@ -1263,7 +1263,7 @@ https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 https://streaming.thestream.cyou/live/38.m3u8
 
 #EXTINF:-1 tvg-id="tnt-music" group-title="Music", ТНТ-Music
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdlow.m3u8
+
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Entertainment", ТНТ4
 https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
@@ -1274,7 +1274,7 @@ https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Entertainment", Твоё ТВ HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 
-#EXTINF:-1 tvg-id="tvoetv-humor" group-title="Entertainment", ТВОЕ ТВ - ЮМОР
+#EXTINF:-1 tvg-id="tvoetv-humor" group-title="Entertainment", Твоё ТВ - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
