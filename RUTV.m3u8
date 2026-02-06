@@ -353,7 +353,7 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 
 
 #EXTINF:-1 tvg-id="hd-life" group-title="", HD Life
-
+http://158.101.222.193:88/georgia_play.php?id=hdlife
 
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
 
@@ -652,7 +652,7 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", Viju TV1000 Русское
-
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", Viju+ Comedy
 http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
@@ -684,7 +684,7 @@ http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 # Z
 
 #EXTINF:-1 tvg-id="zoopark" group-title="", ZooПарк
-
+http://158.101.222.193:88/georgia_play.php?id=zoo
 
 # А
 
@@ -890,10 +890,10 @@ https://vod.tuva.ru/kinotv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
-
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
-
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 
 #EXTINF:-1 tvg-id="komedijnoe-hd" group-title="", Комедийное HD
 
