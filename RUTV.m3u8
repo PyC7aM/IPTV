@@ -820,7 +820,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
-
+http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
 
 #EXTINF:-1 tvg-id="istoria" group-title="", История
 
@@ -869,7 +869,7 @@ https://vod.tuva.ru/kinotv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
-
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="Movies", Кинопоказ
 
@@ -881,10 +881,10 @@ https://vod.tuva.ru/kinotv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kinosemiya" group-title="Movies", Киносемья
-
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
 
 #EXTINF:-1 tvg-id="kinoseria" group-title="Movies", Киносерия
-
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
 
 #EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
 
