@@ -495,6 +495,9 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Sport", Setanta Sports+
 
 
+#EXTINF:-1 tvg-id="song-tv-tu" group-title="Music", Song TV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
 http://158.101.222.193:88/georgia_play.php?id=scifi
 
@@ -568,6 +571,8 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", TNT
 
+#EXTINF:-1 tvg-id="terra-ru" group-title="", Terra
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 
 #EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
 
