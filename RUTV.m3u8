@@ -1091,6 +1091,9 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ПАМЯТЬ
 
 
+#EXTINF:-1 tvg-id="patriot" group-title="Movies", Патриот
+http://catchup.videoline.ru/asvtv/index.m3u8
+
 #EXTINF:-1 tvg-id="pervy-vegetariansky" group-title="", Первый вегетарианский
 
 
