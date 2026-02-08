@@ -1013,7 +1013,7 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntv-mir" group-title="General", НТВ-Мир
-http://ott-cdn.ucom.am/s17/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ntv-pravo" group-title="", НТВ Право
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
