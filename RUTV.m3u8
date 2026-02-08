@@ -694,6 +694,8 @@ http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="anekdottv" group-title="", Анекдот ТВ
 
+#EXTINF:-1 tvg-id="aris24" group-title="", Арис 24 
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 
 #EXTINF:-1 tvg-id="arsenaltv" group-title="", Арсенал
 
