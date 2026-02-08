@@ -927,7 +927,7 @@ https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 http://live.m2.tv/hls3/720/stream.m3u8
 
 #EXTINF:-1 tvg-id="mama" group-title="Kids", Мама
-http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
@@ -960,7 +960,7 @@ http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="millet" group-title="", Миллет
-http://live.trkmillet.ru/millet/index.m3u8
+https://live1.1tvcrimea.ru/milletlive.m3u8
 
 #EXTINF:-1 tvg-id="mir" group-title="", Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -981,7 +981,7 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 
 
 #EXTINF:-1 tvg-id="moya-planeta" group-title="", Моя Планета
-http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
@@ -996,12 +996,15 @@ https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 
 
 #EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
-http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="multimuzyka" group-title="Kids", Мульт и музыка
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="multimania" group-title="Kids", Мультиландия
+
+
+#EXTINF:-1 tvg-id="multimania-lv" group-title="Kids", Мультимaния LV
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 
 # Н
