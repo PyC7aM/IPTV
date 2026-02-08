@@ -689,6 +689,8 @@ http://158.101.222.193:88/georgia_play.php?id=zoo
 
 #EXTINF:-1 tvg-id="avto24" group-title="", Авто24
 
+#EXTINF:-1 tvg-id="aist" group-title="", Аист ТВ
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="anekdottv" group-title="", Анекдот ТВ
 
