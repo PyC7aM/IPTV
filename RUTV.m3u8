@@ -59,10 +59,10 @@ http://158.101.222.193:88/georgia_play.php?id=amediapremium
 
 
 #EXTINF:-1 tvg-id="ani" group-title="Kids", Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="", Animal Planet
-https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
 
@@ -220,7 +220,7 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 #EXTINF:-1 tvg-id="da-vinci" group-title="Kids", Da Vinci Learning
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Dance TV
-https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Deep House District
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
@@ -442,7 +442,7 @@ http://185.164.82.18:9010/ykMHqK_NatGeoWild
 
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Kids", Nickelodeon
-http://46.8.46.14/Nickelodeon/index.m3u8
+
 
 #EXTINF:-1 tvg-id="nickelodeon-hd" group-title="Kids", Nickelodeon HD
 
@@ -483,7 +483,7 @@ http://46.8.46.14/Nickelodeon/index.m3u8
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 
 #EXTINF:-1 tvg-id="rtg-hd" group-title="Travel & Tourism", RTG HD 
-http://194.143.148.28:8080/RTG_HD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="rtg-tv" group-title="Travel & Tourism", RTG TV
 
@@ -492,7 +492,7 @@ http://194.143.148.28:8080/RTG_HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="rutv" group-title="Music", RU.TV
-https://hls-03-video.webcaramba.com/rutv/live.m3u8
+
 
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", Russian MusicBox
 
@@ -515,6 +515,7 @@ http://158.101.222.193:88/georgia_play.php?id=black
 http://158.101.222.193:88/georgia_play.php?id=red
 
 #EXTINF:-1 tvg-id="star-family-ua" group-title="", Star Family Украина
+
 
 #EXTINF:-1 tvg-id="start-air" group-title="Movies", Start Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
@@ -833,13 +834,13 @@ http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
 
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", КХЛ HD
-http://194.143.148.28:8080/KHL_HD/index.m3u8
+
 
 #EXTINF:-1 tvg-id="kxl" group-title="Sport", КХЛ ТВ
 
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Religion", Каббала ТВ
-https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="kaleydoskop-tv" group-title="", Калейдоскоп ТВ
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
