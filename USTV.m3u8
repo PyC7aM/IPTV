@@ -8,7 +8,7 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 # A
 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A and E HD East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Live Channels", A&E
-http://fl1.moveonjoy.com/ANE/index.m3u8
+http://41.205.93.154/AandE/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/960px-ABC-2021-LOGO.svg.png" group-title="Live Channels", ABC
 http://fl1.moveonjoy.com/ABC/index.m3u8
@@ -29,7 +29,7 @@ https://accuweatherx-lg.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Live Channels", AMC
-http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+http://41.205.93.154/AMC/index.m3u8
 
 #EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AMC%2B_logo.png/887px-AMC%2B_logo.png" group-title="Live Channels", AMC Plus
 
@@ -38,7 +38,7 @@ http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet
-http://fl1.moveonjoy.com/Animal_Planet/index.m3u8
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
 #EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png" group-title="Live Channels", Antenna
 http://fl1.moveonjoy.com/Antenna_TV/index.m3u8
