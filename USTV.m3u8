@@ -85,7 +85,7 @@ http://fl1.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="Kids", Boomerang
-http://fl1.moveonjoy.com/BOOMERANG/index.m3u8
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="Bounce.TV.us2" tvg-name="Bounce TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Bounce_TV_logo.svg" group-title="Live Channels", Bounce
 http://fl1.moveonjoy.com/BOUNCE_TV/index.m3u8
@@ -260,7 +260,7 @@ http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 http://fl1.moveonjoy.com/DISNEY/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids", Disney Junior
-http://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-name="Disney XD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids", Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -1016,6 +1016,6 @@ http://23.237.104.106:8080/USA_WGN/index.m3u8
 # Y
 
 #EXTINF:-1 tvg-id="Yes.Network.us2" tvg-name="YES Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" group-title="Sports", YES Network
-http://fl1.moveonjoy.com/YES_NETWORK/index.m3u8
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
 # Z
