@@ -35,19 +35,19 @@ http://41.205.93.154/AMC/index.m3u8
 
 
 #EXTINF:-1 tvg-id="American.Heroes.Channel.HD.us2" tvg-name="American Heroes Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/American_Heroes_Channel_logo.svg/960px-American_Heroes_Channel_logo.svg.png" group-title="Live Channels", American Heroes Channel
-http://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Live Channels", Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 
 #EXTINF:-1 tvg-id="Antenna.TV.us2" tvg-name="Antenna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png" group-title="Live Channels", Antenna
-http://fl1.moveonjoy.com/Antenna_TV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ASPiRE.HD.us2" tvg-name="ASPiRE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Aspire_tv.png" group-title="Live Channels", ASPiRE
-http://fl1.moveonjoy.com/Aspire/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AXS.TV.us2" tvg-name="AXS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/AXS_TV_logo.svg" group-title="Live Channels", AXS TV
-http://fl1.moveonjoy.com/Axs_TV/index.m3u8
+
 
 # B
 
@@ -64,25 +64,25 @@ http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 http://23.237.104.106:8080/USA_BEIN/index.m3u8
 
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-name="BET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/BET-2021Logo.svg" group-title="Live Channels", BET
-http://fl1.moveonjoy.com/BET/index.m3u8
+
 
 #EXTINF:-1 tvg-id="BET.GOSPEL.us2" tvg-name="BET GOSPEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/26/BET_Gospel_2022.png" group-title="Live Channels", BET Gospel
-http://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-name="BET Her" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" group-title="Live Channels", BET Her
-http://fl1.moveonjoy.com/BET_HER/index.m3u8
+
 
 #EXTINF:-1 tvg-id="BET.Jams.us2" tvg-name="BET Jams" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/BET_Jams_2021.png" group-title="Live Channels", BET Jams
-http://fl1.moveonjoy.com/BET_Jams/index.m3u8
+
 
 #EXTINF:-1 tvg-id="BET.Soul.us2" tvg-name="BET Soul" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BET_Soul_2021.png" group-title="Live Channels", BET Soul
-http://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-name="Big Ten Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png" group-title="Sports", Big Ten Network
 http://23.237.104.106:8080/USA_BTN/index.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg.HD.us2" tvg-name="Bloomberg HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/New_Bloomberg_Logo.svg" group-title="Live Channels", Bloomberg
-http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Boomerang_2014_logo.svg" group-title="Kids", Boomerang
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
@@ -94,7 +94,7 @@ http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-name="Bravo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Bravo_2024.svg" group-title="Live Channels", Bravo
-http://fl1.moveonjoy.com/BRAVO/index.m3u8
+http://41.205.93.154/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="BUZZR.Stream.us2" tvg-name="BUZZR Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Buzzr_logo.svg" group-title="Live Channels", Buzzr
 https://buzzrota-web.amagi.tv/playlist.m3u8
@@ -102,7 +102,7 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 # C
 
 #EXTINF:-1 tvg-id="CSPAN.us2" tvg-name="CSPAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/C-SPAN_Logo_%282019%29.svg/960px-C-SPAN_Logo_%282019%29.svg.png" group-title="Live Channels", C-SPAN
-http://fl1.moveonjoy.com/C-SPAN/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CSPAN2.us2" tvg-name="CSPAN2" tvg-logo="https://cdn.worldvectorlogo.com/logos/c-span2.svg" group-title="Live Channels", C-SPAN 2
 
