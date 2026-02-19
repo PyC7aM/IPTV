@@ -144,7 +144,7 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="Live Channels", Cleo TV
-https://fl1.moveonjoy.com/Cleo_TV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CMT.HD.us2" tvg-name="CMT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="Live Channels", CMT
 http://23.237.104.106:8080/USA_CMT/index.m3u8
@@ -152,56 +152,56 @@ http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-id="CMTMusic.us" tvg-name="CMT Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/CMT_Music_boxed.svg/revision/latest?cb=20231211211250" group-title="Live Channels", CMT Music
 
 
-#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/CNBC_2023.svg" group-title="Live Channels", CNBC
-http://fl1.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-name="CNBC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" group-title="Live Channels", CNBC
+http://41.205.93.154/CNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.World.us2" tvg-name="CNBC World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/1200px-CNBC_World.svg.png" group-title="Live Channels", CNBC World
 
 
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="News", CNN
-http://fl1.moveonjoy.com/CNN/index.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="CNN.International.us2" tvg-name="CNN International" tvg-logo="" group-title="News", CNN International
-http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Comedy_Central_2018_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20191213112155" group-title="Live Channels", Comedy Central
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.TV.HD.us2" tvg-name="Comedy.TV HD" tvg-logo="" group-title="Live Channels", Comedy.TV
-https://fl1.moveonjoy.com/Comedy_TV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Comet.us2" tvg-name="Comet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/1200px-Comet_logo.svg.png" group-title="Live Channels", Comet
-http://fl1.moveonjoy.com/COMET/index.m3u8
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel HD" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels", Cooking Channel
-http://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels", Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 
 #EXTINF:-1 tvg-id="The.Cowboy.Channel.us2" tvg-name="The Cowboy Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/The_Cowboy_Channel.png" group-title="Live Channels", Cowboy Channel
-https://fl1.moveonjoy.com/Cowboy_Channel/index.m3u8
+
 
 #EXTINF:-1 tvg-id="COZI.TV.us2" tvg-name="COZI TV" tvg-logo="" group-title="Live Channels", Cozi TV
-http://fl1.moveonjoy.com/COZI_TV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Crave1.HD.ca2" tvg-name="Crave1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 1
-http://fl1.moveonjoy.com/CRAVE_1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Crave2.HD.ca2" tvg-name="Crave2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 2
-http://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Crave3.HD.ca2" tvg-name="Crave3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 3
-http://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Crave4.ca2" tvg-name="Crave4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Crave_2018_logo.svg" group-title="Premium", Crave 4
-http://fl1.moveonjoy.com/CRAVE_4/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Create.us2" tvg-name="Create" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Create_TV_2006.svg/revision/latest?cb=20240205233457" group-title="Live Channels", Create
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HD.us2" tvg-name="Crime and Investigation Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Live Channels", Crime & Investigation
-https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Curiosity.Channel(Stream).us" tvg-name="Curiosity Channel(Stream)" tvg-logo="" group-title="Live Channels", Curiosity Channel(Stream)
 
@@ -210,7 +210,7 @@ https://fl1.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CW.Plus.East.us2" tvg-name="CW Plus East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_CW_Plus_2021.svg/960px-The_CW_Plus_2021.svg.png" group-title="Live Channels", CW Plus
-http://restream-live.realiptv.to:8080/live/33741215/82527298/647359.ts
+
 
 # D
 
