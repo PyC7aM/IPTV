@@ -174,7 +174,7 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-name="Cooking Channel HD" tvg-logo="https://theme.zdassets.com/theme_assets/9513797/13b9e8f7ab03eaf955916952cb7de6790a655b50.png" group-title="Live Channels", Cooking Channel
-
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
 
 #EXTINF:-1 tvg-id="Court.TV.us2" tvg-name="Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="Live Channels", Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
@@ -257,7 +257,7 @@ http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids", Disney Channel
-http://fl1.moveonjoy.com/DISNEY/index.m3u8
+http://fl12.moveonjoy.com/DISNEY/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids", Disney Junior
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
