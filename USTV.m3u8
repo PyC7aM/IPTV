@@ -11,13 +11,13 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 http://41.205.93.154/AandE/index.m3u8
 
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC National Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/960px-ABC-2021-LOGO.svg.png" group-title="Live Channels", ABC
-http://fl1.moveonjoy.com/ABC/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ABC.National.Feed.us2" tvg-name="ABC 2 Baltimore MD (WMAR)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/2_ABC_WMAR_Baltimore.png/960px-2_ABC_WMAR_Baltimore.png" group-title="Live Channels", ABC 2 Baltimore MD (WMAR)
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ABC.News.Live.us2" tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="News", ABC News Live
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+http://41.205.93.154/ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/960px-ACC_Network_ESPN_logo.svg.png" group-title="Sports", ACC Network
 http://23.237.104.106:8080/USA_ACCN/index.m3u8
