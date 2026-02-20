@@ -539,7 +539,7 @@ http://23.237.104.106:8080/USA_MSG/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MS.NOW.HD.us2" tvg-name="MS NOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/960px-MS_NOW_logo.svg.png" group-title="News", MS NOW
-http://fl1.moveonjoy.com/MSNBC/index.m3u8
+http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV - Music Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="Live Channels", MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
@@ -640,7 +640,7 @@ https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
 http://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-name="NFL Network HD" tvg-logo="https://cdn2.downdetector.com/static/uploads/c/300/31114/NFL_Network_logo.png" group-title="Sports", NFL Network
-http://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL RedZone HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/NFL_RedZone.svg/revision/latest?cb=20230828151712" group-title="Sports", NFL RedZone
 http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
@@ -652,7 +652,7 @@ http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-name="Nickelodeon HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Kids", Nickelodeon
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-name="Nickelodeon (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/NICK2023.png" group-title="Kids", Nickelodeon (West)
 
@@ -664,7 +664,7 @@ http://fl1.moveonjoy.com/NICK_JR/index.m3u8
 http://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-name="Nicktoons" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png/revision/latest/scale-to-width-down/1200?cb=20231203212939" group-title="Kids", NickToons
-http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+http://212.102.60.231/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick90sKids.us" tvg-name="NickRewind" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/NickRewindSplat-SocMed-2023.svg/revision/latest/scale-to-width-down/1200?cb=20230922085413" group-title="Kids", Nick Rewind
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -741,7 +741,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 http://fl1.moveonjoy.com/MAV_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="ReelzChannel.HD.us2" tvg-name="ReelzChannel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Reelz.svg" group-title="Live Channels", Reelz
-http://fl1.moveonjoy.com/REELZ/index.m3u8
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
 
 #EXTINF:-1 tvg-id="RetroPlex.HD.us2" tvg-name="RetroPlex HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Retroplex_Stacked.svg/revision/latest?cb=20160512192053" group-title="Premium", RetroPlex
 
@@ -907,13 +907,13 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Live Channels", TBS
-
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Live Channels", TBS (West)
 
 
 #EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels", TCM (Turner Classic Movies)
-
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="Teen Nick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Kids", Teen Nick
 
