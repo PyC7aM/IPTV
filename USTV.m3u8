@@ -627,6 +627,9 @@ http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="New England Sports Network HD" tvg-logo="" group-title="Sports", NESN (New England Sports Network)
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 
+#EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/960px-The_Nest_2023.svg.png" group-title="Live Channels", Nest
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+
 #EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="News", Newsmax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
@@ -745,6 +748,9 @@ http://fl1.moveonjoy.com/REELZ/index.m3u8
 
 #EXTINF:-1 tvg-id="Revolt.HD.us2" tvg-name="Revolt HD" tvg-logo="https://photos.prnewswire.com/prnfull/20150320/183424LOGO" group-title="Live Channels", Revolt
 http://fl1.moveonjoy.com/REVOLT/index.m3u8
+
+#EXTINF:-1 tvg-id="ROAR.TV.us2" tvg-name="ROAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Roar_%282025%29.svg/960px-Roar_%282025%29.svg.png" group-title="Live Channels", ROAR TV
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 
 #EXTINF:-1 tvg-id="ROOT.Sports.Northwest.HD.us2" tvg-name="ROOT Sports Northwest HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Root_Sports_logo.svg" group-title="Live Channels", ROOT Sports Northwest
 
