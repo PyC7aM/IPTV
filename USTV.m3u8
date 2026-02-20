@@ -296,13 +296,13 @@ https://fl1.moveonjoy.com/TVG/index.m3u8
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/640px-Food_Network_logo.svg.png" group-title="Live Channels", Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg" group-title="Live Channels", Fox
+#EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="Fox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/960px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Live Channels", Fox
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Fox_Business_Logo.svg/640px-Fox_Business_Logo.svg.png" group-title="Live Channels", Fox Business
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-name="Fox Business HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Fox_Business_%282%29.svg/960px-Fox_Business_%282%29.svg.png" group-title="Live Channels", Fox Business
 http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News", Fox News Channel
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News", Fox News Channel
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/960px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports", Fox Soccer Plus
@@ -434,7 +434,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 
 # I
 
-#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/800px-IFC_2018_logo.svg.png" group-title="Live Channels", IFC
+#EXTINF:-1 tvg-id="IFC.HD.us2" tvg-name="IFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/IFC_2018_logo.svg/960px-IFC_2018_logo.svg.png" group-title="Live Channels", IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
 #EXTINF:-1 tvg-id="IndiePlex.HD.us2" tvg-name="Indieplex HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Indieplex_Stacked.svg/revision/latest?cb=20160512191618" group-title="Premium", IndiePlex
@@ -446,7 +446,7 @@ http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="Investigation.Discovery.HD.(Pacific).us2" tvg-name="Investigation Discovery HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png" group-title="Live Channels", ID (Investigation Discovery) (West)
 
 
-#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/INSP_logo_2022.png" group-title="Live Channels", INSP
+#EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/INSP_2022.svg/960px-INSP_2022.svg.png" group-title="Live Channels", INSP
 http://fl1.moveonjoy.com/INSP/index.m3u8
 
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg" group-title="Live Channels", ION
@@ -630,7 +630,7 @@ http://23.237.104.106:8080/USA_NESN/index.m3u8
 #EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/960px-The_Nest_2023.svg.png" group-title="Live Channels", Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 
-#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png" group-title="News", Newsmax TV
+#EXTINF:-1 tvg-id="Newsmax.TV.HD.us2" tvg-name="Newsmax TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/960px-Newsmax_logo.svg.png" group-title="News", Newsmax TV
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-id="N2.Newsmax2.us2" tvg-name="N2 Newsmax2" tvg-logo="" group-title="News", Newsmax2
