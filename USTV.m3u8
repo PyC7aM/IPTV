@@ -364,7 +364,7 @@ http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
 # H
 
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Hallmark_Channel_2022_logo.svg" group-title="Live Channels", Hallmark Channel
-http://fl1.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
 #EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="Hallmark Family" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Hallmark_Family_2024.svg" group-title="Live Channels", Hallmark Family
 http://fl1.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
@@ -424,7 +424,7 @@ http://fl1.moveonjoy.com/HGTV/index.m3u8
 https://fl1.moveonjoy.com/history_channel/index.m3u8
 
 #EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/HLNLogo2023.svg" group-title="Live Channels", HLN
-http://fl1.moveonjoy.com/HLN/index.m3u8
+http://23.237.104.106:8080/USA_HLN/index.m3u8
 
 #EXTINF:-1 tvg-id="HSN.Home.Shopping.Network.HD.us2" tvg-name="HSN Home Shopping Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/HSN_logo.svg/1200px-HSN_logo.svg.png" group-title="Live Channels", HSN
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
@@ -447,7 +447,7 @@ http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="INSP.HD.us2" tvg-name="INSP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/INSP_2022.svg/960px-INSP_2022.svg.png" group-title="Live Channels", INSP
-http://fl1.moveonjoy.com/INSP/index.m3u8
+http://fl12.moveonjoy.com/INSP/index.m3u8
 
 #EXTINF:-1 tvg-id="ION.Television.HD.us2" tvg-name="ION Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Ion_logo.svg" group-title="Live Channels", ION
 http://fl1.moveonjoy.com/ION_TV/index.m3u8
@@ -477,7 +477,7 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 http://fl1.moveonjoy.com/LIFETIME/index.m3u8
 
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="LMN HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/Lifetime-Movies-White.png" group-title="Live Channels", LMN (Lifetime Movie Network)
-http://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
+http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.Real.Women.us2" tvg-name="Lifetime Real Women" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/LRW_logo_2012.png" group-title="Live Channels", Lifetime Real Women
 
