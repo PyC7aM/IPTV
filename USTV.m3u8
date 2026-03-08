@@ -385,19 +385,19 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Premium", HBO Drama
-
+http://1tv41.icu:8080/live/Y06DNq/295733/9266.rtmp
 
 #EXTINF:-1 tvg-id="HBOSignaturePacific.us" tvg-name="HBO Signature West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/HBO_Drama_Logo.svg" group-title="Premium", HBO Drama (West)
 
 
 #EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-name="HBO Family - Eastern Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Premium", HBO Family
-http://fl1.moveonjoy.com/HBO_FAMILY/index.m3u8
+
 
 #EXTINF:-1 tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-name="HBO Family - Pacific Feed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/HBO_Family_%282014%29.svg" group-title="Premium", HBO Family (West)
 
 
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/HBO_Hits_Logo.svg" group-title="Premium", HBO Hits
-http://fl1.moveonjoy.com/HBO_2/index.m3u8
+http://1tv41.icu:8080/live/Y06DNq/295733/9816.rtmp
 
 #EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-name="HBO2 HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/HBO_Hits_Logo.svg" group-title="Premium", HBO Hits (West)
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
@@ -412,7 +412,7 @@ http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="HDNet.Movies.us2" tvg-name="HDNet Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/HDNET_Movies_Logo.png" group-title="Live Channels", HDNet Movies
-
+http://1tv41.icu:8080/live/Y06DNq/295733/16265.rtmp
 
 #EXTINF:-1 tvg-id="Heroes.and.Icons.Network.SD.us2" tvg-name="Heroes and Icons Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heroes_%26_Icons_logo.svg/1200px-Heroes_%26_Icons_logo.svg.png" group-title="Live Channels", H&I (Heroes & Icons)
 
@@ -506,16 +506,16 @@ http://fl1.moveonjoy.com/ME_TV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/MGM%2B_logo.svg" group-title="Premium", MGM+
-http://fl1.moveonjoy.com/EPIX/index.m3u8
+http://1tv41.icu:8080/live/Y06DNq/295733/13214.rtmp
 
 #EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-name="MGM+ Drive-In" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/MGM%2B_Drive-In_2023.svg" group-title="Premium", MGM+ Drive-In
-http://fl1.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+http://1tv41.icu:8080/live/Y06DNq/295733/14193.rtmp
 
 #EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/MGM%2B_Hits_2023.svg" group-title="Premium", MGM+ Hits
-http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+http://1tv41.icu:8080/live/Y06DNq/295733/12744.rtmp
 
 #EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-name="MGM+ Marquee HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/MGM%2B_Marquee_2023.svg" group-title="Premium", MGM+ Marquee
-http://fl1.moveonjoy.com/EPIX_2/index.m3u8
+http://1tv41.icu:8080/live/Y06DNq/295733/12730.rtmp
 
 #EXTINF:-1 tvg-id="MGM.Presents.us2" tvg-name="MGM Presents" tvg-logo="" group-title="Premium", MGM Presents
 https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
@@ -782,7 +782,7 @@ http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Premium", Showtime Extreme
-http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+http://1tv41.icu:8080/live/Y06DNq/295733/13220.rtmp
 
 #EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Premium", Showtime Extreme (West)
 
@@ -794,7 +794,7 @@ http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Premium", Showtime Next
-http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+http://1tv41.icu:8080/live/Y06DNq/295733/9316.rtmp
 
 #EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime Next West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Premium", Showtime Next (West)
 
