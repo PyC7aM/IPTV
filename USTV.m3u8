@@ -627,6 +627,9 @@ http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HD.us2" tvg-name="New England Sports Network HD" tvg-logo="" group-title="Sports", NESN (New England Sports Network)
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 
+#EXTINF:-1 tvg-id="NESN+.New.England.Sports.Network.Plus.us2" tvg-name="NESN+ New England Sports Network Plus" tvg-logo="" group-title="Sports", NESN+ (New England Sports Network Plus)
+http://1tv41.icu:8080/live/Y06DNq/295733/161451.rtmp
+
 #EXTINF:-1 tvg-id="The.Nest.us2" tvg-name="The Nest" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_Nest_2023.svg/960px-The_Nest_2023.svg.png" group-title="Live Channels", Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 
@@ -851,10 +854,10 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/960px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge
-
+http://1tv41.icu:8080/live/Y06DNq/295733/16143.rtmp
 
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/960px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge (West)
-
+http://1tv41.icu:8080/live/Y06DNq/295733/21091.rtmp
 
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/960px-Starz_Encore_Logo_2022.svg.png" group-title="Premium", Starz Encore
 
@@ -881,7 +884,7 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/960px-Starz_in_Black_Logo_2022.svg.png" group-title="Premium", Starz in Black
-
+http://1tv41.icu:8080/live/Y06DNq/295733/17779.rtmp
 
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.(Pacific).us2" tvg-name="Starz in Black HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/960px-Starz_in_Black_Logo_2022.svg.png" group-title="Premium", Starz in Black (West)
 
@@ -893,7 +896,7 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" group-title="Live Channels", SundanceTV
-
+http://1tv41.icu:8080/live/Y06DNq/295733/46712.rtmp
 
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels", SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
@@ -936,7 +939,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 #EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-name="TLC HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels", TLC (The Learning Channel) (West)
 
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels", TNT
-
+http://1tv41.icu:8080/live/Y06DNq/295733/10455.rtmp
 
 #EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="Tr3s: MTV, Musica y Mas" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels", Tr3s: MTV
 
@@ -957,28 +960,28 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports", TSN 1
-
+http://1tv41.icu:8080/live/Y06DNq/295733/47440.rtmp
 
 #EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TSN2.svg" group-title="Sports", TSN 2
-
+http://1tv41.icu:8080/live/Y06DNq/295733/47442.rtmp
 
 #EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg" group-title="Sports", TSN 3
-
+http://1tv41.icu:8080/live/Y06DNq/295733/47444.rtmp
 
 #EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg" group-title="Sports", TSN 4
-
+http://1tv41.icu:8080/live/Y06DNq/295733/47446.rtmp
 
 #EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg" group-title="Sports", TSN 5
-
+http://1tv41.icu:8080/live/Y06DNq/295733/57295.rtmp
 
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land
-
+http://1tv41.icu:8080/live/Y06DNq/295733/46696.rtmp
 
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV Land HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land (West)
 
 
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV-One-logo-2016.png/640px-TV-One-logo-2016.png" group-title="Live Channels", TV ONE
-
+http://1tv41.icu:8080/live/Y06DNq/295733/20868.rtmp
 
 # U
 
