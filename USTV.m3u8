@@ -674,6 +674,10 @@ http://212.102.60.231/NICKTOONS/index.m3u8
 
 # O
 
+#EXTINF:-1 tvg-id="One.America.News.Network.HD.us2" tvg-name="One America News Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/960px-One_America_News_Network_logo.svg.png" group-title="News", OANN (One America News Network
+)
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="olympicchannel.us" tvg-name="Olympic Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="Live Channels", Olympic Channel
 
 
