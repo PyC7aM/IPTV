@@ -506,13 +506,13 @@ http://fl1.moveonjoy.com/ME_TV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MGM+.HD.us2" tvg-name="MGM+ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/MGM%2B_logo.svg" group-title="Premium", MGM+
-http://1tv41.icu:8080/live/Y06DNq/295733/13214.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/23325.rtmp
 
 #EXTINF:-1 tvg-id="MGM+.Drive-In.us2" tvg-name="MGM+ Drive-In" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/MGM%2B_Drive-In_2023.svg" group-title="Premium", MGM+ Drive-In
 http://1tv41.icu:8080/live/Y06DNq/295733/14193.rtmp
 
 #EXTINF:-1 tvg-id="MGM+.Hits.HD.us2" tvg-name="MGM+ Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/MGM%2B_Hits_2023.svg" group-title="Premium", MGM+ Hits
-http://1tv41.icu:8080/live/Y06DNq/295733/12744.rtmp
+http://kstv.us:8080/live/4VUyfZBQzk/95104974615/23326.rtmp
 
 #EXTINF:-1 tvg-id="MGM+.Marquee.HD.us2" tvg-name="MGM+ Marquee HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/MGM%2B_Marquee_2023.svg" group-title="Premium", MGM+ Marquee
 http://1tv41.icu:8080/live/Y06DNq/295733/12730.rtmp
