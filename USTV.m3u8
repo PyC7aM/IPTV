@@ -140,7 +140,8 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-name="Cinemax Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Cinemax_Hits_Logo.png" group-title="Premium", Cinemax Hits
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Circle.Country.us2" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/220px-Circle_Network_logo.svg.png" group-title="Live Channels", Circle Country
+#EXTINF:-1 tvg-id="Circle.Country.us2" tvg-name="Circle Country" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Circle_Country_logo.webp/960px-Circle_Country_logo.webp.png" group-title="Live Channels", Circle Country
+https://circle-samsung.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Cleo.TV.HD.us2" tvg-name="Cleo TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/CLEO_TV.png" group-title="Live Channels", Cleo TV
@@ -472,6 +473,9 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 #EXTINF:-1 tvg-id="Laff.us2" tvg-name="Laff" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/LAFF_logo.png" group-title="Live Channels", Laff
 
+
+#EXTINF:-1 tvg-id="Law.and.Crime.us2" tvg-name="Law and Crime" tvg-logo="" group-title="Live Channels", Law and Crime
+https://lawandcrime-tcl.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-name="Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Live Channels", Lifetime
 http://fl1.moveonjoy.com/LIFETIME/index.m3u8
