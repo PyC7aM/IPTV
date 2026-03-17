@@ -345,7 +345,7 @@ http://fl1.moveonjoy.com/FYI/index.m3u8
 # G
 
 #EXTINF:-1 tvg-id="Game.Show.Network.HD.us2" tvg-name="Game Show Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="Live Channels", Game Show Network
-https://a-cdn.klowdtv.com/live2/gsn_1080p/playlist.m3u8
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="get.us2" tvg-name="get" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Get_TV_2023.png" group-title="Live Channels", get
 http://fl1.moveonjoy.com/GET_TV/index.m3u8
