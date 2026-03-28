@@ -246,19 +246,19 @@ https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-name="Destination America HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Destination_America_logo.svg" group-title="Live Channels", Destination America
-http://fl1.moveonjoy.com/Destination_America/index.m3u8
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-name="Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" group-title="Live Channels", Discovery Channel
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-name="Discovery Family Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Discovery_Family_Logo_%282014%29.svg" group-title="Live Channels", Discovery Family
-http://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-name="Discovery Life Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Discovery_Life_logo_2016.svg" group-title="Live Channels", Discovery Life
-http://fl1.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Kids", Disney Channel
-http://fl12.moveonjoy.com/DISNEY/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-name="Disney Junior HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids", Disney Junior
 http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
@@ -278,10 +278,10 @@ http://23.237.104.106:8080/USA_E/index.m3u8
 http://41.205.93.154/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-name="ESPN2 HD" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="Sports", ESPN 2
-http://fl1.moveonjoy.com/ESPN_2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-name="ESPNEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" group-title="Sports", ESPNEWS
-http://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-name="ESPNU HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1200px-ESPN_U_logo.svg.png" group-title="Sports", ESPNU
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
@@ -292,7 +292,7 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
 
 #EXTINF:-1 tvg-id="FanDuel.TV.us2" tvg-name="FanDuel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/FanDuel_TV_logo.svg" group-title="Sports", FanDuel TV
-https://fl1.moveonjoy.com/TVG/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-name="Food Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/960px-Food_Network_logo.svg.png" group-title="Live Channels", Food Network
 http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
@@ -304,16 +304,16 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-name="Fox News Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News", Fox News Channel
-https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
 
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-name="Fox Soccer Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/960px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports", Fox Soccer Plus
 
 
 #EXTINF:-1 tvg-id="Fox.Soul.us2" tvg-name="Fox Soul" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1b/Fox-Soul-logo-network.png" group-title="Live Channels", Fox Soul
-http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1 Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/960px-2015_Fox_Sports_1_logo.svg.png" group-title="Sports", Fox Sports 1
-http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2 Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/960px-FS2_logo_2015.svg.png" group-title="Sports", Fox Sports 2
 
@@ -325,7 +325,7 @@ https://247wlive.foxweather.com/stream/index.m3u8
 https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-name="Freeform HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Freeform_2022_%282%29.svg/960px-Freeform_2022_%282%29.svg.png" group-title="Live Channels", Freeform
-http://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Fuse.HD.us2" tvg-name="Fuse HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="Live Channels", Fuse
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
@@ -334,13 +334,13 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-name="FX Movie Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/FX_Movies_logo.svg" group-title="Live Channels", FXM
-http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
+
 
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-name="FXX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="Live Channels", FXX
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
 #EXTINF:-1 tvg-id="FYI.Channel.HD.us2" tvg-name="FYI Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="Live Channels", FYI
-http://fl1.moveonjoy.com/FYI/index.m3u8
+
 
 # G
 
@@ -348,7 +348,7 @@ http://fl1.moveonjoy.com/FYI/index.m3u8
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="get.us2" tvg-name="get" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Get_TV_2023.png" group-title="Live Channels", get
-http://fl1.moveonjoy.com/GET_TV/index.m3u8
+
 
 #EXTINF:-1 tvg-id="GOL.TV.us2" tvg-name="GOL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/GolTV_logo.svg" group-title="Sports", GOL TV
 
@@ -357,10 +357,10 @@ http://fl1.moveonjoy.com/GET_TV/index.m3u8
 http://23.237.104.106:8080/USA_GOLF/index.m3u8
 
 #EXTINF:-1 tvg-id="Great.American.Family.HD.us2" tvg-name="Great American Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Great_American_Family_logo.svg" group-title="Live Channels", Great American Family
-https://fl1.moveonjoy.com/Great_American_Country/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Grit.us2" tvg-name="Grit" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/GRIT_TV_Logo.svg" group-title="Live Channels", Grit
-http://fl1.moveonjoy.com/GRIT_TV/index.m3u8
+
 
 # H
 
