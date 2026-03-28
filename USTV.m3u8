@@ -237,10 +237,10 @@ https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="Chill AF" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - Chill AF Downtempo
-https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
+https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-name="Melodic Tech" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - Melodic Tech
-https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
+https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
 
 #EXTINF:-1 tvg-id="DW.HD.ca2" tvg-name="DW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Deutsche_Welle_Logo.svg" group-title="News", DW (Deutsche Welle Europe)
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
