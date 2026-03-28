@@ -120,7 +120,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/960px-CBS_Sports_Network_2021.svg.png" group-title="Sports", CBS Sports Network
-http://23.237.104.106:8080/USA_CBS_SPORTS/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CHARGE!.us2" tvg-name="CHARGE!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/960px-Charge%21_Logo_2020.svg.png" group-title="Live Channels", Charge
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
@@ -215,31 +215,31 @@ https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
 
 # D
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Best of" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - Best of
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Best of" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="Music", Dance TV - Best of
 https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Deep House District" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - Deep House District
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Deep House District" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" group-title="Music", Dance TV - Deep House District
 https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Techno Warehouse" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - Techno Warehouse
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Techno Warehouse" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png" group-title="Music", Dance TV - Techno Warehouse
 https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Tech House Terrace" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - Tech House Terrace
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Tech House Terrace" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/th-logo-NspqmEDEOC62mNyeOHpMvusQt8prpj.png" group-title="Music", Dance TV - Tech House Terrace
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="House Floor" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - House Floor
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="House Floor" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png" group-title="Music", Dance TV - House Floor
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="MNML" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - MiNiMaL
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="MNML" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/WhatsApp%20Image%202024-10-02%20at%2003.26.40-wBY3tcf4ACTGW9V9Y9HMGenqYJlLQZ.jpeg" group-title="Music", Dance TV - MiNiMaL
 https://mbit1.worldcast.tv/dancetelevisionsix/multibit.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Mainstage" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - Mainstream EDM
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Mainstage" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/mainstage-logo-4vQjTuvQ3qTEzPDIILUAu2MOiYdXnA.png" group-title="Music", Dance TV - Mainstream EDM
 https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Chill AF" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - Chill AF Downtempo
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Chill AF" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/caf-logo-Tu9IdzvKf3xoe8MzK0JiUYgwKCcqGw.png" group-title="Music", Dance TV - Chill AF Downtempo
 https://mbit1.worldcast.tv:9443/dancetelevisioneight/multibit.m3u8
 
-#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Melodic Tech" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/DanceTelevisionBlackLogo2018_PNG.png" group-title="Music", Dance TV - Melodic Tech
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="Melodic Tech" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/melodictech-logo-4qEP8ja1IadeN5Hr5F7a5o1wVB3txU.jpg" group-title="Music", Dance TV - Melodic Tech
 https://mbit1.worldcast.tv:9443/dancetelevisionnine/multibit.m3u8
 
 #EXTINF:-1 tvg-id="DW.HD.ca2" tvg-name="DW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Deutsche_Welle_Logo.svg" group-title="News", DW (Deutsche Welle Europe)
