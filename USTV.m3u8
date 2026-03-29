@@ -837,7 +837,7 @@ http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 https://fl1.moveonjoy.com/SNY/index.m3u8
 
 #EXTINF:-1 tvg-id="Stadium.College.Sports.-.Central.us" tvg-name="Stadium College Sports - Central" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Stadium_new_logo.png" group-title="Sports", Stadium
-http://fl1.moveonjoy.com/STADIUM/index.m3u8
+http://212.102.60.231/STADIUM/index.m3u8
 
 #EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Start_TV_logo.svg" group-title="Live Channels", Start TV Network
 https://fl1.moveonjoy.com/Start_Tv/index.m3u8
@@ -867,13 +867,14 @@ http://1tv41.icu:8080/live/Y06DNq/295733/16143.rtmp
 http://1tv41.icu:8080/live/Y06DNq/295733/21091.rtmp
 
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/960px-Starz_Encore_Logo_2022.svg.png" group-title="Premium", Starz Encore
+http://212.102.60.231/STARZ_ENCORE/index.m3u8http://212.102.60.231/STARZ_ENCORE/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-name="Starz Encore (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/960px-Starz_Encore_Logo_2022.svg.png" group-title="Premium", Starz Encore (West)
 
 
 #EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="Starz Encore Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Starz_Encore_Action_Logo_2022.svg/960px-Starz_Encore_Action_Logo_2022.svg.png" group-title="Premium", Starz Encore Action
-
+http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="Starz Encore Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Starz_Encore_Black_Logo_2022.svg/960px-Starz_Encore_Black_Logo_2022.svg.png" group-title="Premium", Starz Encore Black
 
@@ -917,7 +918,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-name="TBS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Live Channels", TBS
-https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+http://212.102.60.231/TBS/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Live Channels", TBS (West)
 
