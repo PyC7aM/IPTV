@@ -920,9 +920,9 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 http://212.102.60.231/TBS/index.m3u8
 
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-name="TBS HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/TBS_2020.svg/960px-TBS_2020.svg.png" group-title="Live Channels", TBS (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
-
-#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TCM_2021.svg" group-title="Live Channels", TCM (Turner Classic Movies)
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.HD.us2" tvg-name="Turner Classic Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/960px-TCM_2021.svg.png" group-title="Live Channels", TCM (Turner Classic Movies)
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1 tvg-id="Teen.Nick.us2" tvg-name="Teen Nick" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/TeenNick_2023_splat.png/revision/latest/scale-to-width-down/1000?cb=20231121172422" group-title="Kids", Teen Nick
@@ -945,10 +945,10 @@ https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5
 
 #EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-name="TLC HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Live Channels", TLC (The Learning Channel) (West)
 
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels", TNT
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-name="TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/960px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels", TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels", TNT West
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-name="TNT HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/960px-TNT_%28TV_Channel%29.svg.png" group-title="Live Channels", TNT (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="Tr3s:.MTV,.Musica.y.Mas.us2" tvg-name="Tr3s: MTV, Musica y Mas" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/tr3s-White.png.webp" group-title="Live Channels", Tr3s: MTV
@@ -966,8 +966,11 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="The Travel Channel HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Live Channels", Travel Channel (West)
 
 
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV HD" tvg-logo="https://www.effectv.com/wp-content/uploads/2021/10/truTV-White-Small.png.webp" group-title="Live Channels", truTV
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-name="truTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png" group-title="Live Channels", truTV
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-name="truTV HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png" group-title="Live Channels", TNT (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports", TSN 1
 http://1tv41.icu:8080/live/Y06DNq/295733/47440.rtmp
