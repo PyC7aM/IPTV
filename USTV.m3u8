@@ -768,28 +768,28 @@ https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
 # S
 
 #EXTINF:-1 tvg-id="Science.Channel.HD.us2" tvg-name="Science Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png" group-title="Live Channels", Science Channel
-http://fl1.moveonjoy.com/Discovery_Science/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Scripps.News.us2" tvg-name="Scripps News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Scripps_News_logo.svg" group-title="News", Scripps News
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 
-#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="Sports", SEC Network
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/960px-SEC_Network_%282024%29.svg.png" group-title="Sports", SEC Network
 http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="Paramount+ with Showtime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime
 http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="Paramount+ with Showtime HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Paramount%2B_with_Showtime_logo.svg" group-title="Premium", Showtime (West)
-http://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-name="Showtime 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Premium", Showtime 2
-http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="Showtime 2 West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg" group-title="Premium", Showtime 2 (West)
 
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-name="Showtime Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Premium", Showtime Extreme
-http://1tv41.icu:8080/live/Y06DNq/295733/13220.rtmp
+
 
 #EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="Showtime Extreme West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Showtime_Extreme.svg" group-title="Premium", Showtime Extreme (West)
 
@@ -801,7 +801,7 @@ http://1tv41.icu:8080/live/Y06DNq/295733/13220.rtmp
 
 
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Premium", Showtime Next
-http://1tv41.icu:8080/live/Y06DNq/295733/9316.rtmp
+
 
 #EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="Showtime Next West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Showtime_Next.svg" group-title="Premium", Showtime Next (West)
 
@@ -813,7 +813,7 @@ http://1tv41.icu:8080/live/Y06DNq/295733/9316.rtmp
 
 
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Showtime_Women.svg" group-title="Premium", Showtime Women
-http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="Showtime Women West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Showtime_Women.svg" group-title="Premium", Showtime Women (West)
 
@@ -828,19 +828,19 @@ http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Smithsonian.HD.Network.us2" tvg-name="Smithsonian HD Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Smithsonian_Channel_current_logo.png" group-title="Live Channels", Smithsonian
-http://fl1.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-name="Sony Movie Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Live Channels", Sony Movie Channel
 
 
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-name="SNY SportsNet New York HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/SNY_logo.svg" group-title="Sports", SNY SportsNet New York
-https://fl1.moveonjoy.com/SNY/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Stadium.College.Sports.-.Central.us" tvg-name="Stadium College Sports - Central" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Stadium_new_logo.png" group-title="Sports", Stadium
 http://212.102.60.231/STADIUM/index.m3u8
 
 #EXTINF:-1 tvg-id="Start.TV.Network.us2" tvg-name="Start TV Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Start_TV_logo.svg" group-title="Live Channels", Start TV Network
-https://fl1.moveonjoy.com/Start_Tv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-name="Starz HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/960px-Starz_2022.svg.png" group-title="Premium", Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
@@ -861,10 +861,10 @@ http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/960px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge
-http://1tv41.icu:8080/live/Y06DNq/295733/16143.rtmp
+
 
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/960px-Starz_Edge_Logo_2022.svg.png" group-title="Premium", Starz Edge (West)
-http://1tv41.icu:8080/live/Y06DNq/295733/21091.rtmp
+
 
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-name="Starz Encore HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Starz_Encore_Logo_2022.svg/960px-Starz_Encore_Logo_2022.svg.png" group-title="Premium", Starz Encore
 http://212.102.60.231/STARZ_ENCORE/index.m3u8
@@ -891,7 +891,7 @@ http://212.102.60.231/STARZ_ENCORE_ACTION/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz In Black HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/960px-Starz_in_Black_Logo_2022.svg.png" group-title="Premium", Starz in Black
-http://1tv41.icu:8080/live/Y06DNq/295733/17779.rtmp
+
 
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.(Pacific).us2" tvg-name="Starz in Black HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/960px-Starz_in_Black_Logo_2022.svg.png" group-title="Premium", Starz in Black (West)
 
@@ -902,8 +902,8 @@ http://1tv41.icu:8080/live/Y06DNq/295733/17779.rtmp
 #EXTINF:-1 tvg-id="Starz.Kids.HD.(Pacific).us2" tvg-name="Starz Kids HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Starz_Kids_%26_Family_Logo_2022.svg/960px-Starz_Kids_%26_Family_Logo_2022.svg.png" group-title="Premium", Starz Kids & Family (West)
 
 
-#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1200px-SundanceTV_2014.svg.png" group-title="Live Channels", SundanceTV
-http://1tv41.icu:8080/live/Y06DNq/295733/46712.rtmp
+#EXTINF:-1 tvg-id="SundanceTV.HD.us2" tvg-name="SundanceTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sundance_TV_Logo.png/960px-Sundance_TV_Logo.png" group-title="Live Channels", SundanceTV
+
 
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-name="Syfy HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Syfy_2017_vertical_logo_2.svg/revision/latest?cb=20210104112713" group-title="Live Channels", SYFY
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
@@ -973,28 +973,28 @@ http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/TSN1_2014.svg" group-title="Sports", TSN 1
-http://1tv41.icu:8080/live/Y06DNq/295733/47440.rtmp
+
 
 #EXTINF:-1 tvg-id="TSN.2.HD.ca2" tvg-name="TSN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/TSN2.svg" group-title="Sports", TSN 2
-http://1tv41.icu:8080/live/Y06DNq/295733/47442.rtmp
+
 
 #EXTINF:-1 tvg-id="TSN.3.HD.ca2" tvg-name="TSN 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/TSN3_2014.svg" group-title="Sports", TSN 3
-http://1tv41.icu:8080/live/Y06DNq/295733/47444.rtmp
+
 
 #EXTINF:-1 tvg-id="TSN.4.HD.ca2" tvg-name="TSN 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TSN4_2014.svg" group-title="Sports", TSN 4
-http://1tv41.icu:8080/live/Y06DNq/295733/47446.rtmp
+
 
 #EXTINF:-1 tvg-id="TSN.5.HD.ca2" tvg-name="TSN 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/TSN5_2014.svg" group-title="Sports", TSN 5
-http://1tv41.icu:8080/live/Y06DNq/295733/57295.rtmp
+
 
 #EXTINF:-1 tvg-id="TV.Land.HD.us2" tvg-name="TV Land HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land
-http://1tv41.icu:8080/live/Y06DNq/295733/46696.rtmp
+
 
 #EXTINF:-1 tvg-id="TV.Land.HD.(Pacific).us2" tvg-name="TV Land HD (Pacific)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/TV_Land_2015_logo.svg" group-title="Live Channels", TV Land (West)
 
 
 #EXTINF:-1 tvg-id="TV.ONE.HD.us2" tvg-name="TV ONE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TV-One-logo-2016.png" group-title="Live Channels", TV ONE
-http://1tv41.icu:8080/live/Y06DNq/295733/20868.rtmp
+
 
 # U
 
@@ -1015,7 +1015,7 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 # W
 
 #EXTINF:-1 tvg-id="W.Network.HD.ca2" tvg-name="W Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/960px-W_Network_Logo.svg.png" group-title="Live Channels", W Network
-http://1tv41.icu:8080/live/Y06DNq/295733/57284.rtmp
+
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-name="The Weather Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/960px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Weather", Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
