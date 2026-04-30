@@ -11,8 +11,8 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
-
+#EXTINF:-1 tvg-id="2na2-pl2" group-title="Entertainment", 2x2 (+2)
+http://176.118.197.101/2x2/index.m3u8
 
 #EXTINF:-1 tvg-id="360-news" group-title="News", 360° Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
@@ -639,7 +639,7 @@ https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 
 
 #EXTINF:-1 tvg-id="viasat-explore" group-title="", Viju Explore
-
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
 
 #EXTINF:-1 tvg-id="viasat-history" group-title="", Viju History
 
@@ -651,7 +651,7 @@ https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", Viju TV1000 Action
-
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", Viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
@@ -675,7 +675,7 @@ http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
-
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 
 # W
 
@@ -779,7 +779,7 @@ https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 # Е
 
 #EXTINF:-1 tvg-id="evrokino" group-title="Movies", Еврокино
-
+http://176.118.197.101/Evrokino/index.m3u8
 
 #EXTINF:-1 tvg-id="eda-hd" group-title="", Еда Премиум
 
@@ -823,7 +823,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Movies", Иллюзион +
-
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
 http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
@@ -872,7 +872,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
-
+http://176.118.197.101/Komediya/index.m3u8
 
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
