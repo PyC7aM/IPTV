@@ -872,7 +872,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
-http://176.118.197.101/Komediya/index.m3u8
+
 
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
@@ -905,7 +905,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinohit
 
 
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="", Комедия
-
+http://176.118.197.101/Komediya/index.m3u8
 
 #EXTINF:-1 tvg-id="konny-mir" group-title="Sport", Конный мир
 https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
@@ -978,7 +978,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="mir-seriala" group-title="Movies", Мир сериала
-http://31.148.48.15:80/Mir_Seriala/index.m3u8
+
 
 #EXTINF:-1 tvg-id="mosfilm" group-title="Movies", Мосфильм. Золотая коллекция
 http://178.134.1.158:8081/mosfilm/index.m3u8
@@ -1149,7 +1149,7 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 https://vod.tuva.ru/friday/index.m3u8
 
 #EXTINF:-1 tvg-id="piatnica-int" group-title="Entertainment", Пятница International
-
+http://158.101.222.193:88/georgia_play.php?id=friday
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Movies", Пятый канал
 
@@ -1190,10 +1190,10 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Movies", Русский бестселлер
-http://31.148.48.15/Russkiy_Bestseller/index.m3u8
+
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="Movies", Русский детектив
-http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="", Русский экстрим
 
@@ -1202,7 +1202,7 @@ http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="Movies", Русский роман
-http://31.148.48.15/Russkiy_Roman/index.m3u8
+http://vod.tuva.ru/rusroman/index.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 
@@ -1213,13 +1213,13 @@ http://31.148.48.15/Russkiy_Roman/index.m3u8
 # С
 
 #EXTINF:-1 tvg-id="sts" group-title="Entertainment", СТС
-
+http://176.118.197.101/CTC/index.m3u8
 
 #EXTINF:-1 tvg-id="sts-pl4" group-title="Entertainment", СТС (+4)
 https://streaming.thestream.cyou/live/296.m3u8
 
 #EXTINF:-1 tvg-id="sts-int" group-title="Entertainment", СТС International
-https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+http://158.101.222.193:88/georgia_play.php?id=ctctv
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
 
@@ -1333,7 +1333,7 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 # Ч
 
 #EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
-
+http://176.118.197.101/Che/index.m3u8
 
 # Ш
 
