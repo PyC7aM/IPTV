@@ -3,13 +3,19 @@
 # Nos
 
 #EXTINF:-1 tvg-id="10kanal-novokuzneck" group-title="Regional", 10 канал Новокузнецк
-
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=eqlTXebDP9wSWTZgre6BwQ&e=2072611029&scheme=https
 
 #EXTINF:-1 tvg-id="12-omsk" group-title="Regional", 12 канал Омск
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Music", 15+ MUSIC
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+
 #EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD
 http://hz1.teleport.cc/HLS/HD.m3u8
+
+#EXTINF:-1 tvg-id="2na2" group-title="Entertainment", 2x2
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=tenr-yHXUv1wibfka78s2A&e=2068731801&scheme=https
 
 #EXTINF:-1 tvg-id="2na2-pl2" group-title="Entertainment", 2x2 (+2)
 http://176.118.197.101/2x2/index.m3u8
@@ -1152,7 +1158,7 @@ https://vod.tuva.ru/friday/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=friday
 
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Movies", Пятый канал
-
+https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 
 # Р
 
@@ -1356,7 +1362,7 @@ http://176.118.197.101/Che/index.m3u8
 # Ю
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
-https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
 
 #EXTINF:-1 tvg-id="yurgan" group-title="Regional", Юрган
 
