@@ -8,7 +8,7 @@ https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=eq
 #EXTINF:-1 tvg-id="12-omsk" group-title="Regional", 12 канал Омск
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Music", 15+ MUSIC
+#EXTINF:-1 tvg-id="no_epg_music" tvg-name="15+ MUSIC" tvg-logo="https://sun9-43.userapi.com/s/v1/ig2/dHWcgXEWWSv8bP_vrkeoK3uEk9Ix1uaF27ybJ4k89oFuK2xKurxIGPtAMFm1kQnv3CbQTN64-ZlNTt83AIpBxSLI.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,1920x1920&from=bu&cs=1920x0" group-title="Music", 15+ MUSIC
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 
 #EXTINF:-1 tvg-id="1hd" group-title="Music", 1HD
@@ -914,7 +914,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinohit
 http://176.118.197.101/Komediya/index.m3u8
 
 #EXTINF:-1 tvg-id="konny-mir" group-title="Sport", Конный мир
-https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="", Кухня ТВ
 
