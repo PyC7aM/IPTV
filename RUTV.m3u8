@@ -1034,7 +1034,7 @@ https://cdn.ntv.ru/th_style/playlist.m3u8
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ntm" group-title="Regional", НТМ
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nano-tv" group-title="", Нано
 http://s1.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
