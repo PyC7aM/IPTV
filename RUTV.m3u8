@@ -2,6 +2,15 @@
 
 # Nos
 
+#EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", .black
+http://158.101.222.193:88/georgia_play.php?id=black
+
+#EXTINF:-1 tvg-id="sony-tv" group-title="", .red
+http://158.101.222.193:88/georgia_play.php?id=red
+
+#EXTINF:-1 tvg-id="sony-scifi" group-title="", .sci-fi
+http://158.101.222.193:88/georgia_play.php?id=scifi
+
 #EXTINF:-1 tvg-id="10kanal-novokuzneck" group-title="Regional", 10 канал Новокузнецк
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=eqlTXebDP9wSWTZgre6BwQ&e=2072611029&scheme=https
 
@@ -420,7 +429,7 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 # N
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
-http://185.164.82.18:9010/ykMHqK_NatGeoWild
+
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
 
@@ -498,23 +507,14 @@ https://s70378.cdn.ngenix.net/rtvi/index.m3u8
 #EXTINF:-1 tvg-id="song-tv-tu" group-title="Music", Song TV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sony-scifi" group-title="", Sony Sci-Fi
-http://158.101.222.193:88/georgia_play.php?id=scifi
-
-#EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", Sony Turbo
-http://158.101.222.193:88/georgia_play.php?id=black
-
-#EXTINF:-1 tvg-id="sony-tv" group-title="", Sony ТВ HD
-http://158.101.222.193:88/georgia_play.php?id=red
-
 #EXTINF:-1 tvg-id="star-family-ua" group-title="", Star Family Украина
 
 
 #EXTINF:-1 tvg-id="start-air" group-title="Movies", Start Air
-https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+
 
 #EXTINF:-1 tvg-id="start-world" group-title="Movies", Start World
-https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Stingray Alternative HD
 
@@ -572,7 +572,7 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", TNT
 
 #EXTINF:-1 tvg-id="terra-ru" group-title="", Terra
-https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+
 
 #EXTINF:-1 tvg-id="tiji" group-title="Kids", TiJi
 
@@ -651,7 +651,7 @@ http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", Viju+ Comedy
-http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", Viju+ Megahit
 
@@ -669,7 +669,7 @@ http://89.232.68.194:8080/ComedyHD/tracks-v1a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+
 
 # W
 
@@ -716,7 +716,7 @@ http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="", В мире животных HD
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ВИДЕО КАССЕТА
-https://live20.bozztv.com/akamaissh101/ssh101/livevhs90e/playlist.m3u8
+
 
 # Г
 
@@ -797,7 +797,7 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 # З
 
 #EXTINF:-1 tvg-id="zagorodny-int" group-title="", Загородный International
-https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+
 
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" group-title="", Загородная жизнь
 
@@ -924,7 +924,7 @@ http://176.118.197.101/Komediya/index.m3u8
 
 
 #EXTINF:-1 tvg-id="m2-ua" group-title="Music", М2
-http://live.m2.tv/hls3/720/stream.m3u8
+
 
 #EXTINF:-1 tvg-id="mama" group-title="Kids", Мама
 
@@ -990,7 +990,7 @@ http://195.26.83.96:7007/play/11/index.m3u8
 
 
 #EXTINF:-1 tvg-id="muztv" group-title="Music", Муз-ТВ
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+
 
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Music", Музыка Первого
 
@@ -1104,7 +1104,7 @@ http://rtmp.one.by:2200
 
 
 #EXTINF:-1 tvg-id="pervy" group-title="General", Первый канал
-https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+
 
 #EXTINF:-1 tvg-id="eureka-hd" group-title="", Первый космический
 
@@ -1160,7 +1160,7 @@ https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 
 
 #EXTINF:-1 tvg-id="rentv-int" group-title="General", Рен ТВ International
-https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="Movies", Ретро ТВ
 
@@ -1228,7 +1228,7 @@ http://158.101.222.193:88/georgia_play.php?id=ctctv
 
 
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Kids", Смайлик ТВ
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="solnce" group-title="Kids", Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
@@ -1263,7 +1263,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
-https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
+
 
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="Entertainment", ТНТ-International
 https://streaming.thestream.cyou/live/38.m3u8
@@ -1275,7 +1275,7 @@ https://streaming.thestream.cyou/live/38.m3u8
 
 
 #EXTINF:-1 tvg-id="tnt4-international" group-title="Entertainment", ТНТ4 International
-https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+
 
 #EXTINF:-1 tvg-id="tayna" group-title="", Тайна
 
