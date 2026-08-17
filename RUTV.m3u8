@@ -39,7 +39,7 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 http://stream.mcquack.net/70/index.m3u8
 
 #EXTINF:-1 tvg-id="9kanal-israel" group-title="", 9 канал Израиль
-
+https://contact.gostreaming.tv/Con-11/index.m3u8
 
 # A
 
@@ -112,19 +112,19 @@ http://158.101.222.193:88/georgia_play.php?id=amediapremium
 
 
 #EXTINF:-1 tvg-id="bolt" group-title="", Bolt
-
+http://hls127.freeott.top:8080/Bolt/video.m3u8
 
 #EXTINF:-1 tvg-id="bravo" group-title="Entertainment", Bravo
 
 
 #EXTINF:-1 tvg-id="bridge-tv" group-title="Music", Bridge TV
-
+http://stream.mcquack.net/318/index.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-classic" group-title="Music", Bridge TV Classic
-
+http://stream.mcquack.net/272/index.m3u8
 
 #EXTINF:-1 tvg-id="bridge-hd" group-title="Music", Bridge TV Deluxe
-
+http://stream.mcquack.net/92/index.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-dance" group-title="Music", Bridge TV Hits
 
@@ -133,7 +133,7 @@ http://158.101.222.193:88/georgia_play.php?id=amediapremium
 
 
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" group-title="Music", Bridge TV Русский хит
-
+http://stream.mcquack.net/320/index.m3u8
 
 #EXTINF:-1 tvg-id="bridge-tv-shlager" group-title="Music", Bridge TV Шлягер
 
@@ -741,13 +741,13 @@ https://v2.catcast.tv/content/38720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Sport", Дикая охота HD
-
+http://stream.mcquack.net/274/index.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-rybalka-hd" group-title="Sport", Дикая рыбалка HD
-
+http://stream.mcquack.net/275/index.m3u8
 
 #EXTINF:-1 tvg-id="dikiy" group-title="", Дикий
-
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
 
 #EXTINF:-1 tvg-id="dozhd" group-title="News", Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
@@ -759,7 +759,7 @@ https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино премиум HD
-
+http://stream.mcquack.net/108/index.m3u8
 
 #EXTINF:-1 tvg-id="domashnie-zhivotnye" group-title="", Домашние животные
 
