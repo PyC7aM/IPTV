@@ -3,13 +3,13 @@
 # Nos
 
 #EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", .black
-http://158.101.222.193:88/georgia_play.php?id=black
+http://stream.mcquack.net/263/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="", .red
-http://158.101.222.193:88/georgia_play.php?id=red
+http://5.188.159.128:8070/RED/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", .sci-fi
-http://158.101.222.193:88/georgia_play.php?id=scifi
+http://stream.mcquack.net/180/index.m3u8
 
 #EXTINF:-1 tvg-id="10kanal-novokuzneck" group-title="Regional", 10 канал Новокузнецк
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=eqlTXebDP9wSWTZgre6BwQ&e=2072611029&scheme=https
@@ -56,7 +56,7 @@ http://158.101.222.193:88/georgia_play.php?id=amedia2
 
 
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
+http://stream.mcquack.net/162/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", Amedia Premium
 http://158.101.222.193:88/georgia_play.php?id=amediapremium
