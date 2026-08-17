@@ -702,6 +702,9 @@ http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 
 # Б
 
+#EXTINF:-1 tvg-id="blokbaster-hd" group-title="Movies", Блокбастер
+http://stream.mcquack.net/364/index.m3u8
+
 #EXTINF:-1 tvg-id="bobior" group-title="", Бобёр
 
 
