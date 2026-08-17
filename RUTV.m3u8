@@ -633,40 +633,40 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="viasat-explore" group-title="", Viju Explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
+http://stream.mcquack.net/239/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-history" group-title="", Viju History
-
+http://178.124.179.122:8080/HistoryHD/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-nature" group-title="Nature", Viju Nature
-
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Movies", Viju TV1000
-
+http://stream.mcquack.net/110/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", Viju TV1000 Action
-http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+http://stream.mcquack.net/100/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", Viju TV1000 Русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", Viju+ Comedy
-
+http://stream.mcquack.net/201/index.m3u8
 
 #EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", Viju+ Megahit
-
+http://stream.mcquack.net/200/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Nature", Viju+ Planet
-
+http://stream.mcquack.net/240/index.m3u8
 
 #EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", Viju+ Premiere
-
+http://stream.mcquack.net/202/index.m3u8
 
 #EXTINF:-1 tvg-id="vip-serial" group-title="Movies", Viju+ Serial
-
+http://stream.mcquack.net/311/index.m3u8
 
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viju+ Sport
-
+http://stream.mcquack.net/333/index.m3u8
 
 #EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
 
@@ -714,9 +714,10 @@ http://stream.mcquack.net/364/index.m3u8
 # В
 
 #EXTINF:-1 tvg-id="v-gostiax-u-skazki" group-title="Kids", В гостях у сказки
-
+http://stream.mcquack.net/93/index.m3u8
 
 #EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" group-title="", В мире животных HD
+http://stream.mcquack.net/241/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ВИДЕО КАССЕТА
 
@@ -935,13 +936,13 @@ http://176.118.197.101/Komediya/index.m3u8
 
 
 #EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/169/index.m3u8
 
 #EXTINF:-1 tvg-id="match-arena" group-title="Sport", Матч! Арена
 
 
 #EXTINF:-1 tvg-id="match-boets" group-title="Sport", Матч! Боец
-
+http://stream.mcquack.net/112/index.m3u8
 
 #EXTINF:-1 tvg-id="match-igra" group-title="Sport", Матч! Игра
 
