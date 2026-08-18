@@ -6,7 +6,7 @@
 http://stream.mcquack.net/263/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="", .red
-http://5.188.159.128:8070/RED/index.m3u8
+http://stream.mcquack.net/69/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="", .sci-fi
 http://stream.mcquack.net/180/index.m3u8
@@ -66,15 +66,6 @@ http://stream.mcquack.net/306/index.m3u8
 
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="", Animal Planet
 http://stream.mcquack.net/114/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
-
-
-#EXTINF:-1 tvg-id="atv-filmzone" group-title="Movies", ATV Filmzone
-
-
-#EXTINF:-1 tvg-id="atv-kinoman" group-title="Movies", ATV Kinoman
-
 
 # B
 
@@ -481,7 +472,7 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 https://s70378.cdn.ngenix.net/rtvi/index.m3u8
 
 #EXTINF:-1 tvg-id="rutv" group-title="Music", RU.TV
-
+http://stream.mcquack.net/109/index.m3u8
 
 #EXTINF:-1 tvg-id="russian-musicbox" group-title="Music", Russian MusicBox
 
