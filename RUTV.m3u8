@@ -1224,10 +1224,10 @@ https://streaming.thestream.cyou/live/296.m3u8
 http://158.101.222.193:88/georgia_play.php?id=ctctv
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
-
+http://stream.mcquack.net/197/index.m3u8
 
 #EXTINF:-1 tvg-id="sts-love" group-title="Entertainment", СТС Love
-
+http://stream.mcquack.net/183/index.m3u8
 
 #EXTINF:-1 tvg-id="sarafan" group-title="Entertainment", Сарафан
 
@@ -1273,7 +1273,7 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 http://stream.mcquack.net/152/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt" group-title="Entertainment", ТНТ
-
+http://stream.mcquack.net/135/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt-int-cis" group-title="Entertainment", ТНТ-International
 https://streaming.thestream.cyou/live/38.m3u8
@@ -1282,7 +1282,7 @@ https://streaming.thestream.cyou/live/38.m3u8
 http://stream.mcquack.net/317/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt4" group-title="Entertainment", ТНТ4
-
+http://stream.mcquack.net/106/index.m3u8
 
 #EXTINF:-1 tvg-id="tnt4-international" group-title="Entertainment", ТНТ4 International
 
@@ -1330,7 +1330,7 @@ http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 # Х
 
 #EXTINF:-1 tvg-id="khit-hd" group-title="Movies", Хит HD
-
+http://stream.mcquack.net/363/index.m3u8
 
 # Ц
 
