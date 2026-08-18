@@ -158,37 +158,37 @@ http://176.118.197.101/Cartoon_Network/index.m3u8
 http://stream.mcquack.net/349/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-action" group-title="Movies", CineMan Action
-
+http://stream.mcquack.net/351/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-marvel" group-title="Movies", CineMan Marvel
 
 
 #EXTINF:-1 tvg-id="cineman-melodrama" group-title="Movies", CineMan Melodrama
-
+http://stream.mcquack.net/472/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-premium" group-title="Movies", CineMan Premium
 
 
 #EXTINF:-1 tvg-id="cineman-thriller" group-title="Movies", CineMan Thriller
-
+http://stream.mcquack.net/352/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-top" group-title="Movies", CineMan Top
-
+http://stream.mcquack.net/350/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-vhs" group-title="Movies", CineMan VHS
-
+http://stream.mcquack.net/474/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-katastrofy" group-title="Movies", CineMan Катастрофы
-
+http://stream.mcquack.net/471/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-comedy" group-title="Movies", CineMan Комедия
-
+http://stream.mcquack.net/356/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-lesnik" group-title="Movies", CineMan Лесник
-
+http://stream.mcquack.net/115/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-musw" group-title="Movies", CineMan Ментовские войны
-
+http://stream.mcquack.net/477/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-pes" group-title="Movies", CineMan ПёС
 
@@ -200,13 +200,13 @@ http://stream.mcquack.net/349/index.m3u8
 
 
 #EXTINF:-1 tvg-id="cineman-simps" group-title="Cartoon", CineMan Симпсоны
-
+http://stream.mcquack.net/476/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-skorpom" group-title="Movies", CineMan Скорая помощь
 
 
 #EXTINF:-1 tvg-id="cineman-uzhasy" group-title="Movies", CineMan Ужасы
-
+http://stream.mcquack.net/355/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemax" group-title="Movies", Cinemax
 
