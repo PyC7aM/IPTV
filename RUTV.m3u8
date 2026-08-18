@@ -52,9 +52,6 @@ http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 tvg-id="aiva" group-title="Music", AIVA
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Akudji
-
-
 #EXTINF:-1 tvg-id="amedia-hit" group-title="Movies", Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
 
@@ -85,15 +82,6 @@ http://stream.mcquack.net/114/index.m3u8
 
 
 #EXTINF:-1 tvg-id="baby-tv" group-title="Kids", Baby TV
-
-
-#EXTINF:-1 tvg-id="backustv" group-title="Movies", BackusTV
-
-
-#EXTINF:-1 tvg-id="backustv-horror" group-title="Movies", BackusTV Dark
-
-
-#EXTINF:-1 tvg-id="backustv-music" group-title="Music", BackusTV Music
 
 
 #EXTINF:-1 tvg-id="bbc" group-title="News", BBC
