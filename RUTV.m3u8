@@ -44,7 +44,7 @@ https://contact.gostreaming.tv/Con-11/index.m3u8
 # A
 
 #EXTINF:-1 tvg-id="amedia1" group-title="Movies", A1
-http://158.101.222.193:88/georgia_play.php?id=amedia
+http://stream.mcquack.net/117/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
@@ -59,16 +59,16 @@ http://158.101.222.193:88/georgia_play.php?id=amedia2
 http://stream.mcquack.net/162/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia-premium" group-title="Movies", Amedia Premium
-http://158.101.222.193:88/georgia_play.php?id=amediapremium
+http://stream.mcquack.net/151/index.m3u8
 
 #EXTINF:-1 tvg-id="amc" group-title="", AMC
 
 
 #EXTINF:-1 tvg-id="ani" group-title="Kids", Ani
-
+http://stream.mcquack.net/306/index.m3u8
 
 #EXTINF:-1 tvg-id="animal-planet-eu" group-title="", Animal Planet
-
+http://stream.mcquack.net/114/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", ATV Cineman
 
@@ -113,7 +113,7 @@ http://stream.mcquack.net/488/index.m3u8
 #EXTINF:-1 tvg-id="bollywood-hd" group-title="Movies", Bollywood
 
 
-#EXTINF:-1 tvg-id="bolt" group-title="", Bolt
+#EXTINF:-1 tvg-id="bolt-ru" group-title="", Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
 
 #EXTINF:-1 tvg-id="bravo" group-title="Entertainment", Bravo
@@ -152,10 +152,10 @@ http://176.118.197.101/Cartoon_Network/index.m3u8
 
 
 #EXTINF:-1 tvg-id="cinema-ru" group-title="Movies", Cinema
-http://catchup.videoline.ru/cinema/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="cineman" group-title="Movies", CineMan
-
+http://stream.mcquack.net/349/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-action" group-title="Movies", CineMan Action
 
