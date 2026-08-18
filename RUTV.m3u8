@@ -251,16 +251,16 @@ http://stream.mcquack.net/177/index.m3u8
 # F
 
 #EXTINF:-1 tvg-id="fanhd" group-title="Movies", FAN HD
-
+http://stream.mcquack.net/420/index.m3u8
 
 #EXTINF:-1 tvg-id="freeform" group-title="Movies", FreeForm
 
 
 #EXTINF:-1 tvg-id="fox" group-title="Movies", FX
+http://stream.mcquack.net/182/index.m3u8
 
-
-#EXTINF:-1 tvg-id="fox" group-title="Movies", FXX
-
+#EXTINF:-1 tvg-id="foxlife" group-title="Movies", FX Life
+http://stream.mcquack.net/129/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", FantasticMystiC 
 
@@ -338,17 +338,23 @@ http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 tvg-id="history-ru" group-title="", History
 
 
-#EXTINF:-1 tvg-id="hollywood" group-title="", Hollywood
-
+#EXTINF:-1 tvg-id="hollywood-hd" group-title="", Hollywood
+http://stream.mcquack.net/268/index.m3u8
 
 # I
 
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="", ID Xtra EU
-
+http://stream.mcquack.net/205/index.m3u8
 
 # J
 
 # K
+
+#EXTINF:-1 tvg-id="kino-1" group-title="Movies", Kino 1
+http://stream.mcquack.net/395/index.m3u8
+
+#EXTINF:-1 tvg-id="kino-1-hd" group-title="Movies", Kino 2
+http://stream.mcquack.net/465/index.m3u8
 
 #EXTINF:-1 tvg-id="kino-24" group-title="Movies", Kino 24
 
@@ -766,7 +772,7 @@ http://176.118.197.101/Evrokino/index.m3u8
 
 
 #EXTINF:-1 tvg-id="europa-plus-tv" group-title="Music", Европа Плюс ТВ
-
+http://stream.mcquack.net/184/index.m3u8
 
 #EXTINF:-1 tvg-id="enisey-region" group-title="Regional", Енисей регион
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
@@ -820,10 +826,10 @@ http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
 
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Sport", КХЛ HD
-
+http://stream.mcquack.net/178/index.m3u8
 
 #EXTINF:-1 tvg-id="kxl" group-title="Sport", КХЛ ТВ
-
+http://stream.mcquack.net/166/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" group-title="Religion", Каббала ТВ
 
