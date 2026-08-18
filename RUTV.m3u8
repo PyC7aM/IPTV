@@ -466,7 +466,7 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
 
 #EXTINF:-1 tvg-id="plan-b" group-title="", Plan B
-
+http://stream.mcquack.net/196/index.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Portal FoxMix TV
 
@@ -993,7 +993,7 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 http://195.26.83.96:7007/play/11/index.m3u8
 
 #EXTINF:-1 tvg-id="muzhskoe-kino" group-title="Movies", Мужское кино
-
+http://stream.mcquack.net/107/index.m3u8
 
 #EXTINF:-1 tvg-id="muztv" group-title="Music", Муз-ТВ
 
@@ -1016,7 +1016,7 @@ http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 # Н
 
 #EXTINF:-1 tvg-id="nst" group-title="Movies", НСТ
-
+http://stream.mcquack.net/207/index.m3u8
 
 #EXTINF:-1 tvg-id="ntv" group-title="General", НТВ
 https://cdn.ntv.ru/ntv0/playlist.m3u8
@@ -1343,7 +1343,7 @@ http://176.118.197.101/Che/index.m3u8
 
 
 #EXTINF:-1 tvg-id="shokiruyushchee-hd" group-title="Movies", Шокирующее HD
-
+http://stream.mcquack.net/75/index.m3u8
 
 # Щ
 
