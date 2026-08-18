@@ -416,10 +416,10 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 # N
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="", Nat Geo Wild
-
+http://stream.mcquack.net/149/index.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="", National Geographic
-
+http://stream.mcquack.net/116/index.m3u8
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Kids", Nick Jr
 
@@ -443,6 +443,9 @@ http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 
 #EXTINF:-1 tvg-id="ostwest" group-title="", OstWest
 
+
+#EXTINF:-1 tvg-id="ostwest24" group-title="", OstWest24
+http://stream.mcquack.net/455/index.m3u8
 
 # P
 
@@ -469,7 +472,7 @@ http://stream.mcquack.net/196/index.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 
 #EXTINF:-1 tvg-id="rtg-hd" group-title="Travel & Tourism", RTG HD 
-
+http://stream.mcquack.net/164/index.m3u8
 
 #EXTINF:-1 tvg-id="rtg-tv" group-title="Travel & Tourism", RTG TV
 
@@ -498,7 +501,7 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="start-air" group-title="Movies", Start Air
-
+http://stream.mcquack.net/128/index.m3u8
 
 #EXTINF:-1 tvg-id="start-world" group-title="Movies", Start World
 
@@ -565,16 +568,16 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tlc" group-title="", TLC
-
+http://stream.mcquack.net/168/index.m3u8
 
 #EXTINF:-1 tvg-id="trashtv" group-title="Movies", Trash
 
 
 #EXTINF:-1 tvg-id="travel-channel" group-title="Travel & Tourism", Travel Channel
-
+http://stream.mcquack.net/231/index.m3u8
 
 #EXTINF:-1 tvg-id="travel-adventure" group-title="Travel & Tourism", Travel+Adventure
-
+http://stream.mcquack.net/206/index.m3u8
 
 #EXTINF:-1 tvg-id="truTV" group-title="Entertainment", truTV
 
@@ -859,7 +862,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 https://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
-
+http://stream.mcquack.net/265/index.m3u8
 
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
@@ -871,7 +874,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinomiks
 
 
 #EXTINF:-1 tvg-id="kinosvidanie" group-title="Movies", Киносвидание
-
+http://stream.mcquack.net/171/index.m3u8
 
 #EXTINF:-1 tvg-id="kinosemiya" group-title="Movies", Киносемья
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
@@ -889,7 +892,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 http://158.101.222.193:88/georgia_play.php?id=kinohit
 
 #EXTINF:-1 tvg-id="komedijnoe-hd" group-title="", Комедийное HD
-
+http://stream.mcquack.net/74/index.m3u8
 
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="", Комедия
 http://176.118.197.101/Komediya/index.m3u8
@@ -1247,7 +1250,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="tv3-ru" group-title="Entertainment", ТВ3 
-
+http://stream.mcquack.net/136/index.m3u8
 
 #EXTINF:-1 tvg-id="tv3-by" group-title="Entertainment", ТВ3 Беларусь
 
