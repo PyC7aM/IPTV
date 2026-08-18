@@ -205,7 +205,7 @@ http://stream.mcquack.net/355/index.m3u8
 # D
 
 #EXTINF:-1 tvg-id="da-vinci" group-title="Kids", Da Vinci Learning
-
+http://stream.mcquack.net/238/index.m3u8
 
 #EXTINF:-1 tvg-id="deutsche-welle-eu" group-title="News", Deutsche Welle Europe
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
@@ -213,8 +213,8 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/stream
 #EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="News", Deutsche Welle Russia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 
-#EXTINF:-1 tvg-id="discovery-channel-ce" group-title="", Discovery Channel
-
+#EXTINF:-1 tvg-id="discovery-channel" group-title="", Discovery Channel
+http://stream.mcquack.net/177/index.m3u8
 
 #EXTINF:-1 tvg-id="discovery-science" group-title="", Discovery Science
 
