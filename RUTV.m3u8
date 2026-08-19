@@ -256,17 +256,14 @@ http://stream.mcquack.net/420/index.m3u8
 #EXTINF:-1 tvg-id="freeform" group-title="Movies", FreeForm
 
 
-#EXTINF:-1 tvg-id="fox" group-title="Movies", FX
-http://stream.mcquack.net/182/index.m3u8
-
-#EXTINF:-1 tvg-id="foxlife" group-title="Movies", FX Life
-http://stream.mcquack.net/129/index.m3u8
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", FantasticMystiC 
-
+#EXTINF:-1 tvg-id="fashion-one" group-title="Lifestyle", Fashion One
+http://stream.mcquack.net/119/index.m3u8
 
 #EXTINF:-1 tvg-id="fashion-tv" group-title="Lifestyle", Fashion TV
 
+
+#EXTINF:-1 tvg-id="world-fashion-channel-en" group-title="Lifestyle", World Fashion Channel
+http://stream.mcquack.net/287/index.m3u8
 
 #EXTINF:-1 tvg-id="fashionbox-hd" group-title="Lifestyle", FashionBOX
 
@@ -284,7 +281,7 @@ http://stream.mcquack.net/129/index.m3u8
 
 
 #EXTINF:-1 tvg-id="food-network" group-title="", Food Network
-
+http://stream.mcquack.net/298/index.m3u8
 
 #EXTINF:-1 tvg-id="fox" group-title="", Fox
 
@@ -300,6 +297,57 @@ http://stream.mcquack.net/129/index.m3u8
 
 #EXTINF:-1 tvg-id="france24-en" group-title="News", France 24 English
 
+
+#EXTINF:-1 tvg-id="fresh-adventure" group-title="Кино" tvg-rec="7", Fresh Adventure
+http://stream.mcquack.net/432/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-cinema" group-title="Кино" tvg-rec="7", Fresh Cinema
+http://stream.mcquack.net/423/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-comedy" group-title="Кино" tvg-rec="7", Fresh Comedy
+http://stream.mcquack.net/426/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-family" group-title="Кино" tvg-rec="7", Fresh Family
+http://stream.mcquack.net/427/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-fantastic" group-title="Кино" tvg-rec="7", Fresh Fantastic
+http://stream.mcquack.net/429/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-horror" group-title="Кино" tvg-rec="7", Fresh Horror
+http://stream.mcquack.net/431/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-kids" group-title="Кино" tvg-rec="7", Fresh Kids
+http://stream.mcquack.net/425/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-premiere" group-title="Кино" tvg-rec="7", Fresh Premiere
+http://stream.mcquack.net/424/index.m3u8
+
+#EXTINF:-1 tvg-id="Ffresh-rating" group-title="Кино" tvg-rec="7", Fresh Rating
+http://stream.mcquack.net/422/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-romantic" group-title="Кино" tvg-rec="7", Fresh Romantic
+http://stream.mcquack.net/433/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-russian" group-title="Кино" tvg-rec="7", Fresh Russian
+
+
+#EXTINF:-1 tvg-id="fresh-series" group-title="Кино" tvg-rec="7", Fresh Series
+http://stream.mcquack.net/430/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-soviet" group-title="Кино" tvg-rec="7", Fresh Soviet
+
+
+#EXTINF:-1 tvg-id="fresh-thriller" group-title="Кино" tvg-rec="7", Fresh Thriller
+http://stream.mcquack.net/434/index.m3u8
+
+#EXTINF:-1 tvg-id="fresh-vhs" group-title="Кино" tvg-rec="7", Fresh VHS
+http://stream.mcquack.net/428/index.m3u8
+
+#EXTINF:-1 tvg-id="fox" group-title="Movies", FX
+http://stream.mcquack.net/182/index.m3u8
+
+#EXTINF:-1 tvg-id="foxlife" group-title="Movies", FX Life
+http://stream.mcquack.net/129/index.m3u8
 
 # G
 
