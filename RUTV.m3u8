@@ -280,7 +280,7 @@ http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1 tvg-id="filmbox-ru" group-title="", FilmBox Russia
 
 
-#EXTINF:-1 tvg-id="food-network" group-title="", Food Network
+#EXTINF:-1 tvg-id="food-network-eu" group-title="", Food Network
 http://stream.mcquack.net/298/index.m3u8
 
 #EXTINF:-1 tvg-id="fox" group-title="", Fox
