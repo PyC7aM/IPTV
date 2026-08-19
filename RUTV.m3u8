@@ -2,13 +2,13 @@
 
 # Nos
 
-#EXTINF:-1 tvg-id="sony-turbo" group-title="Movies", .black
+#EXTINF:-1 tvg-id="sony-turbo" group-title="Movies" tvg-rec="7", .black
 http://stream.mcquack.net/263/index.m3u8
 
-#EXTINF:-1 tvg-id="sony-tv" group-title="", .red
+#EXTINF:-1 tvg-id="sony-tv" group-title="" tvg-rec="7", .red
 http://stream.mcquack.net/69/index.m3u8
 
-#EXTINF:-1 tvg-id="sony-scifi" group-title="", .sci-fi
+#EXTINF:-1 tvg-id="sony-scifi" group-title="" tvg-rec="7", .sci-fi
 http://stream.mcquack.net/180/index.m3u8
 
 #EXTINF:-1 tvg-id="10kanal-novokuzneck" group-title="Regional", 10 канал Новокузнецк
