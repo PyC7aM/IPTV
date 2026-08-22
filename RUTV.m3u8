@@ -47,7 +47,7 @@ https://contact.gostreaming.tv/Con-11/index.m3u8
 http://stream.mcquack.net/117/index.m3u8
 
 #EXTINF:-1 tvg-id="amedia2" group-title="Movies", A2
-http://158.101.222.193:88/georgia_play.php?id=amedia2
+
 
 #EXTINF:-1 tvg-id="aiva" group-title="Music", AIVA
 
@@ -700,7 +700,7 @@ http://stream.mcquack.net/110/index.m3u8
 http://stream.mcquack.net/100/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", Viju TV1000 Русское
-http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+
 
 #EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", Viju+ Comedy
 http://stream.mcquack.net/201/index.m3u8
@@ -732,7 +732,7 @@ http://stream.mcquack.net/333/index.m3u8
 # Z
 
 #EXTINF:-1 tvg-id="zoopark" group-title="", ZooПарк
-http://158.101.222.193:88/georgia_play.php?id=zoo
+
 
 # А
 
@@ -875,7 +875,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="illuzion-plus" group-title="Movies", Иллюзион +
-http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
 http://stream.mcquack.net/104/index.m3u8
@@ -903,13 +903,13 @@ http://stream.mcquack.net/166/index.m3u8
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ginger-hd" group-title="Kids", Капитан Фантастика
-
+http://stream.mcquack.net/144/index.m3u8
 
 #EXTINF:-1 tvg-id="karapuz-tv" group-title="Kids", Карапуз ТВ
 
 
 #EXTINF:-1 tvg-id="karusel" group-title="Kids", Карусель
-
+http://stream.mcquack.net/120/index.m3u8
 
 #EXTINF:-1 tvg-id="kvartal-tv" group-title="Entertainment", Квартал ТВ
 
@@ -921,16 +921,16 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kino-tv" group-title="Movies", КиноТВ
-https://vod.tuva.ru/kinotv/index.m3u8
+http://stream.mcquack.net/221/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
 http://stream.mcquack.net/265/index.m3u8
 
 #EXTINF:-1 tvg-id="kinomiks" group-title="Movies", Киномикс
-http://158.101.222.193:88/georgia_play.php?id=kinomiks
+http://stream.mcquack.net/133/index.m3u8
 
 #EXTINF:-1 tvg-id="kinopokaz" group-title="Movies", Кинопоказ
-
+http://stream.mcquack.net/64/index.m3u8
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
 
@@ -939,31 +939,31 @@ http://158.101.222.193:88/georgia_play.php?id=kinomiks
 http://stream.mcquack.net/171/index.m3u8
 
 #EXTINF:-1 tvg-id="kinosemiya" group-title="Movies", Киносемья
-http://158.101.222.193:88/georgia_play.php?id=kinosemya
+http://stream.mcquack.net/170/index.m3u8
 
 #EXTINF:-1 tvg-id="kinoseria" group-title="Movies", Киносерия
-http://158.101.222.193:88/georgia_play.php?id=kinoseria
+
 
 #EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
 
 
 #EXTINF:-1 tvg-id="kinouzhas" group-title="Movies", Киноужас
-http://158.101.222.193:88/georgia_play.php?id=kinoujas
+http://stream.mcquack.net/278/index.m3u8
 
 #EXTINF:-1 tvg-id="kinoxit" group-title="Movies", Кинохит
-http://158.101.222.193:88/georgia_play.php?id=kinohit
+http://stream.mcquack.net/126/index.m3u8
 
 #EXTINF:-1 tvg-id="komedijnoe-hd" group-title="", Комедийное HD
 http://stream.mcquack.net/74/index.m3u8
 
 #EXTINF:-1 tvg-id="russkaya-komedia" group-title="", Комедия
-http://176.118.197.101/Komediya/index.m3u8
+http://stream.mcquack.net/68/index.m3u8
 
 #EXTINF:-1 tvg-id="konny-mir" group-title="Sport", Конный мир
 
 
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="", Кухня ТВ
-
+http://stream.mcquack.net/179/index.m3u8
 
 # Л
 
@@ -974,7 +974,7 @@ http://176.118.197.101/Komediya/index.m3u8
 
 
 #EXTINF:-1 tvg-id="la-minor" group-title="Music", Ля-минор
-
+http://stream.mcquack.net/303/index.m3u8
 
 # М
 
@@ -985,37 +985,37 @@ http://176.118.197.101/Komediya/index.m3u8
 
 
 #EXTINF:-1 tvg-id="mama" group-title="Kids", Мама
+http://stream.mcquack.net/79/index.m3u8
 
-
-#EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч! HD
+#EXTINF:-1 tvg-id="match-tv" group-title="Sport", Матч!
 http://stream.mcquack.net/169/index.m3u8
 
 #EXTINF:-1 tvg-id="match-arena" group-title="Sport", Матч! Арена
-
+http://stream.mcquack.net/163/index.m3u8
 
 #EXTINF:-1 tvg-id="match-boets" group-title="Sport", Матч! Боец
 http://stream.mcquack.net/112/index.m3u8
 
 #EXTINF:-1 tvg-id="match-igra" group-title="Sport", Матч! Игра
-
-
-#EXTINF:-1 tvg-id="match-nash-sport" group-title="Sport", Матч! Наш спорт
-
+http://stream.mcquack.net/188/index.m3u8
 
 #EXTINF:-1 tvg-id="match-planeta" group-title="Sport", Матч! Планета
 
 
 #EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер HD
+http://stream.mcquack.net/193/index.m3u8
 
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Sport", Матч! СТРАНА
+http://stream.mcquack.net/143/index.m3u8
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Sport", Матч! Футбол 1
-
+http://stream.mcquack.net/130/index.m3u8
 
 #EXTINF:-1 tvg-id="match-football2" group-title="Sport", Матч! Футбол 2
-
+http://stream.mcquack.net/142/index.m3u8
 
 #EXTINF:-1 tvg-id="match-football3" group-title="Sport", Матч! Футбол 3
-
+http://stream.mcquack.net/185/index.m3u8
 
 #EXTINF:-1 tvg-id="millet" group-title="", Миллет
 https://live1.1tvcrimea.ru/milletlive.m3u8
@@ -1033,13 +1033,13 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="mosfilm" group-title="Movies", Мосфильм. Золотая коллекция
-http://178.134.1.158:8081/mosfilm/index.m3u8
+http://stream.mcquack.net/369/index.m3u8
 
 #EXTINF:-1 tvg-id="motorsportv-tv" group-title="Sport", Моторспорт ТВ
 
 
 #EXTINF:-1 tvg-id="moya-planeta" group-title="", Моя Планета
-
+http://stream.mcquack.net/124/index.m3u8
 
 #EXTINF:-1 tvg-id="muzhskoy" group-title="", Мужской
 http://195.26.83.96:7007/play/11/index.m3u8
@@ -1048,16 +1048,16 @@ http://195.26.83.96:7007/play/11/index.m3u8
 http://stream.mcquack.net/107/index.m3u8
 
 #EXTINF:-1 tvg-id="muztv" group-title="Music", Муз-ТВ
-
+http://stream.mcquack.net/86/index.m3u8
 
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Music", Музыка Первого
-
+http://stream.mcquack.net/153/index.m3u8
 
 #EXTINF:-1 tvg-id="mult" group-title="Kids", Мульт
-
+http://stream.mcquack.net/232/index.m3u8
 
 #EXTINF:-1 tvg-id="multimuzyka" group-title="Kids", Мульт и музыка
-
+http://stream.mcquack.net/82/index.m3u8
 
 #EXTINF:-1 tvg-id="multimania" group-title="Kids", Мультиландия
 
@@ -1092,16 +1092,19 @@ https://cdn.ntv.ru/th_hit/playlist.m3u8
 https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nano-tv" group-title="", Нано
-http://s1.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
+http://stream.mcquack.net/419/index.m3u8
 
 #EXTINF:-1 tvg-id="nano-hd" group-title="", Нано HD
 
 
 #EXTINF:-1 tvg-id="nauka-20" group-title="", Наука 2.0
-https://vod.tuva.ru/nauka2/index.m3u8
+http://stream.mcquack.net/125/index.m3u8
 
 #EXTINF:-1 tvg-id="nashehd" group-title="", Наше HD
+http://stream.mcquack.net/217/index.m3u8
 
+#EXTINF:-1 tvg-id="nashe-muzhskoe-hd" group-title="", Наше Мужское HD
+http://stream.mcquack.net/362/index.m3u8
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Movies", Наше новое кино
 
@@ -1118,7 +1121,7 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist
 # О
 
 #EXTINF:-1 tvg-id="o_" group-title="Kids", О!
-
+http://stream.mcquack.net/60/index.m3u8
 
 #EXTINF:-1 tvg-id="o2tv" group-title="Music", О2ТВ
 
@@ -1139,10 +1142,10 @@ http://stream.mcquack.net/214/index.m3u8
 
 
 #EXTINF:-1 tvg-id="oxota-i-rybalka" group-title="", Охота и рыбалка
-
+http://stream.mcquack.net/155/index.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov-hd" group-title="Sport", Охотник и рыболов HD
-
+http://stream.mcquack.net/194/index.m3u8
 
 # П
 
@@ -1177,7 +1180,7 @@ http://rtmp.one.by:1200
 
 
 #EXTINF:-1 tvg-id="perec-int" group-title="Entertainment", Перец Int
-http://158.101.222.193:88/georgia_play.php?id=perec
+http://stream.mcquack.net/121/index.m3u8
 
 #EXTINF:-1 tvg-id="pobeda" group-title="", Победа
 https://streaming.thestream.cyou/live/43.m3u8
@@ -1186,10 +1189,10 @@ https://streaming.thestream.cyou/live/43.m3u8
 
 
 #EXTINF:-1 tvg-id="premialnoe-hd" group-title="", Премиальное HD
-
+http://stream.mcquack.net/421/index.m3u8
 
 #EXTINF:-1 tvg-id="prikluchenia-hd" group-title="Travel & Tourism", Приключения HD
-
+http://stream.mcquack.net/198/index.m3u8
 
 #EXTINF:-1 tvg-id="pro-lyubov" group-title="", Про Любовь
 
@@ -1198,10 +1201,10 @@ https://streaming.thestream.cyou/live/43.m3u8
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 
 #EXTINF:-1 tvg-id="piatnica" group-title="Entertainment", Пятница
-https://vod.tuva.ru/friday/index.m3u8
+http://stream.mcquack.net/181/index.m3u8
 
 #EXTINF:-1 tvg-id="piatnica-int" group-title="Entertainment", Пятница International
-http://158.101.222.193:88/georgia_play.php?id=friday
+
 
 #EXTINF:-1 tvg-id="piaty-int" group-title="Movies", Пятый Int
 https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
@@ -1221,10 +1224,10 @@ https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
 
 
 #EXTINF:-1 tvg-id="retro-tv" group-title="Movies", Ретро ТВ
-
+http://stream.mcquack.net/191/index.m3u8
 
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Movies", Родное кино
-
+http://stream.mcquack.net/242/index.m3u8
 
 #EXTINF:-1 tvg-id="romantichnoe-hd" group-title="", Романтичное HD
 
@@ -1254,7 +1257,7 @@ http://stream.mcquack.net/204/index.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="Movies", Русский роман
-http://vod.tuva.ru/rusroman/index.m3u8
+http://stream.mcquack.net/266/index.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 
@@ -1265,13 +1268,13 @@ http://vod.tuva.ru/rusroman/index.m3u8
 # С
 
 #EXTINF:-1 tvg-id="sts" group-title="Entertainment", СТС
-http://176.118.197.101/CTC/index.m3u8
+http://stream.mcquack.net/138/index.m3u8
 
 #EXTINF:-1 tvg-id="sts-pl4" group-title="Entertainment", СТС (+4)
 https://streaming.thestream.cyou/live/296.m3u8
 
 #EXTINF:-1 tvg-id="sts-int" group-title="Entertainment", СТС International
-http://158.101.222.193:88/georgia_play.php?id=ctctv
+
 
 #EXTINF:-1 tvg-id="sts-kids-hd" group-title="Kids", СТС Kids HD
 http://stream.mcquack.net/197/index.m3u8
@@ -1280,7 +1283,7 @@ http://stream.mcquack.net/197/index.m3u8
 http://stream.mcquack.net/183/index.m3u8
 
 #EXTINF:-1 tvg-id="sarafan" group-title="Entertainment", Сарафан
-
+http://stream.mcquack.net/81/index.m3u8
 
 #EXTINF:-1 tvg-id="sever" group-title="Regional", Север
 
@@ -1304,7 +1307,7 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="super" group-title="Entertainment", Супер
-
+http://stream.mcquack.net/269/index.m3u8
 
 # Т
 
@@ -1353,7 +1356,7 @@ http://stream.mcquack.net/209/index.m3u8
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hd-life" group-title="", Точка.РФ
-http://158.101.222.193:88/georgia_play.php?id=hdlife
+http://stream.mcquack.net/161/index.m3u8
 
 #EXTINF:-1 tvg-id="tochka-tv" group-title="", Точка
 
@@ -1367,7 +1370,7 @@ http://5.188.159.128:8070/udar/index.m3u8
 
 
 #EXTINF:-1 tvg-id="usadba" group-title="", Усадьба
-
+http://stream.mcquack.net/211/index.m3u8
 
 # Ф
 
@@ -1375,7 +1378,7 @@ http://5.188.159.128:8070/udar/index.m3u8
 
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Movies", Феникс+ Кино
-http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+
 
 # Х
 
@@ -1411,8 +1414,5 @@ http://stream.mcquack.net/75/index.m3u8
 
 #EXTINF:-1 tvg-id="yu" group-title="Entertainment", Ю
 https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=9cPc1rCGu6M932eqrifRhQ&e=2066519758&scheme=https
-
-#EXTINF:-1 tvg-id="yurgan" group-title="Regional", Юрган
-
 
 # Я
