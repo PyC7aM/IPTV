@@ -121,6 +121,15 @@ http://stream.mcquack.net/320/index.m3u8
 
 # C
 
+#EXTINF:-1 tvg-id="cartoons-90" group-title="Kids", Cartoons 90
+http://stream.mcquack.net/484/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoons-big" group-title="Kids", Cartoons Big
+http://stream.mcquack.net/348/index.m3u8
+
+#EXTINF:-1 tvg-id="cartoons-short" group-title="Kids", Cartoons Short
+http://stream.mcquack.net/347/index.m3u8
+
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Kids", Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
 
@@ -145,8 +154,13 @@ http://stream.mcquack.net/351/index.m3u8
 #EXTINF:-1 tvg-id="cineman-melodrama" group-title="Movies", CineMan Melodrama
 http://stream.mcquack.net/472/index.m3u8
 
+#EXTINF:-1 tvg-id="cineman-miniseries" group-title="Movies", CineMan MiniSeries
+http://stream.mcquack.net/122/index.m3u8
+
 #EXTINF:-1 tvg-id="cineman-premium" group-title="Movies", CineMan Premium
 
+#EXTINF:-1 tvg-id="cineman-relax" group-title="Movies", CineMan Relax 4K
+http://stream.mcquack.net/459/index.m3u8
 
 #EXTINF:-1 tvg-id="cineman-thriller" group-title="Movies", CineMan Thriller
 http://stream.mcquack.net/352/index.m3u8
@@ -747,7 +761,7 @@ http://stream.mcquack.net/364/index.m3u8
 
 
 #EXTINF:-1 tvg-id="box-tv" group-title="Sport", Бокс ТВ
-
+http://stream.mcquack.net/154/index.m3u8
 
 # В
 
@@ -777,7 +791,7 @@ http://stream.mcquack.net/241/index.m3u8
 https://v2.catcast.tv/content/38720/index.m3u8
 
 #EXTINF:-1 tvg-id="dialogi-o-rybalke" group-title="Sport", Диалоги о рыбалке
-
+http://stream.mcquack.net/264/index.m3u8
 
 #EXTINF:-1 tvg-id="dikaya-oxota-hd" group-title="Sport", Дикая охота HD
 http://stream.mcquack.net/274/index.m3u8
@@ -792,10 +806,10 @@ http://hls127.freeott.top:8080/Dikiy/video.m3u8
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="doktor" group-title="", Доктор
-
+http://stream.mcquack.net/80/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino" group-title="Movies", Дом кино
-https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+http://stream.mcquack.net/236/index.m3u8
 
 #EXTINF:-1 tvg-id="domkino-premium" group-title="", Дом кино премиум HD
 http://stream.mcquack.net/108/index.m3u8
@@ -812,12 +826,12 @@ http://stream.mcquack.net/227/index.m3u8
 
 
 #EXTINF:-1 tvg-id="dushevnoe" group-title="", Душевное
-
+http://stream.mcquack.net/213/index.m3u8
 
 # Е
 
 #EXTINF:-1 tvg-id="evrokino" group-title="Movies", Еврокино
-http://176.118.197.101/Evrokino/index.m3u8
+http://stream.mcquack.net/385/index.m3u8
 
 #EXTINF:-1 tvg-id="eda-hd" group-title="", Еда Премиум
 
@@ -833,7 +847,7 @@ http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 # Ж
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара
-
+http://stream.mcquack.net/386/index.m3u8
 
 #EXTINF:-1 tvg-id="zhara" group-title="Music", Жара Kids TV
 
@@ -864,7 +878,7 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Movies", Индийское кино
-http://158.101.222.193:88/georgia_play.php?id=indiyskoekino
+http://stream.mcquack.net/104/index.m3u8
 
 #EXTINF:-1 tvg-id="istoria" group-title="", История
 
@@ -1228,10 +1242,10 @@ http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Movies", Русский бестселлер
-
+http://stream.mcquack.net/208/index.m3u8
 
 #EXTINF:-1 tvg-id="russky-detektiv" group-title="Movies", Русский детектив
-
+http://stream.mcquack.net/204/index.m3u8
 
 #EXTINF:-1 tvg-id="russky-ekstrim" group-title="", Русский экстрим
 
@@ -1333,7 +1347,7 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
 #EXTINF:-1 tvg-id="texno-24" group-title="", Техно 24
-
+http://stream.mcquack.net/209/index.m3u8
 
 #EXTINF:-1 tvg-id="tolk" group-title="", Толк HD
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
