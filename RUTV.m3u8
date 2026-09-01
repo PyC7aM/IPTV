@@ -1233,13 +1233,13 @@ http://stream.mcquack.net/242/index.m3u8
 
 
 #EXTINF:-1 tvg-id="rossia1" group-title="General", Россия
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 
 #EXTINF:-1 tvg-id="rossia-24" group-title="News", Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+http://77.232.131.211/Rossiya24/index.m3u8
 
 #EXTINF:-1 tvg-id="kultura" group-title="Entertainment", Россия К
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+http://stream.mcquack.net/229/index.m3u8
 
 #EXTINF:-1 tvg-id="rostov-papa" group-title="Regional", Ростов-папа
 
