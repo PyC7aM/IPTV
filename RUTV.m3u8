@@ -131,7 +131,7 @@ http://stream.mcquack.net/348/index.m3u8
 http://stream.mcquack.net/347/index.m3u8
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Kids", Cartoon Network
-http://176.118.197.101/Cartoon_Network/index.m3u8
+
 
 #EXTINF:-1 tvg-id="cbs-reality" group-title="Entertainment", CBS Reality
 
@@ -1390,7 +1390,7 @@ http://stream.mcquack.net/363/index.m3u8
 # Ч
 
 #EXTINF:-1 tvg-id="che" group-title="Entertainment", Че
-http://176.118.197.101/Che/index.m3u8
+
 
 # Ш
 
