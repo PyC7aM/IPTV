@@ -933,7 +933,7 @@ http://stream.mcquack.net/133/index.m3u8
 http://stream.mcquack.net/64/index.m3u8
 
 #EXTINF:-1 tvg-id="kinopremiera-hd" group-title="Movies", Кинопремьера
-
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 
 #EXTINF:-1 tvg-id="kinosvidanie" group-title="Movies", Киносвидание
 http://stream.mcquack.net/171/index.m3u8
@@ -942,7 +942,7 @@ http://stream.mcquack.net/171/index.m3u8
 http://stream.mcquack.net/170/index.m3u8
 
 #EXTINF:-1 tvg-id="kinoseria" group-title="Movies", Киносерия
-
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="kinosat" group-title="", Киносат
 
@@ -971,7 +971,7 @@ http://stream.mcquack.net/179/index.m3u8
 
 
 #EXTINF:-1 tvg-id="lubimoe-kino" group-title="Movies", Любимое кино
-
+http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 
 #EXTINF:-1 tvg-id="la-minor" group-title="Music", Ля-минор
 http://stream.mcquack.net/303/index.m3u8
@@ -1000,7 +1000,7 @@ http://stream.mcquack.net/112/index.m3u8
 http://stream.mcquack.net/188/index.m3u8
 
 #EXTINF:-1 tvg-id="match-planeta" group-title="Sport", Матч! Планета
-
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 
 #EXTINF:-1 tvg-id="match-premier" group-title="Sport", Матч! Премьер HD
 http://stream.mcquack.net/193/index.m3u8
@@ -1107,7 +1107,7 @@ http://stream.mcquack.net/217/index.m3u8
 http://stream.mcquack.net/362/index.m3u8
 
 #EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Movies", Наше новое кино
-
+http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", Новое радио
 
