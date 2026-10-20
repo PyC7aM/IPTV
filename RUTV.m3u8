@@ -1109,7 +1109,7 @@ http://hls127.freeott.top:8080/Nashe_Novoe_Kino_HD/video.m3u8
 
 
 #EXTINF:-1 tvg-id="novy-vek-tambov" group-title="General", Новый век
-http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="novy-mir" group-title="General", Новый мир
 
