@@ -1350,6 +1350,9 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-id="tvoetv-humor" group-title="Entertainment", Твоё ТВ - ЮМОР
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 
+#EXTINF:-1 tvg-id="telekafe" group-title="", Телекафе
+http://stream.mcquack.net/314/index.m3u8
+
 #EXTINF:-1 tvg-id="tolk" group-title="", Толк HD
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
@@ -1371,9 +1374,6 @@ http://5.188.159.128:8070/udar/index.m3u8
 http://stream.mcquack.net/211/index.m3u8
 
 # Ф
-
-#EXTINF:-1 tvg-id="no_epg_cinema" group-title="Movies", Фантастика Sci-Fi
-
 
 #EXTINF:-1 tvg-id="feniks-plus-kino" group-title="Movies", Феникс+ Кино
 
