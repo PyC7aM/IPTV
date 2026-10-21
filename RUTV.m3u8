@@ -483,9 +483,6 @@ http://stream.mcquack.net/116/index.m3u8
 #EXTINF:-1 tvg-id="nicktoons" group-title="Kids", Nicktoons
 
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="nsc+" tvg-logo="https://psv4.userapi.com/s/v1/d2/yFy-4oe_DADOxs5kYrnokZHnmNDSzMLWwrHVFhidXl4b2a-hm-INnvKrGcwIwS65hEDiGSL0LTGXnkFZkanNbmHxQ9fMjKItG8NO5G0VhBcSe8onsSNw8BaLka0osbB-24B4GxljnaNl/NSC.png" group-title="Movies", nsc+
-http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-
 # O
 
 #EXTINF:-1 tvg-id="oceon-tv" group-title="", Ocean TV
