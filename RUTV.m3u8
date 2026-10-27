@@ -81,7 +81,7 @@ http://stream.mcquack.net/488/index.m3u8
 
 
 #EXTINF:-1 tvg-id="bolt-ru" group-title="", Bolt
-http://hls127.freeott.top:8080/Bolt/video.m3u8
+
 
 #EXTINF:-1 tvg-id="bravo" group-title="Entertainment", Bravo
 
