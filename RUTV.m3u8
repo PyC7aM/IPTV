@@ -1307,7 +1307,7 @@ http://stream.mcquack.net/269/index.m3u8
 #EXTINF:-1 tvg-id="texno-24" group-title="", Т24
 http://stream.mcquack.net/209/index.m3u8
 
-#EXTINF:-1 tvg-id="tv21m" group-title="", ТВ-21М
+#EXTINF:-1 tvg-id="tv21m" tvg-name="ТВ-21М" group-title="", ТВ-21М
 http://stream.mcquack.net/152/index.m3u8
 
 #EXTINF:-1 tvg-id="tvcentr" group-title="Entertainment", ТВ Центр
