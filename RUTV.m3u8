@@ -672,46 +672,46 @@ http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 tvg-id="vip-premiere-cee" group-title="Movies", ViP Premiere CEE
 
 
-#EXTINF:-1 tvg-id="viasat-explore" group-title="", Viju Explore
+#EXTINF:-1 tvg-id="viasat-explore" group-title="", viju Explore
 http://46.53.200.153:7777/play/a01i/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-history" group-title="", Viju History
+#EXTINF:-1 tvg-id="viasat-history" group-title="", viju History
 http://46.53.200.153:7777/play/a01j/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-nature" group-title="Nature", Viju Nature
+#EXTINF:-1 tvg-id="viasat-nature" group-title="Nature", viju Nature
 http://46.53.200.153:7777/play/a01k/index.m3u8
 
-#EXTINF:-1 tvg-id="tv1000" group-title="Movies", Viju TV1000
+#EXTINF:-1 tvg-id="tv1000" group-title="Movies", viju TV1000
 http://46.53.200.153:7777/play/TV_1000/index.m3u8
 
-#EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", Viju TV1000 Action
+#EXTINF:-1 tvg-id="tv1000-action" group-title="Movies", viju TV1000 Action
 http://46.53.200.153:7777/play/a01h/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Movies", Viju TV1000 Novell
-http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="Movies", Viju TV1000 Romantica
-http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
-
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", Viju TV1000 Русское
+#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Movies", viju TV1000 Русское
 http://46.53.200.153:7777/play/a01g/index.m3u8
 
-#EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", Viju+ Comedy
+#EXTINF:-1 tvg-id="viju-tv1000-novella" group-title="Movies", viju TV1000 Новелла
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+
+#EXTINF:-1 tvg-id="viju-tv1000-romantica" group-title="Movies", viju TV1000 romantica
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+
+#EXTINF:-1 tvg-id="vip-comedy" group-title="Movies", viju+ Comedy
 http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", Viju+ Megahit
+#EXTINF:-1 tvg-id="vip-megahit" group-title="Movies", viju+ Megahit
 http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Nature", Viju+ Planet
+#EXTINF:-1 tvg-id="viasat-nature-history-hd" group-title="Nature", viju+ Planet
 http://stream.mcquack.net/240/index.m3u8
 
-#EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", Viju+ Premiere
+#EXTINF:-1 tvg-id="vip-premiere" group-title="Movies", viju+ Premiere
 http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8
 
-#EXTINF:-1 tvg-id="vip-serial" group-title="Movies", Viju+ Serial
+#EXTINF:-1 tvg-id="vip-serial" group-title="Movies", viju+ Serial
 http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8
 
-#EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", Viju+ Sport
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Sport", viju+ Sport
 http://46.53.200.153:7777/play/a01l/index.m3u8
 
 #EXTINF:-1 tvg-id="viva-rus" group-title="Music", VIVA Russia
