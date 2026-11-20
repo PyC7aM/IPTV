@@ -660,7 +660,7 @@ http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="no_epg_music" group-title="Music", VH1
 
 
-#EXTINF:-1 tvg-id="" group-title="Movies", Viasat Epic Drama
+#EXTINF:-1 tvg-id="epic-drama" group-title="Movies", Viasat Epic Drama
 http://195.189.60.253/118/index.m3u8
 
 #EXTINF:-1 tvg-id="vip-comedy-cee" group-title="Movies", ViP Comedy CEE
