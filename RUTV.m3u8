@@ -732,7 +732,7 @@ https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="sony-tv" group-title="" tvg-rec="7", .red
-
+http://178.134.1.158:8081/red/index.m3u8
 
 #EXTINF:-1 tvg-id="sony-scifi" group-title="" tvg-rec="7", .sci-fi
 
