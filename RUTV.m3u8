@@ -923,7 +923,7 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kino-tv" group-title="Movies", КиноТВ
-http://stream.mcquack.net/221/index.m3u8
+https://vod.tuva.ru/kinotv/index.m3u8
 
 #EXTINF:-1 tvg-id="kinokomedia" group-title="Movies", Кинокомедия
 http://stream.mcquack.net/265/index.m3u8
@@ -1259,7 +1259,7 @@ http://stream.mcquack.net/204/index.m3u8
 
 
 #EXTINF:-1 tvg-id="russky-roman" group-title="Movies", Русский роман
-http://stream.mcquack.net/266/index.m3u8
+http://vod.tuva.ru/rusroman/index.m3u8
 
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" group-title="Sport", Рыболов
 
