@@ -630,7 +630,7 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="", TV XXI
-
+http://178.134.1.158:8081/TVXXI/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000-cee" group-title="Movies", TV1000 CEE
 
